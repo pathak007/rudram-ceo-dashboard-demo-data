@@ -1,0 +1,25 @@
+AccountCode,AccountName,AccountClass,CostGroup,Behaviour,CostCategoryKey,IsGrossWages
+200,Cleaning Income,Revenue,Revenue,,,False
+475,Wages - Casual Cleaners,Expense,Labour,Variable,,True
+476,Superannuation & On-costs - Casual Cleaners,Expense,Labour,Variable,,False
+477,Wages - Permanent Cleaning Team,Expense,Labour,Fixed,,True
+478,Superannuation & On-costs - Permanent Team,Expense,Labour,Fixed,,False
+310,Cleaning Chemicals,Expense,Consumables,Variable,CHEM,False
+311,Paper & Consumables,Expense,Consumables,Variable,PAPER,False
+312,Equipment Hire & Maintenance,Expense,Consumables,Variable,EQUIP,False
+313,PPE & Uniform Consumables,Expense,Consumables,Variable,PPE,False
+314,Fuel & Vehicle Running,Expense,Consumables,Variable,VEH,False
+480,Wages - Director (Admin & Quoting),Expense,Overheads,Fixed,,True
+481,Superannuation - Director,Expense,Overheads,Fixed,,False
+433,Insurance,Expense,Overheads,Fixed,,False
+449,Motor Vehicle Finance & Rego,Expense,Overheads,Fixed,,False
+485,Software Subscriptions,Expense,Overheads,Fixed,,False
+489,Telephone & Internet,Expense,Overheads,Fixed,,False
+400,Advertising & Marketing,Expense,Overheads,Fixed,,False
+412,Accounting & Bookkeeping,Expense,Overheads,Fixed,,False
+404,Bank & Merchant Fees,Expense,Overheads,Fixed,,False
+461,Uniforms & Sundries,Expense,Overheads,Fixed,,False
+970,Owner Drawings / Dividends,Equity,Excluded,,,False
+820,GST,Liability,Excluded,,,False
+825,PAYG Withholdings Payable,Liability,Excluded,,,False
+826,Superannuation Payable,Liability,Excluded,,,False

@@ -1,0 +1,340 @@
+SiteKey,ClientKey,SiteName,SuburbKey,SiteSizeBand
+ST0001,C0001,"E. Evans home, Bayswater",SB02,3x2
+ST0002,C0002,"H. Grant home, Leeming",SB19,3x2
+ST0003,C0003,"W. Zhang home, Belmont",SB21,2x1
+ST0004,C0004,"H. Mitchell home, Osborne Park",SB05,2x1
+ST0005,C0005,"W. Owen home, Como",SB15,2x1
+ST0006,C0006,"R. Taylor home, Maylands",SB24,3x2
+ST0007,C0007,"E. Owen home, Canning Vale",SB18,3x2
+ST0008,C0008,"N. Clarke home, Bentley",SB20,2x1
+ST0009,C0009,"A. Zhang home, Canning Vale",SB18,3x2
+ST0010,C0010,"R. Sutton home, Subiaco",SB10,3x2
+ST0011,C0011,"A. Hill home, Osborne Park",SB05,2x1
+ST0012,C0012,"C. Doyle home, Mount Lawley",SB12,2x1
+ST0013,C0013,"R. Clarke home, Scarborough",SB06,2x1
+ST0014,C0014,"E. Shaw home, Kewdale",SB25,2x1
+ST0015,C0015,"B. Byrne home, Kewdale",SB25,2x1
+ST0016,C0016,"R. Patel home, Innaloo",SB08,2x1
+ST0017,C0017,"G. Lim home, Osborne Park",SB05,2x1
+ST0018,C0018,"H. Parker home, Dianella",SB03,2x1
+ST0019,C0019,"E. Gill home, Dianella",SB03,2x1
+ST0020,C0020,"N. Hughes home, Innaloo",SB08,2x1
+ST0021,C0021,"M. Sharma home, Joondanna",SB04,2x1
+ST0022,C0022,"J. Thompson home, Leederville",SB11,2x1
+ST0023,C0023,"E. Lynch home, Applecross",SB16,2x1
+ST0024,C0024,"M. Sharma home, Scarborough",SB06,2x1
+ST0025,C0025,"Northside Physio, Osborne Park",SB05,Commercial
+ST0026,C0026,"Harbour Accounting, West Perth",SB09,Commercial
+ST0027,C0027,"Cityside Dental, Subiaco",SB10,Commercial
+ST0028,C0028,"Greenway Vet Clinic, Bentley",SB20,Commercial
+ST0029,C0029,"Riverside Strata (SP 41207), Como",SB15,Commercial
+ST0030,C0030,"Leeming Gardens Strata, Leeming",SB19,Commercial
+ST0031,C0031,"Bayview Strata (SP 55120), Applecross",SB16,Commercial
+ST0032,C0032,"NDIS Participant 1042, Midland",SB23,Home
+ST0033,C0033,"NDIS Participant 1077, Maylands",SB24,Home
+ST0034,C0034,"NDIS Participant 1103, Belmont",SB21,Home
+ST0035,C0035,"NDIS Participant 1131, Bayswater",SB02,Home
+ST0036,C0036,"NDIS Participant 1158, Morley",SB01,Home
+ST0037,C0037,"3x2 house, Joondanna",SB04,3x2 house
+ST0038,C0038,"4x2 house, Innaloo",SB08,4x2 house
+ST0039,C0039,"3x2 house, Victoria Park",SB13,3x2 house
+ST0040,C0040,"3x2 house, Scarborough",SB06,3x2 house
+ST0041,C0041,"Windows inside & out, up to 10, Karrinyup",SB07,Windows inside & out
+ST0042,C0022,"Windows inside & out, 10 to 20, Leederville",SB11,Windows inside & out
+ST0043,C0042,"Deep clean, 4x2 house, Dianella",SB03,Deep clean
+ST0044,C0021,"Windows inside & out, 10 to 20, Joondanna",SB04,Windows inside & out
+ST0045,C0043,"Carpet steam clean, 3 rooms, Innaloo",SB08,Carpet steam clean
+ST0046,C0008,"Carpet steam clean, 3 rooms, Bentley",SB20,Carpet steam clean
+ST0047,C0044,"One-off spring clean, Morley",SB01,One-off spring clean
+ST0048,C0045,"One-off spring clean, Midland",SB23,One-off spring clean
+ST0049,C0046,"Pre-sale clean, Leeming",SB19,Pre-sale clean
+ST0050,C0047,"3x2 house, Subiaco",SB10,3x2 house
+ST0051,C0040,"3x2 house, Innaloo",SB08,3x2 house
+ST0052,C0048,"2-bed unit, Como",SB15,2-bed unit
+ST0053,C0049,"Carpet steam clean, 3 rooms, Dianella",SB03,Carpet steam clean
+ST0054,C0050,"Deep clean, 3x2 house, Midland",SB23,Deep clean
+ST0055,C0051,"Carpet steam clean, 3 rooms, Karrinyup",SB07,Carpet steam clean
+ST0056,C0052,"Windows inside & out, up to 10, Scarborough",SB06,Windows inside & out
+ST0057,C0053,"Windows inside & out, up to 10, Como",SB15,Windows inside & out
+ST0058,C0054,"One-off spring clean, Kewdale",SB25,One-off spring clean
+ST0059,C0055,"One-off spring clean, Innaloo",SB08,One-off spring clean
+ST0060,C0056,"Pre-sale clean, Midland",SB23,Pre-sale clean
+ST0061,C0057,"One-off spring clean, Midland",SB23,One-off spring clean
+ST0062,C0058,"Pre-sale clean, Kewdale",SB25,Pre-sale clean
+ST0063,C0059,"4x2 house, Applecross",SB16,4x2 house
+ST0064,C0060,"3x2 house, Kewdale",SB25,3x2 house
+ST0065,C0015,"Windows inside & out, up to 10, Kewdale",SB25,Windows inside & out
+ST0066,C0061,"Carpet steam clean, whole house, Karrinyup",SB07,Carpet steam clean
+ST0067,C0017,"Carpet steam clean, 3 rooms, Osborne Park",SB05,Carpet steam clean
+ST0068,C0009,"Carpet steam clean, whole house, Canning Vale",SB18,Carpet steam clean
+ST0069,C0019,"Deep clean, 4x2 house, Dianella",SB03,Deep clean
+ST0070,C0062,"Deep clean, 3x2 house, Canning Vale",SB18,Deep clean
+ST0071,C0063,"Windows inside & out, 10 to 20, Maylands",SB24,Windows inside & out
+ST0072,C0064,"Carpet steam clean, whole house, Leeming",SB19,Carpet steam clean
+ST0073,C0065,"One-off spring clean, Como",SB15,One-off spring clean
+ST0074,C0066,"After-party clean, Joondanna",SB04,After-party clean
+ST0075,C0067,"One-off spring clean, Cloverdale",SB22,One-off spring clean
+ST0076,C0068,"One-off spring clean, Osborne Park",SB05,One-off spring clean
+ST0077,C0069,"Office one-off clean, Kewdale",SB25,Office one-off clean
+ST0078,C0070,"One-off spring clean, Willetton",SB17,One-off spring clean
+ST0079,C0071,"Pre-sale clean, Mount Lawley",SB12,Pre-sale clean
+ST0080,C0072,"One-off spring clean, Cloverdale",SB22,One-off spring clean
+ST0081,C0073,"G. Kerr home, Kewdale",SB25,2x1
+ST0082,C0047,"4x2 house, West Perth",SB09,4x2 house
+ST0083,C0074,"2-bed unit, Como",SB15,2-bed unit
+ST0084,C0075,"4x2 house, Karrinyup",SB07,4x2 house
+ST0085,C0076,"2-bed unit, Midland",SB23,2-bed unit
+ST0086,C0077,"1-bed apartment, East Perth",SB14,1-bed apartment
+ST0087,C0047,"3x2 house, East Perth",SB14,3x2 house
+ST0088,C0078,"Carpet steam clean, 3 rooms, Maylands",SB24,Carpet steam clean
+ST0089,C0079,"Deep clean, 3x2 house, Scarborough",SB06,Deep clean
+ST0090,C0010,"Deep clean, 3x2 house, Subiaco",SB10,Deep clean
+ST0091,C0080,"Windows inside & out, 10 to 20, East Perth",SB14,Windows inside & out
+ST0092,C0081,"Deep clean, 3x2 house, Dianella",SB03,Deep clean
+ST0093,C0001,"Deep clean, 3x2 house, Bayswater",SB02,Deep clean
+ST0094,C0082,"Deep clean, 3x2 house, Midland",SB23,Deep clean
+ST0095,C0083,"Windows inside & out, up to 10, Bayswater",SB02,Windows inside & out
+ST0096,C0084,"Windows inside & out, up to 10, Canning Vale",SB18,Windows inside & out
+ST0097,C0014,"Windows inside & out, 10 to 20, Kewdale",SB25,Windows inside & out
+ST0098,C0085,"Deep clean, 3x2 house, Canning Vale",SB18,Deep clean
+ST0099,C0086,"After-party clean, Dianella",SB03,After-party clean
+ST0100,C0087,"After-party clean, Subiaco",SB10,After-party clean
+ST0101,C0088,"One-off spring clean, Maylands",SB24,One-off spring clean
+ST0102,C0047,"3x2 house, Scarborough",SB06,3x2 house
+ST0103,C0040,"2-bed unit, Como",SB15,2-bed unit
+ST0104,C0089,"1-bed apartment, Dianella",SB03,1-bed apartment
+ST0105,C0090,"3x2 house, Midland",SB23,3x2 house
+ST0106,C0091,"3x2 house, Karrinyup",SB07,3x2 house
+ST0107,C0092,"1-bed apartment, Bayswater",SB02,1-bed apartment
+ST0108,C0047,"3x2 house, Karrinyup",SB07,3x2 house
+ST0109,C0014,"Deep clean, 3x2 house, Kewdale",SB25,Deep clean
+ST0110,C0093,"Carpet steam clean, whole house, Leeming",SB19,Carpet steam clean
+ST0111,C0012,"Deep clean, 3x2 house, Mount Lawley",SB12,Deep clean
+ST0112,C0094,"Windows inside & out, up to 10, Morley",SB01,Windows inside & out
+ST0113,C0095,"Deep clean, 3x2 house, Mount Lawley",SB12,Deep clean
+ST0114,C0005,"Deep clean, 3x2 house, Como",SB15,Deep clean
+ST0115,C0020,"Carpet steam clean, whole house, Innaloo",SB08,Carpet steam clean
+ST0116,C0096,"Deep clean, 3x2 house, Belmont",SB21,Deep clean
+ST0117,C0097,"Windows inside & out, up to 10, Mount Lawley",SB12,Windows inside & out
+ST0118,C0098,"Carpet steam clean, 3 rooms, Bentley",SB20,Carpet steam clean
+ST0119,C0099,"Office one-off clean, Dianella",SB03,Office one-off clean
+ST0120,C0100,"After-party clean, Dianella",SB03,After-party clean
+ST0121,C0101,"One-off spring clean, Joondanna",SB04,One-off spring clean
+ST0122,C0102,"One-off spring clean, Leeming",SB19,One-off spring clean
+ST0123,C0103,"Office one-off clean, Karrinyup",SB07,Office one-off clean
+ST0124,C0104,"Pre-sale clean, Subiaco",SB10,Pre-sale clean
+ST0125,C0105,"One-off spring clean, Dianella",SB03,One-off spring clean
+ST0126,C0106,"Pre-sale clean, Applecross",SB16,Pre-sale clean
+ST0127,C0107,"One-off spring clean, Morley",SB01,One-off spring clean
+ST0128,C0108,"One-off spring clean, Cloverdale",SB22,One-off spring clean
+ST0129,C0109,"N. Nguyen home, Como",SB15,2x1
+ST0130,C0076,"4x2 house, Bayswater",SB02,4x2 house
+ST0131,C0089,"3x2 house, Dianella",SB03,3x2 house
+ST0132,C0047,"2-bed unit, Leeming",SB19,2-bed unit
+ST0133,C0110,"4x2 house, West Perth",SB09,4x2 house
+ST0134,C0111,"2-bed unit, Morley",SB01,2-bed unit
+ST0135,C0076,"1-bed apartment, Leeming",SB19,1-bed apartment
+ST0136,C0112,"Deep clean, 3x2 house, Belmont",SB21,Deep clean
+ST0137,C0113,"Deep clean, 3x2 house, Scarborough",SB06,Deep clean
+ST0138,C0114,"Deep clean, 3x2 house, West Perth",SB09,Deep clean
+ST0139,C0007,"Carpet steam clean, 3 rooms, Canning Vale",SB18,Carpet steam clean
+ST0140,C0115,"Deep clean, 4x2 house, Victoria Park",SB13,Deep clean
+ST0141,C0116,"Carpet steam clean, whole house, Dianella",SB03,Carpet steam clean
+ST0142,C0117,"Windows inside & out, up to 10, Kewdale",SB25,Windows inside & out
+ST0143,C0118,"Deep clean, 3x2 house, Osborne Park",SB05,Deep clean
+ST0144,C0119,"Carpet steam clean, 3 rooms, Joondanna",SB04,Carpet steam clean
+ST0145,C0120,"One-off spring clean, Canning Vale",SB18,One-off spring clean
+ST0146,C0121,"One-off spring clean, Willetton",SB17,One-off spring clean
+ST0147,C0122,"Office one-off clean, Mount Lawley",SB12,Office one-off clean
+ST0148,C0123,"Pre-sale clean, Como",SB15,Pre-sale clean
+ST0149,C0124,"Pre-sale clean, Leederville",SB11,Pre-sale clean
+ST0150,C0125,"Pre-sale clean, Cloverdale",SB22,Pre-sale clean
+ST0151,C0126,"One-off spring clean, Kewdale",SB25,One-off spring clean
+ST0152,C0127,"One-off spring clean, Joondanna",SB04,One-off spring clean
+ST0153,C0128,"2-bed unit, Osborne Park",SB05,2-bed unit
+ST0154,C0089,"3x2 house, Mount Lawley",SB12,3x2 house
+ST0155,C0129,"4x2 house, Victoria Park",SB13,4x2 house
+ST0156,C0089,"1-bed apartment, Kewdale",SB25,1-bed apartment
+ST0157,C0040,"4x2 house, Scarborough",SB06,4x2 house
+ST0158,C0130,"2-bed unit, East Perth",SB14,2-bed unit
+ST0159,C0131,"2-bed unit, East Perth",SB14,2-bed unit
+ST0160,C0132,"1-bed apartment, Karrinyup",SB07,1-bed apartment
+ST0161,C0133,"Deep clean, 3x2 house, Como",SB15,Deep clean
+ST0162,C0134,"Carpet steam clean, whole house, Belmont",SB21,Carpet steam clean
+ST0163,C0003,"Carpet steam clean, whole house, Belmont",SB21,Carpet steam clean
+ST0164,C0135,"Deep clean, 3x2 house, Karrinyup",SB07,Deep clean
+ST0165,C0003,"Windows inside & out, 10 to 20, Belmont",SB21,Windows inside & out
+ST0166,C0136,"Carpet steam clean, 3 rooms, Midland",SB23,Carpet steam clean
+ST0167,C0137,"Deep clean, 3x2 house, Canning Vale",SB18,Deep clean
+ST0168,C0011,"Deep clean, 3x2 house, Osborne Park",SB05,Deep clean
+ST0169,C0138,"Deep clean, 4x2 house, Mount Lawley",SB12,Deep clean
+ST0170,C0139,"Deep clean, 3x2 house, Willetton",SB17,Deep clean
+ST0171,C0140,"Pre-sale clean, Dianella",SB03,Pre-sale clean
+ST0172,C0141,"One-off spring clean, Scarborough",SB06,One-off spring clean
+ST0173,C0142,"Office one-off clean, Leeming",SB19,Office one-off clean
+ST0174,C0143,"After-party clean, Canning Vale",SB18,After-party clean
+ST0175,C0144,"Office one-off clean, Bentley",SB20,Office one-off clean
+ST0176,C0145,"2-bed unit, Innaloo",SB08,2-bed unit
+ST0177,C0146,"1-bed apartment, Mount Lawley",SB12,1-bed apartment
+ST0178,C0147,"Windows inside & out, up to 10, Osborne Park",SB05,Windows inside & out
+ST0179,C0148,"Windows inside & out, 10 to 20, Victoria Park",SB13,Windows inside & out
+ST0180,C0149,"Deep clean, 3x2 house, Victoria Park",SB13,Deep clean
+ST0181,C0073,"Carpet steam clean, 3 rooms, Kewdale",SB25,Carpet steam clean
+ST0182,C0150,"Windows inside & out, up to 10, Cloverdale",SB22,Windows inside & out
+ST0183,C0151,"Carpet steam clean, 3 rooms, Kewdale",SB25,Carpet steam clean
+ST0184,C0152,"Windows inside & out, 10 to 20, East Perth",SB14,Windows inside & out
+ST0185,C0153,"Deep clean, 3x2 house, Joondanna",SB04,Deep clean
+ST0186,C0154,"Deep clean, 3x2 house, Como",SB15,Deep clean
+ST0187,C0155,"Windows inside & out, up to 10, Karrinyup",SB07,Windows inside & out
+ST0188,C0156,"Pre-sale clean, Leederville",SB11,Pre-sale clean
+ST0189,C0157,"One-off spring clean, Bayswater",SB02,One-off spring clean
+ST0190,C0158,"Office one-off clean, Applecross",SB16,Office one-off clean
+ST0191,C0159,"Pre-sale clean, West Perth",SB09,Pre-sale clean
+ST0192,C0160,"One-off spring clean, Como",SB15,One-off spring clean
+ST0193,C0161,"Office one-off clean, West Perth",SB09,Office one-off clean
+ST0194,C0162,"Pre-sale clean, Kewdale",SB25,Pre-sale clean
+ST0195,C0163,"Pre-sale clean, Applecross",SB16,Pre-sale clean
+ST0196,C0164,"One-off spring clean, Maylands",SB24,One-off spring clean
+ST0197,C0165,"4x2 house, Victoria Park",SB13,4x2 house
+ST0198,C0166,"2-bed unit, Cloverdale",SB22,2-bed unit
+ST0199,C0167,"1-bed apartment, Leederville",SB11,1-bed apartment
+ST0200,C0016,"Windows inside & out, up to 10, Innaloo",SB08,Windows inside & out
+ST0201,C0168,"Carpet steam clean, 3 rooms, Innaloo",SB08,Carpet steam clean
+ST0202,C0169,"Carpet steam clean, whole house, Morley",SB01,Carpet steam clean
+ST0203,C0008,"Carpet steam clean, 3 rooms, Bentley",SB20,Carpet steam clean
+ST0204,C0170,"Carpet steam clean, 3 rooms, Karrinyup",SB07,Carpet steam clean
+ST0205,C0171,"Deep clean, 3x2 house, Midland",SB23,Deep clean
+ST0206,C0172,"Windows inside & out, up to 10, Bentley",SB20,Windows inside & out
+ST0207,C0173,"Windows inside & out, up to 10, Kewdale",SB25,Windows inside & out
+ST0208,C0174,"One-off spring clean, Leeming",SB19,One-off spring clean
+ST0209,C0047,"2-bed unit, Belmont",SB21,2-bed unit
+ST0210,C0175,"3x2 house, Karrinyup",SB07,3x2 house
+ST0211,C0176,"2-bed unit, Belmont",SB21,2-bed unit
+ST0212,C0177,"3x2 house, Karrinyup",SB07,3x2 house
+ST0213,C0178,"Carpet steam clean, whole house, Dianella",SB03,Carpet steam clean
+ST0214,C0179,"Windows inside & out, up to 10, Dianella",SB03,Windows inside & out
+ST0215,C0180,"Windows inside & out, up to 10, Como",SB15,Windows inside & out
+ST0216,C0181,"Carpet steam clean, whole house, Bayswater",SB02,Carpet steam clean
+ST0217,C0182,"Deep clean, 3x2 house, Leederville",SB11,Deep clean
+ST0218,C0073,"Deep clean, 3x2 house, Kewdale",SB25,Deep clean
+ST0219,C0183,"Carpet steam clean, whole house, Midland",SB23,Carpet steam clean
+ST0220,C0184,"Windows inside & out, 10 to 20, Belmont",SB21,Windows inside & out
+ST0221,C0185,"Windows inside & out, up to 10, Belmont",SB21,Windows inside & out
+ST0222,C0186,"Carpet steam clean, 3 rooms, Subiaco",SB10,Carpet steam clean
+ST0223,C0187,"Windows inside & out, 10 to 20, Belmont",SB21,Windows inside & out
+ST0224,C0017,"Carpet steam clean, 3 rooms, Osborne Park",SB05,Carpet steam clean
+ST0225,C0188,"Carpet steam clean, 3 rooms, Belmont",SB21,Carpet steam clean
+ST0226,C0189,"After-party clean, Osborne Park",SB05,After-party clean
+ST0227,C0190,"One-off spring clean, Joondanna",SB04,One-off spring clean
+ST0228,C0191,"One-off spring clean, Canning Vale",SB18,One-off spring clean
+ST0229,C0192,"One-off spring clean, Willetton",SB17,One-off spring clean
+ST0230,C0193,"M. Taylor home, East Perth",SB14,2x1
+ST0231,C0040,"2-bed unit, Bayswater",SB02,2-bed unit
+ST0232,C0194,"1-bed apartment, West Perth",SB09,1-bed apartment
+ST0233,C0076,"1-bed apartment, Midland",SB23,1-bed apartment
+ST0234,C0195,"1-bed apartment, Morley",SB01,1-bed apartment
+ST0235,C0196,"2-bed unit, Joondanna",SB04,2-bed unit
+ST0236,C0197,"3x2 house, Joondanna",SB04,3x2 house
+ST0237,C0019,"Carpet steam clean, whole house, Dianella",SB03,Carpet steam clean
+ST0238,C0198,"Deep clean, 3x2 house, Willetton",SB17,Deep clean
+ST0239,C0199,"Windows inside & out, up to 10, Morley",SB01,Windows inside & out
+ST0240,C0015,"Deep clean, 3x2 house, Kewdale",SB25,Deep clean
+ST0241,C0200,"One-off spring clean, Canning Vale",SB18,One-off spring clean
+ST0242,C0201,"Pre-sale clean, Canning Vale",SB18,Pre-sale clean
+ST0243,C0202,"One-off spring clean, Victoria Park",SB13,One-off spring clean
+ST0244,C0203,"One-off spring clean, Leeming",SB19,One-off spring clean
+ST0245,C0204,"2-bed unit, Subiaco",SB10,2-bed unit
+ST0246,C0205,"2-bed unit, Applecross",SB16,2-bed unit
+ST0247,C0040,"3x2 house, Willetton",SB17,3x2 house
+ST0248,C0089,"3x2 house, Joondanna",SB04,3x2 house
+ST0249,C0206,"1-bed apartment, Mount Lawley",SB12,1-bed apartment
+ST0250,C0207,"4x2 house, Leeming",SB19,4x2 house
+ST0251,C0089,"1-bed apartment, Osborne Park",SB05,1-bed apartment
+ST0252,C0208,"1-bed apartment, West Perth",SB09,1-bed apartment
+ST0253,C0008,"Deep clean, 3x2 house, Bentley",SB20,Deep clean
+ST0254,C0209,"Carpet steam clean, 3 rooms, Cloverdale",SB22,Carpet steam clean
+ST0255,C0210,"Windows inside & out, up to 10, Osborne Park",SB05,Windows inside & out
+ST0256,C0012,"Carpet steam clean, 3 rooms, Mount Lawley",SB12,Carpet steam clean
+ST0257,C0211,"Deep clean, 3x2 house, Subiaco",SB10,Deep clean
+ST0258,C0212,"Windows inside & out, 10 to 20, Scarborough",SB06,Windows inside & out
+ST0259,C0007,"Carpet steam clean, whole house, Canning Vale",SB18,Carpet steam clean
+ST0260,C0213,"One-off spring clean, East Perth",SB14,One-off spring clean
+ST0261,C0214,"One-off spring clean, Belmont",SB21,One-off spring clean
+ST0262,C0215,"After-party clean, Morley",SB01,After-party clean
+ST0263,C0216,"Pre-sale clean, Bentley",SB20,Pre-sale clean
+ST0264,C0217,"One-off spring clean, Scarborough",SB06,One-off spring clean
+ST0265,C0218,"One-off spring clean, Leederville",SB11,One-off spring clean
+ST0266,C0219,"Pre-sale clean, Leeming",SB19,Pre-sale clean
+ST0267,C0220,"Pre-sale clean, East Perth",SB14,Pre-sale clean
+ST0268,C0221,"After-party clean, Maylands",SB24,After-party clean
+ST0269,C0222,"After-party clean, Como",SB15,After-party clean
+ST0270,C0223,"After-party clean, Morley",SB01,After-party clean
+ST0271,C0224,"One-off spring clean, Joondanna",SB04,One-off spring clean
+ST0272,C0040,"2-bed unit, East Perth",SB14,2-bed unit
+ST0273,C0047,"2-bed unit, Leederville",SB11,2-bed unit
+ST0274,C0225,"2-bed unit, Bentley",SB20,2-bed unit
+ST0275,C0226,"2-bed unit, Subiaco",SB10,2-bed unit
+ST0276,C0227,"3x2 house, Scarborough",SB06,3x2 house
+ST0277,C0076,"2-bed unit, Como",SB15,2-bed unit
+ST0278,C0228,"Carpet steam clean, 3 rooms, Applecross",SB16,Carpet steam clean
+ST0279,C0229,"Carpet steam clean, 3 rooms, Applecross",SB16,Carpet steam clean
+ST0280,C0230,"Deep clean, 4x2 house, East Perth",SB14,Deep clean
+ST0281,C0231,"Deep clean, 3x2 house, Midland",SB23,Deep clean
+ST0282,C0232,"Deep clean, 3x2 house, Belmont",SB21,Deep clean
+ST0283,C0019,"Windows inside & out, up to 10, Dianella",SB03,Windows inside & out
+ST0284,C0233,"After-party clean, Karrinyup",SB07,After-party clean
+ST0285,C0234,"After-party clean, Leederville",SB11,After-party clean
+ST0286,C0235,"One-off spring clean, Leederville",SB11,One-off spring clean
+ST0287,C0236,"After-party clean, Midland",SB23,After-party clean
+ST0288,C0237,"S. Dunn home, West Perth",SB09,2x1
+ST0289,C0047,"2-bed unit, West Perth",SB09,2-bed unit
+ST0290,C0047,"3x2 house, Maylands",SB24,3x2 house
+ST0291,C0238,"2-bed unit, Bentley",SB20,2-bed unit
+ST0292,C0239,"2-bed unit, Leederville",SB11,2-bed unit
+ST0293,C0240,"3x2 house, Belmont",SB21,3x2 house
+ST0294,C0241,"Deep clean, 3x2 house, East Perth",SB14,Deep clean
+ST0295,C0242,"Carpet steam clean, 3 rooms, West Perth",SB09,Carpet steam clean
+ST0296,C0243,"Windows inside & out, up to 10, Como",SB15,Windows inside & out
+ST0297,C0244,"Deep clean, 3x2 house, Canning Vale",SB18,Deep clean
+ST0298,C0245,"Carpet steam clean, 3 rooms, Scarborough",SB06,Carpet steam clean
+ST0299,C0246,"Windows inside & out, up to 10, Maylands",SB24,Windows inside & out
+ST0300,C0247,"Deep clean, 4x2 house, Joondanna",SB04,Deep clean
+ST0301,C0248,"Carpet steam clean, 3 rooms, Bayswater",SB02,Carpet steam clean
+ST0302,C0249,"Windows inside & out, up to 10, Cloverdale",SB22,Windows inside & out
+ST0303,C0250,"Office one-off clean, Innaloo",SB08,Office one-off clean
+ST0304,C0251,"One-off spring clean, Scarborough",SB06,One-off spring clean
+ST0305,C0252,"Pre-sale clean, Innaloo",SB08,Pre-sale clean
+ST0306,C0253,"Office one-off clean, East Perth",SB14,Office one-off clean
+ST0307,C0254,"One-off spring clean, West Perth",SB09,One-off spring clean
+ST0308,C0255,"Pre-sale clean, Victoria Park",SB13,Pre-sale clean
+ST0309,C0256,"W. Kaur home, Dianella",SB03,2x1
+ST0310,C0257,"3x2 house, Belmont",SB21,3x2 house
+ST0311,C0258,"2-bed unit, Applecross",SB16,2-bed unit
+ST0312,C0259,"1-bed apartment, Joondanna",SB04,1-bed apartment
+ST0313,C0260,"3x2 house, Osborne Park",SB05,3x2 house
+ST0314,C0261,"4x2 house, Como",SB15,4x2 house
+ST0315,C0262,"3x2 house, Applecross",SB16,3x2 house
+ST0316,C0263,"2-bed unit, Victoria Park",SB13,2-bed unit
+ST0317,C0264,"Carpet steam clean, 3 rooms, Innaloo",SB08,Carpet steam clean
+ST0318,C0265,"Carpet steam clean, whole house, Karrinyup",SB07,Carpet steam clean
+ST0319,C0266,"Carpet steam clean, 3 rooms, East Perth",SB14,Carpet steam clean
+ST0320,C0267,"Windows inside & out, up to 10, East Perth",SB14,Windows inside & out
+ST0321,C0268,"Deep clean, 3x2 house, West Perth",SB09,Deep clean
+ST0322,C0269,"Windows inside & out, up to 10, Morley",SB01,Windows inside & out
+ST0323,C0016,"Deep clean, 3x2 house, Innaloo",SB08,Deep clean
+ST0324,C0270,"Windows inside & out, 10 to 20, Bentley",SB20,Windows inside & out
+ST0325,C0271,"Carpet steam clean, whole house, Maylands",SB24,Carpet steam clean
+ST0326,C0272,"Pre-sale clean, Dianella",SB03,Pre-sale clean
+ST0327,C0273,"Pre-sale clean, Mount Lawley",SB12,Pre-sale clean
+ST0328,C0274,"Office one-off clean, Leeming",SB19,Office one-off clean
+ST0329,C0275,"After-party clean, West Perth",SB09,After-party clean
+ST0330,C0276,"Office one-off clean, Joondanna",SB04,Office one-off clean
+ST0331,C0277,"3x2 house, Dianella",SB03,3x2 house
+ST0332,C0040,"2-bed unit, Morley",SB01,2-bed unit
+ST0333,C0278,"Windows inside & out, up to 10, Bentley",SB20,Windows inside & out
+ST0335,C0279,"Deep clean, 3x2 house, Applecross",SB16,Deep clean
+ST0336,C0280,"Windows inside & out, up to 10, Bentley",SB20,Windows inside & out
+ST0343,C0287,"One-off spring clean, Willetton",SB17,One-off spring clean
+ST0346,C0290,"One-off spring clean, West Perth",SB09,One-off spring clean
+ST0347,C0291,"One-off spring clean, Applecross",SB16,One-off spring clean
+ST0348,C0292,"Office one-off clean, Mount Lawley",SB12,Office one-off clean

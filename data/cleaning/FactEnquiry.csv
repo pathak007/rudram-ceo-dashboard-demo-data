@@ -1,0 +1,648 @@
+EnquiryID,EnquiryDate,Source,ClientTypeKey,ServiceTypeKey,QuotedValueExGST,Outcome,DecisionDate,LostReason,ClientKey
+ENQ-2000,2025-07-01,NDIS coordinator,RES,SPC,235.0,Won,2025-07-04,,C0021
+ENQ-2001,2025-07-03,Referral,RES,ADH,235.0,Won,2025-07-04,,C0045
+ENQ-2002,2025-07-03,Google search,RES,ADH,335.0,Lost,2025-07-15,Timing did not suit,
+ENQ-2003,2025-07-03,Website form,RES,ADH,330.0,Lost,2025-07-15,No response after quote,
+ENQ-2004,2025-07-05,Website form,RES,SPC,145.0,Won,2025-07-08,,C0041
+ENQ-2005,2025-07-06,Property manager,EOL,EOL,440.0,Won,2025-07-08,,C0039
+ENQ-2006,2025-07-07,Property manager,RES,ADH,275.0,Won,2025-07-07,,C0046
+ENQ-2007,2025-07-07,Facebook,RES,ADH,310.0,Lost,2025-07-11,Changed plans,
+ENQ-2008,2025-07-10,Property manager,RES,SPC,160.0,Lost,2025-07-18,Went with another cleaner,
+ENQ-2009,2025-07-13,Property manager,RES,SPC,270.0,Lost,2025-07-15,Price too high,
+ENQ-2010,2025-07-13,Google search,RES,ADH,220.0,Lost,2025-07-17,Went with another cleaner,
+ENQ-2011,2025-07-15,Google search,RES,SPC,170.0,Won,2025-07-17,,C0008
+ENQ-2012,2025-07-15,Facebook,RES,SPC,180.0,Won,2025-07-15,,C0043
+ENQ-2013,2025-07-16,Google search,EOL,EOL,420.0,Lost,2025-07-18,No response after quote,
+ENQ-2014,2025-07-17,Website form,RES,SPC,155.0,Lost,2025-07-26,Price too high,
+ENQ-2015,2025-07-18,Google search,RES,SPC,265.0,Won,2025-07-19,,C0022
+ENQ-2016,2025-07-18,Google search,RES,ADH,300.0,Lost,2025-07-24,Went with another cleaner,
+ENQ-2017,2025-07-19,Property manager,RES,SPC,215.0,Lost,2025-07-23,Changed plans,
+ENQ-2018,2025-07-22,Website form,RES,SPC,155.0,Lost,2025-08-03,Went with another cleaner,
+ENQ-2019,2025-07-28,Referral,RES,SPC,295.0,Lost,2025-08-05,Went with another cleaner,
+ENQ-2020,2025-07-30,Referral,RES,ADH,300.0,Won,2025-08-02,,C0056
+ENQ-2021,2025-07-31,Property manager,RES,SPC,135.0,Won,2025-07-31,,C0052
+ENQ-2022,2025-08-01,Google search,RES,SPC,180.0,Won,2025-08-01,,C0051
+ENQ-2023,2025-08-01,NDIS coordinator,EOL,EOL,360.0,Lost,2025-08-13,Changed plans,
+ENQ-2024,2025-08-01,Referral,RES,SPC,145.0,Lost,2025-08-08,Timing did not suit,
+ENQ-2025,2025-08-02,Google search,EOL,EOL,415.0,Won,2025-08-05,,C0040
+ENQ-2026,2025-08-04,Referral,RES,SPC,190.0,Lost,2025-08-09,Timing did not suit,
+ENQ-2027,2025-08-04,Facebook,EOL,EOL,395.0,Lost,2025-08-11,Timing did not suit,
+ENQ-2028,2025-08-05,Property manager,RES,ADH,225.0,Won,2025-08-08,,C0054
+ENQ-2029,2025-08-06,Referral,RES,ADH,310.0,Won,2025-08-08,,C0058
+ENQ-2030,2025-08-08,Google search,EOL,EOL,325.0,Lost,2025-08-10,Timing did not suit,
+ENQ-2031,2025-08-09,Google search,RES,SPC,135.0,Won,2025-08-09,,C0053
+ENQ-2032,2025-08-09,Google search,RES,ADH,220.0,Won,2025-08-12,,C0055
+ENQ-2033,2025-08-10,Property manager,EOL,EOL,360.0,Won,2025-08-11,,C0048
+ENQ-2034,2025-08-11,Referral,RES,SPC,425.0,Lost,2025-08-14,Timing did not suit,
+ENQ-2035,2025-08-14,Google search,RES,SPC,365.0,Won,2025-08-16,,C0050
+ENQ-2036,2025-08-14,Property manager,EOL,EOL,365.0,Lost,2025-08-23,Changed plans,
+ENQ-2037,2025-08-15,Google search,EOL,EOL,365.0,Lost,2025-08-23,No response after quote,
+ENQ-2038,2025-08-15,Website form,RES,SPC,160.0,Lost,2025-08-21,No response after quote,
+ENQ-2039,2025-08-16,Property manager,EOL,EOL,420.0,Won,2025-08-18,,C0047
+ENQ-2040,2025-08-16,Website form,EOL,EOL,395.0,Lost,2025-08-26,Changed plans,
+ENQ-2041,2025-08-18,Website form,RES,SPC,180.0,Won,2025-08-19,,C0049
+ENQ-2042,2025-08-21,Google search,RES,ADH,210.0,Lost,2025-08-27,Price too high,
+ENQ-2043,2025-08-21,NDIS coordinator,RES,ADH,245.0,Lost,2025-08-31,Timing did not suit,
+ENQ-2044,2025-08-23,Property manager,RES,SPC,180.0,Won,2025-08-26,,C0017
+ENQ-2045,2025-08-24,Google search,RES,ADH,220.0,Won,2025-08-27,,C0070
+ENQ-2046,2025-08-26,Referral,RES,ADH,210.0,Won,2025-08-28,,C0057
+ENQ-2047,2025-08-28,Google search,RES,SPC,135.0,Won,2025-08-28,,C0015
+ENQ-2048,2025-08-28,Referral,RES,ADH,175.0,Won,2025-08-31,,C0066
+ENQ-2049,2025-08-28,Property manager,RES,SPC,340.0,Lost,2025-09-04,Went with another cleaner,
+ENQ-2050,2025-08-29,Google search,RES,SPC,415.0,Won,2025-08-30,,C0019
+ENQ-2051,2025-08-29,Google search,RES,SPC,260.0,Won,2025-09-01,,C0063
+ENQ-2052,2025-08-29,Referral,RES,ADH,305.0,Won,2025-08-30,,C0071
+ENQ-2053,2025-08-30,Referral,EOL,EOL,350.0,Lost,2025-09-06,Price too high,
+ENQ-2054,2025-08-31,Website form,EOL,EOL,455.0,Lost,2025-09-10,Timing did not suit,
+ENQ-2055,2025-09-01,Property manager,EOL,EOL,540.0,Won,2025-09-02,,C0059
+ENQ-2056,2025-09-01,Facebook,COMM,ADH,245.0,Lost,2025-09-06,No response after quote,
+ENQ-2057,2025-09-01,Referral,RES,SPC,240.0,Lost,2025-09-04,No response after quote,
+ENQ-2058,2025-09-02,Google search,RES,SPC,260.0,Lost,2025-09-06,Changed plans,
+ENQ-2059,2025-09-03,Google search,RES,SPC,225.0,Lost,2025-09-11,No response after quote,
+ENQ-2060,2025-09-03,NDIS coordinator,RES,SPC,260.0,Lost,2025-09-10,Changed plans,
+ENQ-2061,2025-09-03,Facebook,COMM,ADH,265.0,Lost,2025-09-09,Went with another cleaner,
+ENQ-2062,2025-09-04,Referral,RES,ADH,210.0,Won,2025-09-07,,C0065
+ENQ-2063,2025-09-04,Google search,EOL,EOL,515.0,Lost,2025-09-14,Timing did not suit,
+ENQ-2064,2025-09-04,Google search,RES,SPC,235.0,Lost,2025-09-06,No response after quote,
+ENQ-2065,2025-09-05,Property manager,RES,ADH,205.0,Won,2025-09-06,,C0072
+ENQ-2066,2025-09-06,Website form,RES,SPC,225.0,Won,2025-09-06,,C0061
+ENQ-2067,2025-09-07,Google search,RES,SPC,265.0,Lost,2025-09-15,Changed plans,
+ENQ-2068,2025-09-08,Referral,COMM,ADH,225.0,Won,2025-09-09,,C0069
+ENQ-2069,2025-09-09,Facebook,RES,SPC,225.0,Won,2025-09-10,,C0009
+ENQ-2070,2025-09-09,Property manager,EOL,EOL,510.0,Lost,2025-09-21,No response after quote,
+ENQ-2071,2025-09-10,Property manager,RES,SPC,330.0,Won,2025-09-11,,C0062
+ENQ-2072,2025-09-10,Google search,EOL,EOL,555.0,Lost,2025-09-21,Price too high,
+ENQ-2073,2025-09-14,Property manager,RES,SPC,385.0,Lost,2025-09-18,Timing did not suit,
+ENQ-2074,2025-09-15,Referral,EOL,EOL,600.0,Lost,2025-09-26,Went with another cleaner,
+ENQ-2075,2025-09-18,NDIS coordinator,RES,ADH,220.0,Lost,2025-09-20,Went with another cleaner,
+ENQ-2076,2025-09-18,Referral,RES,ADH,210.0,Lost,2025-09-30,Changed plans,
+ENQ-2077,2025-09-18,Facebook,RES,ADH,190.0,Lost,2025-09-27,No response after quote,
+ENQ-2078,2025-09-19,NDIS coordinator,RES,SPC,235.0,Won,2025-09-22,,C0064
+ENQ-2079,2025-09-19,Property manager,EOL,EOL,535.0,Won,2025-09-20,,C0047
+ENQ-2080,2025-09-19,Referral,RES,SPC,385.0,Lost,2025-09-26,Changed plans,
+ENQ-2081,2025-09-20,Website form,RES,ADH,205.0,Won,2025-09-22,,C0068
+ENQ-2082,2025-09-21,Referral,EOL,EOL,470.0,Won,2025-09-24,,C0060
+ENQ-2083,2025-09-21,Referral,RES,SPC,315.0,Lost,2025-09-25,No response after quote,
+ENQ-2084,2025-09-21,Property manager,RES,SPC,250.0,Lost,2025-10-02,No response after quote,
+ENQ-2085,2025-09-22,Referral,RES,ADH,205.0,Won,2025-09-22,,C0067
+ENQ-2086,2025-09-22,Google search,EOL,EOL,350.0,Won,2025-09-25,,C0076
+ENQ-2087,2025-09-23,Facebook,RES,ADH,200.0,Lost,2025-09-29,No response after quote,
+ENQ-2088,2025-09-23,Facebook,RES,SPC,240.0,Lost,2025-10-01,Changed plans,
+ENQ-2089,2025-09-24,Google search,EOL,EOL,610.0,Won,2025-09-26,,C0075
+ENQ-2090,2025-09-25,Referral,RES,ADH,170.0,Won,2025-09-26,,C0086
+ENQ-2091,2025-09-26,Property manager,RES,SPC,345.0,Won,2025-09-27,,C0079
+ENQ-2092,2025-09-26,Property manager,COMM,ADH,250.0,Lost,2025-10-07,Changed plans,
+ENQ-2093,2025-09-28,Referral,RES,SPC,205.0,Lost,2025-10-03,No response after quote,
+ENQ-2094,2025-09-29,NDIS coordinator,RES,SPC,355.0,Won,2025-10-01,,C0010
+ENQ-2095,2025-09-30,Website form,EOL,EOL,515.0,Lost,2025-10-05,Price too high,
+ENQ-2096,2025-09-30,Google search,RES,SPC,325.0,Lost,2025-10-05,Price too high,
+ENQ-2097,2025-09-30,Referral,EOL,EOL,635.0,Lost,2025-10-06,Changed plans,
+ENQ-2098,2025-10-01,Referral,RES,ADH,320.0,Lost,2025-10-07,No response after quote,
+ENQ-2099,2025-10-01,Google search,RES,SPC,125.0,Lost,2025-10-07,Changed plans,
+ENQ-2100,2025-10-02,Website form,RES,SPC,170.0,Won,2025-10-05,,C0078
+ENQ-2101,2025-10-02,Referral,RES,SPC,350.0,Lost,2025-10-13,Went with another cleaner,
+ENQ-2102,2025-10-03,Referral,RES,SPC,380.0,Won,2025-10-04,,C0085
+ENQ-2103,2025-10-03,Website form,RES,SPC,330.0,Won,2025-10-06,,C0081
+ENQ-2104,2025-10-03,Facebook,RES,SPC,240.0,Won,2025-10-06,,C0080
+ENQ-2105,2025-10-04,Referral,RES,ADH,335.0,Lost,2025-10-13,Timing did not suit,
+ENQ-2106,2025-10-04,Referral,RES,ADH,315.0,Lost,2025-10-15,Timing did not suit,
+ENQ-2107,2025-10-05,Referral,COMM,ADH,235.0,Lost,2025-10-10,Went with another cleaner,
+ENQ-2108,2025-10-05,Website form,COMM,ADH,250.0,Lost,2025-10-14,Price too high,
+ENQ-2109,2025-10-08,Property manager,EOL,EOL,280.0,Won,2025-10-09,,C0077
+ENQ-2110,2025-10-09,Facebook,RES,SPC,125.0,Lost,2025-10-15,No response after quote,
+ENQ-2111,2025-10-09,Google search,EOL,EOL,395.0,Lost,2025-10-14,Timing did not suit,
+ENQ-2112,2025-10-09,NDIS coordinator,RES,ADH,195.0,Lost,2025-10-18,No response after quote,
+ENQ-2113,2025-10-10,Google search,EOL,EOL,420.0,Won,2025-10-10,,C0047
+ENQ-2114,2025-10-11,Facebook,RES,SPC,380.0,Won,2025-10-12,,C0001
+ENQ-2115,2025-10-11,Google search,EOL,EOL,385.0,Won,2025-10-14,,C0074
+ENQ-2116,2025-10-11,NDIS coordinator,RES,SPC,440.0,Lost,2025-10-13,Timing did not suit,
+ENQ-2117,2025-10-11,Google search,EOL,EOL,455.0,Lost,2025-10-16,Timing did not suit,
+ENQ-2118,2025-10-11,Referral,RES,SPC,240.0,Lost,2025-10-21,No response after quote,
+ENQ-2119,2025-10-12,Referral,RES,SPC,155.0,Lost,2025-10-15,Went with another cleaner,
+ENQ-2120,2025-10-13,Property manager,RES,ADH,210.0,Won,2025-10-16,,C0088
+ENQ-2121,2025-10-13,NDIS coordinator,RES,SPC,165.0,Lost,2025-10-24,Changed plans,
+ENQ-2122,2025-10-14,Property manager,RES,ADH,310.0,Lost,2025-10-17,No response after quote,
+ENQ-2123,2025-10-15,Referral,RES,SPC,345.0,Won,2025-10-17,,C0082
+ENQ-2124,2025-10-15,Google search,RES,ADH,315.0,Lost,2025-10-22,No response after quote,
+ENQ-2125,2025-10-16,Property manager,RES,SPC,240.0,Won,2025-10-18,,C0014
+ENQ-2126,2025-10-17,Google search,RES,SPC,365.0,Lost,2025-10-26,Timing did not suit,
+ENQ-2127,2025-10-17,Google search,RES,SPC,120.0,Lost,2025-10-29,Went with another cleaner,
+ENQ-2128,2025-10-17,Google search,RES,SPC,455.0,Lost,2025-10-22,Timing did not suit,
+ENQ-2129,2025-10-18,Google search,RES,ADH,225.0,Won,2025-10-18,,C0108
+ENQ-2130,2025-10-18,Property manager,RES,SPC,135.0,Lost,2025-10-23,Price too high,
+ENQ-2131,2025-10-18,Property manager,RES,ADH,245.0,Lost,2025-10-29,Timing did not suit,
+ENQ-2132,2025-10-19,Property manager,RES,ADH,210.0,Won,2025-10-20,,C0101
+ENQ-2133,2025-10-19,Google search,RES,SPC,410.0,Lost,2025-10-22,Timing did not suit,
+ENQ-2134,2025-10-20,Referral,RES,SPC,135.0,Won,2025-10-20,,C0083
+ENQ-2135,2025-10-20,Referral,RES,SPC,230.0,Won,2025-10-23,,C0093
+ENQ-2136,2025-10-20,Facebook,RES,ADH,220.0,Lost,2025-10-23,Went with another cleaner,
+ENQ-2137,2025-10-22,Website form,RES,SPC,130.0,Won,2025-10-22,,C0084
+ENQ-2138,2025-10-24,Google search,RES,ADH,190.0,Won,2025-10-27,,C0087
+ENQ-2139,2025-10-26,Facebook,EOL,EOL,290.0,Won,2025-10-29,,C0089
+ENQ-2140,2025-10-27,Google search,RES,ADH,285.0,Won,2025-10-30,,C0106
+ENQ-2141,2025-10-28,Google search,RES,REG,178.02,Won,2025-10-30,,C0073
+ENQ-2142,2025-10-28,Referral,RES,SPC,155.0,Lost,2025-11-09,Timing did not suit,
+ENQ-2143,2025-10-29,Referral,RES,SPC,365.0,Won,2025-11-01,,C0096
+ENQ-2144,2025-10-30,NDIS coordinator,RES,SPC,340.0,Lost,2025-11-09,No response after quote,
+ENQ-2145,2025-10-31,Property manager,RES,SPC,140.0,Won,2025-11-01,,C0094
+ENQ-2146,2025-10-31,Facebook,EOL,EOL,450.0,Won,2025-11-01,,C0091
+ENQ-2147,2025-10-31,Google search,COMM,ADH,240.0,Won,2025-11-03,,C0099
+ENQ-2148,2025-10-31,Google search,RES,ADH,330.0,Lost,2025-11-07,No response after quote,
+ENQ-2149,2025-11-01,Google search,EOL,EOL,485.0,Lost,2025-11-08,Timing did not suit,
+ENQ-2150,2025-11-02,Website form,EOL,EOL,365.0,Won,2025-11-05,,C0040
+ENQ-2151,2025-11-02,Facebook,RES,SPC,355.0,Won,2025-11-05,,C0095
+ENQ-2152,2025-11-03,Property manager,EOL,EOL,275.0,Won,2025-11-03,,C0092
+ENQ-2153,2025-11-04,NDIS coordinator,EOL,EOL,495.0,Lost,2025-11-15,Went with another cleaner,
+ENQ-2154,2025-11-05,Referral,RES,ADH,280.0,Won,2025-11-06,,C0104
+ENQ-2155,2025-11-05,Referral,RES,SPC,190.0,Lost,2025-11-09,No response after quote,
+ENQ-2156,2025-11-08,Facebook,RES,SPC,365.0,Lost,2025-11-19,Changed plans,
+ENQ-2157,2025-11-09,Facebook,RES,SPC,360.0,Won,2025-11-10,,C0014
+ENQ-2158,2025-11-09,Referral,COMM,ADH,255.0,Won,2025-11-11,,C0103
+ENQ-2159,2025-11-10,Website form,RES,SPC,355.0,Won,2025-11-12,,C0005
+ENQ-2160,2025-11-10,Property manager,EOL,EOL,415.0,Won,2025-11-13,,C0047
+ENQ-2161,2025-11-10,Referral,RES,SPC,380.0,Lost,2025-11-19,Price too high,
+ENQ-2162,2025-11-11,Referral,RES,SPC,235.0,Won,2025-11-12,,C0020
+ENQ-2163,2025-11-11,Referral,RES,ADH,215.0,Won,2025-11-13,,C0107
+ENQ-2164,2025-11-12,Website form,RES,SPC,140.0,Won,2025-11-14,,C0097
+ENQ-2165,2025-11-12,Referral,EOL,EOL,480.0,Won,2025-11-13,,C0047
+ENQ-2166,2025-11-13,Property manager,RES,ADH,215.0,Won,2025-11-13,,C0105
+ENQ-2167,2025-11-13,Google search,EOL,EOL,480.0,Won,2025-11-16,,C0090
+ENQ-2168,2025-11-13,Referral,RES,ADH,170.0,Won,2025-11-15,,C0100
+ENQ-2169,2025-11-15,Referral,RES,SPC,330.0,Won,2025-11-16,,C0012
+ENQ-2170,2025-11-16,Website form,RES,SPC,125.0,Lost,2025-11-20,Price too high,
+ENQ-2171,2025-11-18,Referral,RES,SPC,405.0,Lost,2025-11-30,Price too high,
+ENQ-2172,2025-11-18,NDIS coordinator,RES,ADH,200.0,Lost,2025-11-25,Went with another cleaner,
+ENQ-2173,2025-11-19,Website form,RES,SPC,170.0,Won,2025-11-22,,C0098
+ENQ-2174,2025-11-20,Google search,RES,ADH,375.0,Lost,2025-12-01,Changed plans,
+ENQ-2175,2025-11-21,NDIS coordinator,COMM,ADH,250.0,Won,2025-11-24,,C0122
+ENQ-2176,2025-11-22,NDIS coordinator,RES,ADH,235.0,Won,2025-11-22,,C0102
+ENQ-2177,2025-11-22,Referral,RES,SPC,340.0,Won,2025-11-24,,C0114
+ENQ-2178,2025-11-22,Google search,RES,ADH,195.0,Lost,2025-11-24,Went with another cleaner,
+ENQ-2179,2025-11-23,Google search,EOL,EOL,620.0,Lost,2025-12-02,Changed plans,
+ENQ-2180,2025-11-24,Property manager,RES,ADH,315.0,Won,2025-11-25,,C0124
+ENQ-2181,2025-11-24,Facebook,RES,SPC,390.0,Lost,2025-12-05,Timing did not suit,
+ENQ-2182,2025-11-25,Website form,RES,SPC,235.0,Won,2025-11-28,,C0116
+ENQ-2183,2025-11-26,Property manager,EOL,EOL,395.0,Won,2025-11-27,,C0111
+ENQ-2184,2025-11-26,Property manager,RES,ADH,220.0,Won,2025-11-26,,C0120
+ENQ-2185,2025-11-26,Property manager,RES,SPC,280.0,Lost,2025-12-04,Timing did not suit,
+ENQ-2186,2025-11-27,Property manager,EOL,EOL,365.0,Won,2025-11-30,,C0047
+ENQ-2187,2025-11-27,Property manager,RES,ADH,245.0,Lost,2025-12-09,Changed plans,
+ENQ-2188,2025-11-27,Google search,RES,SPC,160.0,Lost,2025-12-04,No response after quote,
+ENQ-2189,2025-11-27,Website form,RES,SPC,170.0,Lost,2025-12-06,No response after quote,
+ENQ-2190,2025-11-28,Referral,EOL,EOL,600.0,Won,2025-12-01,,C0110
+ENQ-2191,2025-11-29,Website form,EOL,EOL,250.0,Lost,2025-12-06,Changed plans,
+ENQ-2192,2025-11-29,Referral,RES,SPC,355.0,Lost,2025-12-07,Went with another cleaner,
+ENQ-2193,2025-11-30,Google search,EOL,EOL,445.0,Lost,2025-12-10,Changed plans,
+ENQ-2194,2025-11-30,Facebook,RES,SPC,360.0,Lost,2025-12-05,No response after quote,
+ENQ-2195,2025-12-02,Referral,RES,SPC,350.0,Won,2025-12-02,,C0118
+ENQ-2196,2025-12-03,Google search,RES,ADH,315.0,Won,2025-12-06,,C0123
+ENQ-2197,2025-12-03,Referral,RES,REG,175.95,Won,2025-12-04,,C0109
+ENQ-2198,2025-12-03,NDIS coordinator,EOL,EOL,475.0,Lost,2025-12-08,Price too high,
+ENQ-2199,2025-12-04,Google search,RES,SPC,275.0,Lost,2025-12-06,Changed plans,
+ENQ-2200,2025-12-05,Property manager,EOL,EOL,415.0,Won,2025-12-05,,C0089
+ENQ-2201,2025-12-07,Google search,RES,ADH,240.0,Lost,2025-12-14,Timing did not suit,
+ENQ-2202,2025-12-08,Google search,RES,ADH,210.0,Won,2025-12-11,,C0127
+ENQ-2203,2025-12-09,Property manager,EOL,EOL,275.0,Won,2025-12-10,,C0076
+ENQ-2204,2025-12-12,Referral,RES,SPC,510.0,Lost,2025-12-14,Changed plans,
+ENQ-2205,2025-12-12,Referral,RES,SPC,410.0,Lost,2025-12-16,Changed plans,
+ENQ-2206,2025-12-12,Google search,EOL,EOL,700.0,Lost,2025-12-15,Timing did not suit,
+ENQ-2207,2025-12-13,Google search,RES,SPC,435.0,Won,2025-12-16,,C0115
+ENQ-2208,2025-12-13,NDIS coordinator,RES,SPC,135.0,Won,2025-12-15,,C0117
+ENQ-2209,2025-12-13,Google search,RES,ADH,210.0,Won,2025-12-13,,C0126
+ENQ-2210,2025-12-13,Google search,RES,SPC,130.0,Lost,2025-12-24,Changed plans,
+ENQ-2211,2025-12-13,Google search,RES,SPC,370.0,Lost,2025-12-15,No response after quote,
+ENQ-2212,2025-12-14,Google search,RES,SPC,370.0,Won,2025-12-15,,C0113
+ENQ-2213,2025-12-14,Google search,EOL,EOL,560.0,Won,2025-12-17,,C0076
+ENQ-2214,2025-12-15,Property manager,RES,SPC,185.0,Won,2025-12-18,,C0119
+ENQ-2215,2025-12-15,Referral,RES,SPC,160.0,Won,2025-12-17,,C0007
+ENQ-2216,2025-12-15,Website form,RES,SPC,345.0,Lost,2025-12-20,No response after quote,
+ENQ-2217,2025-12-16,Referral,RES,ADH,205.0,Won,2025-12-16,,C0121
+ENQ-2218,2025-12-18,Website form,RES,SPC,345.0,Won,2025-12-20,,C0112
+ENQ-2219,2025-12-18,Website form,RES,SPC,355.0,Lost,2025-12-22,No response after quote,
+ENQ-2220,2025-12-20,Google search,EOL,EOL,475.0,Lost,2025-12-25,Changed plans,
+ENQ-2221,2025-12-21,Facebook,RES,ADH,220.0,Won,2025-12-23,,C0141
+ENQ-2222,2025-12-21,Property manager,RES,SPC,400.0,Lost,2026-01-01,No response after quote,
+ENQ-2223,2025-12-22,Referral,RES,SPC,245.0,Won,2025-12-25,,C0134
+ENQ-2224,2025-12-22,Property manager,RES,SPC,220.0,Lost,2026-01-03,Timing did not suit,
+ENQ-2225,2025-12-22,Referral,RES,SPC,340.0,Lost,2025-12-29,Went with another cleaner,
+ENQ-2226,2025-12-22,Property manager,RES,SPC,405.0,Lost,2025-12-25,Price too high,
+ENQ-2227,2025-12-25,Google search,EOL,EOL,370.0,Won,2025-12-27,,C0130
+ENQ-2228,2025-12-25,Website form,COMM,ADH,250.0,Lost,2025-12-31,Timing did not suit,
+ENQ-2229,2025-12-26,Google search,RES,ADH,295.0,Won,2025-12-28,,C0125
+ENQ-2230,2025-12-27,Property manager,EOL,EOL,610.0,Won,2025-12-30,,C0129
+ENQ-2231,2025-12-27,Google search,RES,SPC,355.0,Won,2025-12-28,,C0139
+ENQ-2232,2025-12-27,Facebook,EOL,EOL,645.0,Lost,2026-01-06,Went with another cleaner,
+ENQ-2233,2025-12-28,Referral,RES,REG,195.0,Lost,2026-01-02,Timing did not suit,
+ENQ-2234,2025-12-29,Property manager,RES,SPC,340.0,Won,2025-12-30,,C0137
+ENQ-2235,2025-12-29,Website form,RES,SPC,240.0,Won,2025-12-31,,C0003
+ENQ-2236,2025-12-29,Property manager,EOL,EOL,475.0,Won,2025-12-30,,C0089
+ENQ-2237,2025-12-29,Website form,EOL,EOL,580.0,Lost,2026-01-06,No response after quote,
+ENQ-2238,2025-12-29,Google search,RES,SPC,150.0,Lost,2026-01-09,Went with another cleaner,
+ENQ-2239,2025-12-30,Referral,RES,SPC,350.0,Lost,2026-01-01,Went with another cleaner,
+ENQ-2240,2025-12-30,Referral,RES,ADH,315.0,Lost,2026-01-03,Price too high,
+ENQ-2241,2025-12-31,Google search,COMM,ADH,235.0,Won,2025-12-31,,C0144
+ENQ-2242,2026-01-01,Website form,COMM,ADH,240.0,Won,2026-01-04,,C0142
+ENQ-2243,2026-01-01,Property manager,EOL,EOL,290.0,Lost,2026-01-05,Price too high,
+ENQ-2244,2026-01-01,NDIS coordinator,RES,SPC,300.0,Lost,2026-01-05,Price too high,
+ENQ-2245,2026-01-02,Google search,RES,SPC,180.0,Won,2026-01-03,,C0136
+ENQ-2246,2026-01-02,Google search,RES,ADH,320.0,Lost,2026-01-05,No response after quote,
+ENQ-2247,2026-01-04,Google search,RES,SPC,260.0,Won,2026-01-05,,C0003
+ENQ-2248,2026-01-04,Facebook,EOL,EOL,600.0,Lost,2026-01-13,Price too high,
+ENQ-2249,2026-01-04,Property manager,RES,ADH,320.0,Lost,2026-01-10,Price too high,
+ENQ-2250,2026-01-04,Facebook,EOL,EOL,310.0,Lost,2026-01-07,Timing did not suit,
+ENQ-2251,2026-01-05,Property manager,EOL,EOL,350.0,Won,2026-01-07,,C0128
+ENQ-2252,2026-01-06,Referral,RES,SPC,365.0,Won,2026-01-09,,C0133
+ENQ-2253,2026-01-06,NDIS coordinator,RES,SPC,390.0,Lost,2026-01-08,Timing did not suit,
+ENQ-2254,2026-01-07,Referral,RES,ADH,305.0,Won,2026-01-08,,C0140
+ENQ-2255,2026-01-07,Property manager,COMM,ADH,225.0,Lost,2026-01-11,Went with another cleaner,
+ENQ-2256,2026-01-07,Google search,RES,SPC,135.0,Lost,2026-01-11,Timing did not suit,
+ENQ-2257,2026-01-08,Referral,EOL,EOL,280.0,Won,2026-01-11,,C0089
+ENQ-2258,2026-01-09,Referral,RES,ADH,180.0,Won,2026-01-10,,C0143
+ENQ-2259,2026-01-09,Property manager,COMM,ADH,225.0,Lost,2026-01-15,No response after quote,
+ENQ-2260,2026-01-11,Referral,RES,ADH,315.0,Lost,2026-01-22,Timing did not suit,
+ENQ-2261,2026-01-12,Website form,RES,SPC,385.0,Lost,2026-01-21,Changed plans,
+ENQ-2262,2026-01-13,Google search,RES,SPC,420.0,Won,2026-01-14,,C0138
+ENQ-2263,2026-01-15,Property manager,EOL,EOL,570.0,Won,2026-01-16,,C0040
+ENQ-2264,2026-01-17,Website form,EOL,EOL,375.0,Won,2026-01-18,,C0131
+ENQ-2265,2026-01-17,Facebook,EOL,EOL,280.0,Won,2026-01-18,,C0132
+ENQ-2266,2026-01-17,Facebook,RES,ADH,225.0,Lost,2026-01-26,No response after quote,
+ENQ-2267,2026-01-19,Google search,RES,SPC,370.0,Won,2026-01-20,,C0011
+ENQ-2268,2026-01-19,Referral,RES,SPC,265.0,Lost,2026-01-22,Price too high,
+ENQ-2269,2026-01-20,Referral,RES,SPC,365.0,Won,2026-01-21,,C0135
+ENQ-2270,2026-01-21,Property manager,EOL,EOL,390.0,Lost,2026-02-01,Price too high,
+ENQ-2271,2026-01-21,Referral,RES,ADH,195.0,Lost,2026-01-31,Changed plans,
+ENQ-2272,2026-01-21,Google search,EOL,EOL,415.0,Lost,2026-01-28,No response after quote,
+ENQ-2273,2026-01-24,Referral,RES,SPC,145.0,Won,2026-01-24,,C0155
+ENQ-2274,2026-01-25,Referral,RES,ADH,310.0,Won,2026-01-27,,C0162
+ENQ-2275,2026-01-28,Property manager,EOL,EOL,300.0,Won,2026-01-29,,C0146
+ENQ-2276,2026-01-28,Property manager,RES,ADH,210.0,Won,2026-01-31,,C0157
+ENQ-2277,2026-01-28,NDIS coordinator,RES,SPC,290.0,Lost,2026-02-03,Went with another cleaner,
+ENQ-2278,2026-02-01,Referral,RES,SPC,150.0,Won,2026-02-01,,C0150
+ENQ-2279,2026-02-02,Google search,RES,ADH,295.0,Won,2026-02-04,,C0159
+ENQ-2280,2026-02-02,Google search,RES,SPC,155.0,Lost,2026-02-11,No response after quote,
+ENQ-2281,2026-02-03,Referral,RES,SPC,265.0,Won,2026-02-06,,C0148
+ENQ-2282,2026-02-03,NDIS coordinator,RES,SPC,135.0,Lost,2026-02-12,Price too high,
+ENQ-2283,2026-02-03,Property manager,EOL,EOL,385.0,Lost,2026-02-11,Went with another cleaner,
+ENQ-2284,2026-02-04,Google search,EOL,EOL,375.0,Won,2026-02-06,,C0145
+ENQ-2285,2026-02-05,Referral,RES,SPC,385.0,Lost,2026-02-12,No response after quote,
+ENQ-2286,2026-02-07,Website form,COMM,ADH,255.0,Won,2026-02-08,,C0158
+ENQ-2287,2026-02-07,NDIS coordinator,NDIS,NDIS,128.34,Won,2026-02-10,,C0035
+ENQ-2288,2026-02-07,Website form,RES,SPC,295.0,Lost,2026-02-12,Timing did not suit,
+ENQ-2289,2026-02-07,Referral,RES,SPC,175.0,Lost,2026-02-16,No response after quote,
+ENQ-2290,2026-02-08,Google search,RES,ADH,285.0,Won,2026-02-08,,C0156
+ENQ-2291,2026-02-08,Google search,RES,ADH,220.0,Won,2026-02-11,,C0164
+ENQ-2292,2026-02-08,Google search,RES,ADH,215.0,Lost,2026-02-13,Timing did not suit,
+ENQ-2293,2026-02-09,Google search,RES,SPC,175.0,Won,2026-02-10,,C0151
+ENQ-2294,2026-02-09,Google search,RES,SPC,260.0,Won,2026-02-12,,C0152
+ENQ-2295,2026-02-09,Google search,RES,SPC,150.0,Lost,2026-02-18,Went with another cleaner,
+ENQ-2296,2026-02-09,Google search,RES,ADH,255.0,Lost,2026-02-20,Timing did not suit,
+ENQ-2297,2026-02-10,Google search,RES,SPC,135.0,Lost,2026-02-17,No response after quote,
+ENQ-2298,2026-02-10,Facebook,NDIS,NDIS,155.0,Lost,2026-02-18,Went with another cleaner,
+ENQ-2299,2026-02-10,Facebook,RES,ADH,210.0,Lost,2026-02-18,Timing did not suit,
+ENQ-2300,2026-02-11,Google search,COMM,ADH,235.0,Lost,2026-02-22,Timing did not suit,
+ENQ-2301,2026-02-15,Referral,RES,SPC,345.0,Won,2026-02-17,,C0149
+ENQ-2302,2026-02-15,Google search,RES,ADH,300.0,Lost,2026-02-25,No response after quote,
+ENQ-2303,2026-02-17,Property manager,RES,ADH,285.0,Won,2026-02-20,,C0163
+ENQ-2304,2026-02-17,Google search,RES,SPC,425.0,Lost,2026-02-22,Went with another cleaner,
+ENQ-2305,2026-02-17,Referral,RES,SPC,310.0,Lost,2026-02-25,Went with another cleaner,
+ENQ-2306,2026-02-18,Google search,COMM,ADH,235.0,Won,2026-02-18,,C0161
+ENQ-2307,2026-02-18,Referral,RES,SPC,170.0,Won,2026-02-19,,C0073
+ENQ-2308,2026-02-18,Referral,RES,SPC,350.0,Won,2026-02-20,,C0153
+ENQ-2309,2026-02-19,Google search,COMM,COM,192.51,Won,2026-02-19,,C0027
+ENQ-2310,2026-02-19,Facebook,RES,SPC,160.0,Lost,2026-02-27,Timing did not suit,
+ENQ-2311,2026-02-20,Referral,COMM,ADH,275.0,Lost,2026-02-28,Timing did not suit,
+ENQ-2312,2026-02-20,Referral,RES,SPC,415.0,Lost,2026-03-03,Changed plans,
+ENQ-2313,2026-02-21,Google search,RES,ADH,225.0,Won,2026-02-23,,C0160
+ENQ-2314,2026-02-22,NDIS coordinator,RES,SPC,145.0,Won,2026-02-23,,C0147
+ENQ-2315,2026-02-22,Facebook,RES,SPC,355.0,Won,2026-02-22,,C0154
+ENQ-2316,2026-02-22,Google search,EOL,EOL,360.0,Won,2026-02-25,,C0166
+ENQ-2317,2026-02-23,Google search,COMM,COM,190.0,Lost,2026-02-25,No response after quote,
+ENQ-2318,2026-02-24,Google search,COMM,ADH,270.0,Lost,2026-02-27,Went with another cleaner,
+ENQ-2319,2026-02-27,Google search,STR,COM,235.98,Won,2026-03-02,,C0031
+ENQ-2320,2026-02-28,Google search,RES,SPC,145.0,Won,2026-03-03,,C0173
+ENQ-2321,2026-03-01,Google search,RES,ADH,205.0,Lost,2026-03-13,No response after quote,
+ENQ-2322,2026-03-02,Referral,RES,SPC,410.0,Lost,2026-03-07,Timing did not suit,
+ENQ-2323,2026-03-03,Google search,RES,ADH,205.0,Lost,2026-03-08,Went with another cleaner,
+ENQ-2324,2026-03-03,Referral,RES,SPC,270.0,Lost,2026-03-15,Timing did not suit,
+ENQ-2325,2026-03-03,Property manager,RES,SPC,260.0,Lost,2026-03-11,Changed plans,
+ENQ-2326,2026-03-04,Referral,RES,SPC,255.0,Lost,2026-03-09,Changed plans,
+ENQ-2327,2026-03-04,Google search,RES,SPC,255.0,Lost,2026-03-11,Price too high,
+ENQ-2328,2026-03-06,Website form,RES,SPC,165.0,Won,2026-03-07,,C0170
+ENQ-2329,2026-03-10,Property manager,EOL,EOL,260.0,Lost,2026-03-14,Timing did not suit,
+ENQ-2330,2026-03-12,Google search,RES,SPC,145.0,Lost,2026-03-22,No response after quote,
+ENQ-2331,2026-03-13,Google search,RES,ADH,215.0,Won,2026-03-14,,C0174
+ENQ-2332,2026-03-13,Referral,RES,SPC,175.0,Won,2026-03-15,,C0008
+ENQ-2333,2026-03-13,Website form,RES,SPC,145.0,Won,2026-03-16,,C0172
+ENQ-2334,2026-03-15,Facebook,EOL,EOL,580.0,Won,2026-03-17,,C0165
+ENQ-2335,2026-03-15,Referral,RES,SPC,330.0,Lost,2026-03-27,Changed plans,
+ENQ-2336,2026-03-16,Website form,RES,SPC,145.0,Won,2026-03-19,,C0016
+ENQ-2337,2026-03-16,Google search,EOL,EOL,260.0,Lost,2026-03-28,Timing did not suit,
+ENQ-2338,2026-03-18,Referral,EOL,EOL,270.0,Won,2026-03-19,,C0167
+ENQ-2339,2026-03-19,Google search,RES,SPC,285.0,Lost,2026-03-23,Timing did not suit,
+ENQ-2340,2026-03-22,NDIS coordinator,RES,SPC,150.0,Lost,2026-03-27,No response after quote,
+ENQ-2341,2026-03-23,Referral,RES,SPC,325.0,Won,2026-03-25,,C0171
+ENQ-2342,2026-03-24,Property manager,RES,SPC,180.0,Won,2026-03-24,,C0168
+ENQ-2343,2026-03-24,Google search,RES,SPC,365.0,Won,2026-03-27,,C0073
+ENQ-2344,2026-03-25,Property manager,RES,SPC,220.0,Won,2026-03-26,,C0169
+ENQ-2345,2026-03-26,Referral,RES,SPC,145.0,Won,2026-03-29,,C0180
+ENQ-2346,2026-03-27,NDIS coordinator,RES,SPC,160.0,Won,2026-03-28,,C0188
+ENQ-2347,2026-03-27,Facebook,RES,SPC,190.0,Lost,2026-03-29,Timing did not suit,
+ENQ-2348,2026-03-29,Website form,RES,SPC,360.0,Won,2026-03-30,,C0182
+ENQ-2349,2026-03-29,Google search,RES,ADH,230.0,Won,2026-03-30,,C0192
+ENQ-2350,2026-03-31,Property manager,RES,SPC,265.0,Won,2026-04-03,,C0187
+ENQ-2351,2026-03-31,Referral,RES,ADH,215.0,Lost,2026-04-10,Changed plans,
+ENQ-2352,2026-04-01,Google search,RES,ADH,315.0,Lost,2026-04-06,Went with another cleaner,
+ENQ-2353,2026-04-03,Google search,RES,SPC,165.0,Won,2026-04-05,,C0017
+ENQ-2354,2026-04-03,Google search,RES,ADH,210.0,Won,2026-04-05,,C0191
+ENQ-2355,2026-04-05,Website form,RES,SPC,270.0,Won,2026-04-05,,C0184
+ENQ-2356,2026-04-05,Google search,RES,ADH,190.0,Won,2026-04-07,,C0189
+ENQ-2357,2026-04-05,Google search,RES,ADH,265.0,Lost,2026-04-17,Changed plans,
+ENQ-2358,2026-04-06,Google search,RES,SPC,140.0,Won,2026-04-09,,C0179
+ENQ-2359,2026-04-06,Property manager,RES,ADH,330.0,Lost,2026-04-11,Went with another cleaner,
+ENQ-2360,2026-04-10,Property manager,EOL,EOL,345.0,Won,2026-04-13,,C0176
+ENQ-2361,2026-04-10,Referral,RES,SPC,160.0,Won,2026-04-10,,C0186
+ENQ-2362,2026-04-12,NDIS coordinator,EOL,EOL,555.0,Lost,2026-04-24,No response after quote,
+ENQ-2363,2026-04-12,Website form,RES,SPC,225.0,Lost,2026-04-19,Price too high,
+ENQ-2364,2026-04-14,Google search,RES,ADH,205.0,Lost,2026-04-20,Price too high,
+ENQ-2365,2026-04-15,Website form,RES,SPC,220.0,Lost,2026-04-20,Went with another cleaner,
+ENQ-2366,2026-04-15,Google search,RES,ADH,200.0,Lost,2026-04-21,No response after quote,
+ENQ-2367,2026-04-16,Website form,EOL,EOL,465.0,Won,2026-04-17,,C0175
+ENQ-2368,2026-04-16,Referral,RES,SPC,140.0,Won,2026-04-17,,C0185
+ENQ-2369,2026-04-17,Google search,RES,SPC,235.0,Won,2026-04-19,,C0181
+ENQ-2370,2026-04-17,Google search,RES,SPC,240.0,Won,2026-04-20,,C0178
+ENQ-2371,2026-04-18,Website form,EOL,EOL,475.0,Lost,2026-04-22,Timing did not suit,
+ENQ-2372,2026-04-20,NDIS coordinator,EOL,EOL,475.0,Won,2026-04-23,,C0177
+ENQ-2373,2026-04-21,Google search,RES,SPC,235.0,Won,2026-04-22,,C0183
+ENQ-2374,2026-04-21,NDIS coordinator,EOL,EOL,380.0,Won,2026-04-24,,C0047
+ENQ-2375,2026-04-22,Referral,RES,ADH,220.0,Lost,2026-05-03,Changed plans,
+ENQ-2376,2026-04-22,Referral,EOL,EOL,420.0,Lost,2026-04-30,Price too high,
+ENQ-2377,2026-04-22,Referral,RES,ADH,215.0,Lost,2026-04-30,Went with another cleaner,
+ENQ-2378,2026-04-23,Google search,RES,ADH,230.0,Lost,2026-04-30,Went with another cleaner,
+ENQ-2379,2026-04-23,Google search,RES,ADH,315.0,Lost,2026-05-04,No response after quote,
+ENQ-2380,2026-04-24,Facebook,RES,ADH,225.0,Won,2026-04-24,,C0202
+ENQ-2381,2026-04-25,Google search,RES,SPC,245.0,Won,2026-04-28,,C0019
+ENQ-2382,2026-04-26,Google search,RES,ADH,215.0,Won,2026-04-29,,C0190
+ENQ-2383,2026-04-26,Website form,EOL,EOL,400.0,Won,2026-04-26,,C0040
+ENQ-2384,2026-04-26,Referral,COMM,COM,170.77,Won,2026-04-26,,C0028
+ENQ-2385,2026-04-26,Property manager,EOL,EOL,475.0,Lost,2026-05-06,Timing did not suit,
+ENQ-2386,2026-04-27,Facebook,RES,REG,161.46,Won,2026-04-28,,C0193
+ENQ-2387,2026-04-28,Google search,EOL,EOL,430.0,Lost,2026-05-03,Changed plans,
+ENQ-2388,2026-04-30,Google search,RES,ADH,285.0,Won,2026-04-30,,C0201
+ENQ-2389,2026-04-30,Google search,RES,ADH,255.0,Lost,2026-05-02,Went with another cleaner,
+ENQ-2390,2026-05-01,Google search,EOL,EOL,475.0,Lost,2026-05-11,No response after quote,
+ENQ-2391,2026-05-04,Property manager,EOL,EOL,450.0,Won,2026-05-07,,C0197
+ENQ-2392,2026-05-05,Google search,EOL,EOL,270.0,Lost,2026-05-07,Went with another cleaner,
+ENQ-2393,2026-05-06,Property manager,EOL,EOL,300.0,Won,2026-05-07,,C0195
+ENQ-2394,2026-05-07,NDIS coordinator,RES,ADH,225.0,Won,2026-05-10,,C0203
+ENQ-2395,2026-05-07,Google search,RES,SPC,360.0,Lost,2026-05-18,No response after quote,
+ENQ-2396,2026-05-10,NDIS coordinator,EOL,EOL,260.0,Won,2026-05-12,,C0194
+ENQ-2397,2026-05-11,Property manager,EOL,EOL,365.0,Won,2026-05-13,,C0196
+ENQ-2398,2026-05-11,Referral,RES,SPC,335.0,Won,2026-05-12,,C0015
+ENQ-2399,2026-05-11,Property manager,EOL,EOL,285.0,Won,2026-05-14,,C0076
+ENQ-2400,2026-05-11,Property manager,EOL,EOL,340.0,Lost,2026-05-13,Changed plans,
+ENQ-2401,2026-05-12,Referral,RES,SPC,140.0,Won,2026-05-13,,C0199
+ENQ-2402,2026-05-13,Google search,EOL,EOL,310.0,Lost,2026-05-19,No response after quote,
+ENQ-2403,2026-05-14,Google search,EOL,EOL,245.0,Lost,2026-05-25,Price too high,
+ENQ-2404,2026-05-16,NDIS coordinator,RES,ADH,175.0,Lost,2026-05-25,Timing did not suit,
+ENQ-2405,2026-05-17,Google search,RES,SPC,380.0,Lost,2026-05-28,Went with another cleaner,
+ENQ-2406,2026-05-18,Facebook,RES,ADH,230.0,Won,2026-05-18,,C0200
+ENQ-2407,2026-05-18,Referral,RES,ADH,270.0,Lost,2026-05-26,Went with another cleaner,
+ENQ-2408,2026-05-21,Facebook,RES,SPC,350.0,Won,2026-05-21,,C0198
+ENQ-2409,2026-05-22,Referral,RES,ADH,220.0,Won,2026-05-23,,C0214
+ENQ-2410,2026-05-23,Referral,RES,ADH,190.0,Won,2026-05-25,,C0223
+ENQ-2411,2026-05-24,Google search,RES,ADH,210.0,Won,2026-05-27,,C0217
+ENQ-2412,2026-05-27,Property manager,EOL,EOL,280.0,Won,2026-05-28,,C0206
+ENQ-2413,2026-05-28,Property manager,EOL,EOL,295.0,Won,2026-05-30,,C0208
+ENQ-2414,2026-05-29,NDIS coordinator,RES,SPC,165.0,Won,2026-05-31,,C0012
+ENQ-2415,2026-05-31,Referral,RES,ADH,225.0,Won,2026-06-02,,C0224
+ENQ-2416,2026-06-01,Referral,RES,ADH,315.0,Won,2026-06-04,,C0220
+ENQ-2417,2026-06-01,NDIS coordinator,RES,ADH,350.0,Lost,2026-06-10,Changed plans,
+ENQ-2418,2026-06-02,Property manager,RES,ADH,285.0,Won,2026-06-05,,C0216
+ENQ-2419,2026-06-02,NDIS coordinator,EOL,EOL,640.0,Lost,2026-06-09,No response after quote,
+ENQ-2420,2026-06-03,Website form,EOL,EOL,695.0,Lost,2026-06-09,Changed plans,
+ENQ-2421,2026-06-04,Google search,RES,SPC,350.0,Won,2026-06-07,,C0211
+ENQ-2422,2026-06-04,Property manager,RES,SPC,340.0,Won,2026-06-05,,C0008
+ENQ-2423,2026-06-04,Google search,RES,ADH,330.0,Lost,2026-06-10,Price too high,
+ENQ-2424,2026-06-04,Website form,RES,SPC,370.0,Lost,2026-06-06,Changed plans,
+ENQ-2425,2026-06-06,Property manager,RES,SPC,210.0,Lost,2026-06-08,No response after quote,
+ENQ-2426,2026-06-06,Google search,RES,ADH,340.0,Lost,2026-06-11,Changed plans,
+ENQ-2427,2026-06-06,Referral,RES,SPC,195.0,Lost,2026-06-15,Price too high,
+ENQ-2428,2026-06-07,Google search,RES,ADH,175.0,Won,2026-06-10,,C0221
+ENQ-2429,2026-06-07,Google search,EOL,EOL,240.0,Lost,2026-06-18,Price too high,
+ENQ-2430,2026-06-08,Google search,RES,SPC,180.0,Won,2026-06-09,,C0209
+ENQ-2431,2026-06-09,NDIS coordinator,RES,SPC,410.0,Lost,2026-06-20,Changed plans,
+ENQ-2432,2026-06-10,Referral,RES,ADH,220.0,Won,2026-06-11,,C0213
+ENQ-2433,2026-06-10,Google search,RES,SPC,170.0,Lost,2026-06-15,Changed plans,
+ENQ-2434,2026-06-10,Website form,RES,SPC,305.0,Lost,2026-06-20,Price too high,
+ENQ-2435,2026-06-11,Google search,RES,SPC,230.0,Won,2026-06-11,,C0007
+ENQ-2436,2026-06-11,Google search,EOL,EOL,455.0,Lost,2026-06-20,Price too high,
+ENQ-2437,2026-06-11,Facebook,RES,ADH,165.0,Lost,2026-06-23,Changed plans,
+ENQ-2438,2026-06-12,Referral,EOL,EOL,400.0,Lost,2026-06-18,Changed plans,
+ENQ-2439,2026-06-12,Website form,RES,ADH,185.0,Lost,2026-06-23,Price too high,
+ENQ-2440,2026-06-12,Property manager,EOL,EOL,680.0,Lost,2026-06-15,Timing did not suit,
+ENQ-2441,2026-06-13,Google search,EOL,EOL,450.0,Won,2026-06-16,,C0089
+ENQ-2442,2026-06-13,Referral,RES,SPC,170.0,Lost,2026-06-20,Price too high,
+ENQ-2443,2026-06-13,Property manager,RES,SPC,220.0,Lost,2026-06-25,Went with another cleaner,
+ENQ-2444,2026-06-13,Property manager,RES,ADH,345.0,Lost,2026-06-23,Went with another cleaner,
+ENQ-2445,2026-06-14,Referral,RES,ADH,295.0,Won,2026-06-16,,C0219
+ENQ-2446,2026-06-14,Google search,RES,ADH,170.0,Lost,2026-06-18,Changed plans,
+ENQ-2447,2026-06-14,Facebook,EOL,EOL,445.0,Lost,2026-06-22,Timing did not suit,
+ENQ-2448,2026-06-15,Property manager,RES,ADH,180.0,Won,2026-06-16,,C0215
+ENQ-2449,2026-06-15,Website form,RES,ADH,220.0,Lost,2026-06-17,Changed plans,
+ENQ-2450,2026-06-15,Google search,RES,ADH,245.0,Lost,2026-06-26,Went with another cleaner,
+ENQ-2451,2026-06-16,Property manager,RES,ADH,190.0,Won,2026-06-18,,C0222
+ENQ-2452,2026-06-16,Google search,RES,ADH,345.0,Lost,2026-06-25,Price too high,
+ENQ-2453,2026-06-17,Facebook,EOL,EOL,425.0,Won,2026-06-18,,C0040
+ENQ-2454,2026-06-17,Facebook,RES,ADH,345.0,Lost,2026-06-24,Timing did not suit,
+ENQ-2455,2026-06-17,Google search,RES,ADH,255.0,Lost,2026-06-28,Changed plans,
+ENQ-2456,2026-06-17,Property manager,RES,SPC,395.0,Lost,2026-06-29,Went with another cleaner,
+ENQ-2457,2026-06-19,Referral,RES,SPC,150.0,Won,2026-06-19,,C0210
+ENQ-2458,2026-06-20,Referral,EOL,EOL,380.0,Won,2026-06-22,,C0204
+ENQ-2459,2026-06-20,Google search,EOL,EOL,465.0,Lost,2026-06-26,Changed plans,
+ENQ-2460,2026-06-20,Google search,EOL,EOL,555.0,Lost,2026-06-24,Went with another cleaner,
+ENQ-2461,2026-06-21,Property manager,EOL,EOL,365.0,Won,2026-06-23,,C0205
+ENQ-2462,2026-06-21,Referral,EOL,EOL,490.0,Won,2026-06-24,,C0227
+ENQ-2463,2026-06-21,Referral,RES,SPC,340.0,Won,2026-06-21,,C0231
+ENQ-2464,2026-06-21,Google search,EOL,EOL,345.0,Lost,2026-06-30,Went with another cleaner,
+ENQ-2465,2026-06-22,NDIS coordinator,EOL,EOL,260.0,Won,2026-06-23,,C0089
+ENQ-2466,2026-06-23,Facebook,EOL,EOL,405.0,Lost,2026-06-30,Went with another cleaner,
+ENQ-2467,2026-06-23,Google search,RES,SPC,235.0,Lost,2026-06-28,No response after quote,
+ENQ-2468,2026-06-23,NDIS coordinator,RES,SPC,210.0,Lost,2026-07-01,Timing did not suit,
+ENQ-2469,2026-06-24,Property manager,EOL,EOL,600.0,Won,2026-06-25,,C0207
+ENQ-2470,2026-06-24,Facebook,RES,ADH,200.0,Won,2026-06-25,,C0234
+ENQ-2471,2026-06-24,Website form,RES,ADH,315.0,Lost,2026-06-27,No response after quote,
+ENQ-2472,2026-06-24,Google search,RES,ADH,240.0,Lost,2026-07-01,Went with another cleaner,
+ENQ-2473,2026-06-25,Google search,RES,SPC,255.0,Won,2026-06-25,,C0212
+ENQ-2474,2026-06-25,Website form,RES,ADH,230.0,Lost,2026-07-07,Went with another cleaner,
+ENQ-2475,2026-06-26,Property manager,RES,ADH,220.0,Won,2026-06-28,,C0218
+ENQ-2476,2026-06-26,Google search,RES,SPC,350.0,Won,2026-06-29,,C0232
+ENQ-2477,2026-06-26,Referral,RES,ADH,205.0,Lost,2026-07-02,Changed plans,
+ENQ-2478,2026-06-27,Property manager,RES,ADH,235.0,Lost,2026-07-04,Changed plans,
+ENQ-2479,2026-06-27,Google search,RES,ADH,235.0,Lost,2026-07-07,Price too high,
+ENQ-2480,2026-06-27,Property manager,EOL,EOL,410.0,Lost,2026-06-29,Went with another cleaner,
+ENQ-2481,2026-06-28,Website form,RES,ADH,165.0,Lost,2026-06-30,Went with another cleaner,
+ENQ-2482,2026-06-28,NDIS coordinator,EOL,EOL,470.0,Lost,2026-07-09,No response after quote,
+ENQ-2483,2026-06-29,Property manager,EOL,EOL,395.0,Won,2026-07-01,,C0076
+ENQ-2484,2026-06-29,Google search,RES,ADH,190.0,Won,2026-07-01,,C0236
+ENQ-2485,2026-06-29,Website form,RES,ADH,345.0,Lost,2026-07-06,No response after quote,
+ENQ-2486,2026-06-30,NDIS coordinator,RES,ADH,200.0,Lost,2026-07-04,Price too high,
+ENQ-2487,2026-07-01,Property manager,RES,SPC,390.0,Lost,2026-07-11,Changed plans,
+ENQ-2488,2026-07-03,Google search,RES,SPC,190.0,Won,2026-07-05,,C0228
+ENQ-2489,2026-07-03,Website form,RES,ADH,245.0,Lost,2026-07-09,Went with another cleaner,
+ENQ-2490,2026-07-05,Referral,EOL,EOL,375.0,Lost,2026-07-11,No response after quote,
+ENQ-2491,2026-07-05,NDIS coordinator,EOL,EOL,450.0,Lost,2026-07-11,Price too high,
+ENQ-2492,2026-07-07,Property manager,EOL,EOL,395.0,Won,2026-07-10,,C0225
+ENQ-2493,2026-07-07,Referral,EOL,EOL,410.0,Lost,2026-07-10,Price too high,
+ENQ-2494,2026-07-08,Google search,EOL,EOL,405.0,Lost,2026-07-13,Changed plans,
+ENQ-2495,2026-07-11,Google search,RES,SPC,430.0,Lost,2026-07-13,Price too high,
+ENQ-2496,2026-07-11,Property manager,RES,SPC,430.0,Lost,2026-07-21,Changed plans,
+ENQ-2497,2026-07-11,Referral,RES,ADH,250.0,Lost,2026-07-14,Went with another cleaner,
+ENQ-2498,2026-07-12,Google search,RES,SPC,155.0,Lost,2026-07-20,Price too high,
+ENQ-2499,2026-07-13,Property manager,EOL,EOL,390.0,Won,2026-07-15,,C0226
+ENQ-2500,2026-07-14,Property manager,RES,ADH,175.0,Lost,2026-07-16,Timing did not suit,
+ENQ-2501,2026-07-15,Property manager,EOL,EOL,365.0,Won,2026-07-16,,C0040
+ENQ-2502,2026-07-16,Facebook,RES,ADH,185.0,Won,2026-07-19,,C0233
+ENQ-2503,2026-07-16,Property manager,RES,SPC,445.0,Won,2026-07-18,,C0230
+ENQ-2504,2026-07-18,Property manager,EOL,EOL,395.0,Won,2026-07-20,,C0047
+ENQ-2505,2026-07-21,NDIS coordinator,EOL,EOL,430.0,Lost,2026-07-25,Changed plans,
+ENQ-2506,2026-07-23,Referral,RES,SPC,175.0,Won,2026-07-26,,C0229
+ENQ-2507,2026-07-23,Referral,EOL,EOL,505.0,Lost,2026-08-02,Timing did not suit,
+ENQ-2508,2026-07-24,Referral,EOL,EOL,485.0,Won,2026-07-24,,C0047
+ENQ-2509,2026-07-24,Google search,RES,ADH,240.0,Won,2026-07-27,,C0254
+ENQ-2510,2026-07-24,Website form,EOL,EOL,405.0,Lost,2026-08-04,Changed plans,
+ENQ-2511,2026-07-27,Google search,RES,SPC,210.0,Lost,2026-08-08,Timing did not suit,
+ENQ-2512,2026-07-27,Website form,RES,SPC,140.0,Lost,2026-07-31,Timing did not suit,
+ENQ-2513,2026-07-29,NDIS coordinator,RES,SPC,145.0,Won,2026-07-29,,C0019
+ENQ-2514,2026-07-29,Google search,RES,ADH,215.0,Won,2026-07-29,,C0235
+ENQ-2515,2026-07-31,Referral,RES,SPC,420.0,Won,2026-07-31,,C0247
+ENQ-2516,2026-07-31,Google search,RES,SPC,485.0,Lost,2026-08-07,Went with another cleaner,
+ENQ-2517,2026-08-01,Property manager,RES,SPC,140.0,Won,2026-08-04,,C0243
+ENQ-2518,2026-08-01,Website form,EOL,EOL,350.0,Lost,2026-08-03,No response after quote,
+ENQ-2519,2026-08-02,Website form,RES,SPC,400.0,Lost,2026-08-04,Price too high,
+ENQ-2520,2026-08-04,Google search,RES,SPC,155.0,Won,2026-08-07,,C0249
+ENQ-2521,2026-08-04,Website form,RES,SPC,160.0,Lost,2026-08-14,Changed plans,
+ENQ-2522,2026-08-05,Facebook,EOL,EOL,420.0,Lost,2026-08-11,Went with another cleaner,
+ENQ-2523,2026-08-06,Referral,RES,REG,179.97,Won,2026-08-09,,C0237
+ENQ-2524,2026-08-07,Facebook,RES,SPC,185.0,Won,2026-08-08,,C0248
+ENQ-2525,2026-08-07,Google search,EOL,EOL,370.0,Won,2026-08-10,,C0238
+ENQ-2526,2026-08-07,Website form,RES,SPC,190.0,Lost,2026-08-10,Timing did not suit,
+ENQ-2527,2026-08-08,Google search,RES,SPC,195.0,Lost,2026-08-12,Changed plans,
+ENQ-2528,2026-08-09,Google search,COMM,ADH,235.0,Won,2026-08-11,,C0253
+ENQ-2529,2026-08-09,Facebook,RES,SPC,130.0,Lost,2026-08-13,Timing did not suit,
+ENQ-2530,2026-08-10,Referral,RES,ADH,210.0,Won,2026-08-10,,C0251
+ENQ-2531,2026-08-10,Google search,EOL,EOL,360.0,Won,2026-08-13,,C0047
+ENQ-2532,2026-08-10,Google search,RES,REG,215.0,Lost,2026-08-22,Timing did not suit,
+ENQ-2533,2026-08-11,Facebook,RES,SPC,415.0,Lost,2026-08-18,No response after quote,
+ENQ-2534,2026-08-11,Referral,EOL,EOL,470.0,Lost,2026-08-16,Changed plans,
+ENQ-2535,2026-08-12,Google search,RES,SPC,175.0,Won,2026-08-12,,C0242
+ENQ-2536,2026-08-12,Google search,COMM,ADH,255.0,Lost,2026-08-22,Timing did not suit,
+ENQ-2537,2026-08-13,Property manager,EOL,EOL,395.0,Won,2026-08-13,,C0239
+ENQ-2538,2026-08-14,NDIS coordinator,RES,ADH,310.0,Won,2026-08-15,,C0252
+ENQ-2539,2026-08-14,Google search,RES,SPC,385.0,Lost,2026-08-25,Price too high,
+ENQ-2540,2026-08-15,Website form,RES,SPC,335.0,Lost,2026-08-24,Changed plans,
+ENQ-2541,2026-08-17,Property manager,RES,SPC,155.0,Won,2026-08-20,,C0246
+ENQ-2542,2026-08-17,Property manager,EOL,EOL,485.0,Won,2026-08-18,,C0240
+ENQ-2543,2026-08-17,Property manager,EOL,EOL,430.0,Lost,2026-08-21,Price too high,
+ENQ-2544,2026-08-21,Google search,RES,SPC,175.0,Won,2026-08-21,,C0245
+ENQ-2545,2026-08-21,Website form,RES,REG,210.0,Lost,2026-08-30,Went with another cleaner,
+ENQ-2546,2026-08-21,Facebook,NDIS,NDIS,125.0,Lost,2026-08-28,Changed plans,
+ENQ-2547,2026-08-22,Google search,RES,ADH,305.0,Won,2026-08-22,,C0255
+ENQ-2548,2026-08-22,Referral,RES,ADH,365.0,Lost,2026-08-25,Changed plans,
+ENQ-2549,2026-08-23,Google search,RES,SPC,355.0,Won,2026-08-25,,C0241
+ENQ-2550,2026-08-23,Google search,RES,ADH,360.0,Lost,2026-08-27,Went with another cleaner,
+ENQ-2551,2026-08-23,Referral,EOL,EOL,340.0,Lost,2026-08-28,Went with another cleaner,
+ENQ-2552,2026-08-24,Website form,RES,SPC,365.0,Won,2026-08-26,,C0244
+ENQ-2553,2026-08-24,Facebook,COMM,ADH,235.0,Won,2026-08-26,,C0276
+ENQ-2554,2026-08-24,Property manager,EOL,EOL,365.0,Lost,2026-09-02,No response after quote,
+ENQ-2555,2026-08-24,Google search,RES,SPC,185.0,Lost,2026-08-29,Price too high,
+ENQ-2556,2026-08-24,Referral,RES,REG,165.0,Lost,2026-09-03,Price too high,
+ENQ-2557,2026-08-25,Website form,COMM,ADH,255.0,Won,2026-08-28,,C0250
+ENQ-2558,2026-08-25,NDIS coordinator,NDIS,NDIS,132.83,Won,2026-08-25,,C0036
+ENQ-2559,2026-08-25,Google search,RES,REG,177.82,Won,2026-08-25,,C0256
+ENQ-2560,2026-08-25,Google search,RES,SPC,180.0,Lost,2026-09-01,Price too high,
+ENQ-2561,2026-08-25,Property manager,RES,REG,175.0,Lost,2026-08-27,No response after quote,
+ENQ-2562,2026-08-26,Property manager,RES,ADH,360.0,Lost,2026-09-02,Changed plans,
+ENQ-2563,2026-08-27,Property manager,RES,SPC,165.0,Lost,2026-08-30,No response after quote,
+ENQ-2564,2026-08-28,Google search,RES,SPC,140.0,Lost,2026-09-02,Went with another cleaner,
+ENQ-2565,2026-08-31,Property manager,RES,SPC,365.0,Won,2026-08-31,,C0016
+ENQ-2566,2026-08-31,Referral,RES,SPC,145.0,Lost,2026-09-11,Changed plans,
+ENQ-2567,2026-08-31,NDIS coordinator,EOL,EOL,525.0,Lost,2026-09-11,Changed plans,
+ENQ-2568,2026-09-01,Google search,RES,ADH,235.0,Lost,2026-09-03,No response after quote,
+ENQ-2569,2026-09-02,Referral,RES,ADH,185.0,Won,2026-09-04,,C0275
+ENQ-2570,2026-09-02,Property manager,RES,SPC,155.0,Lost,2026-09-06,Changed plans,
+ENQ-2571,2026-09-02,Google search,COMM,ADH,280.0,Lost,2026-09-09,No response after quote,
+ENQ-2572,2026-09-05,Google search,RES,ADH,300.0,Won,2026-09-05,,C0273
+ENQ-2573,2026-09-05,Property manager,EOL,EOL,595.0,Lost,2026-09-09,Went with another cleaner,
+ENQ-2574,2026-09-05,Property manager,RES,SPC,415.0,Lost,2026-09-10,Changed plans,
+ENQ-2575,2026-09-06,Google search,RES,SPC,255.0,Won,2026-09-06,,C0270
+ENQ-2576,2026-09-07,Google search,RES,ADH,230.0,Lost,2026-09-10,Timing did not suit,
+ENQ-2577,2026-09-07,Google search,RES,ADH,390.0,Lost,2026-09-10,No response after quote,
+ENQ-2578,2026-09-08,Facebook,EOL,EOL,355.0,Lost,2026-09-11,Went with another cleaner,
+ENQ-2579,2026-09-08,Google search,RES,ADH,305.0,Lost,2026-09-20,Timing did not suit,
+ENQ-2580,2026-09-08,Property manager,EOL,EOL,565.0,Lost,2026-09-11,Timing did not suit,
+ENQ-2581,2026-09-09,Website form,EOL,EOL,470.0,Won,2026-09-09,,C0260
+ENQ-2582,2026-09-09,Website form,RES,SPC,275.0,Lost,2026-09-20,Timing did not suit,
+ENQ-2583,2026-09-11,NDIS coordinator,RES,SPC,365.0,Won,2026-09-11,,C0268
+ENQ-2584,2026-09-12,Facebook,EOL,EOL,435.0,Won,2026-09-13,,C0257
+ENQ-2585,2026-09-12,Google search,RES,SPC,230.0,Won,2026-09-14,,C0265
+ENQ-2586,2026-09-14,Referral,RES,SPC,245.0,Won,2026-09-14,,C0271
+ENQ-2587,2026-09-14,Website form,EOL,EOL,365.0,Won,2026-09-14,,C0263
+ENQ-2588,2026-09-14,Property manager,RES,SPC,230.0,Lost,2026-09-21,Price too high,
+ENQ-2589,2026-09-14,Google search,RES,ADH,215.0,Lost,2026-09-24,Price too high,
+ENQ-2590,2026-09-14,Property manager,RES,SPC,125.0,Lost,2026-09-18,Went with another cleaner,
+ENQ-2591,2026-09-14,Referral,RES,SPC,175.0,Lost,2026-09-22,Timing did not suit,
+ENQ-2592,2026-09-14,Property manager,RES,ADH,340.0,Lost,2026-09-17,Went with another cleaner,
+ENQ-2593,2026-09-15,Facebook,RES,SPC,345.0,Lost,2026-09-18,Price too high,
+ENQ-2594,2026-09-16,Google search,EOL,EOL,370.0,Won,2026-09-18,,C0258
+ENQ-2595,2026-09-16,Referral,COMM,ADH,250.0,Won,2026-09-19,,C0274
+ENQ-2596,2026-09-16,Referral,RES,ADH,330.0,Won,2026-09-17,,C0272
+ENQ-2597,2026-09-16,Referral,RES,SPC,165.0,Lost,2026-09-23,Price too high,
+ENQ-2598,2026-09-17,Property manager,EOL,EOL,295.0,Won,2026-09-20,,C0259
+ENQ-2599,2026-09-17,Property manager,EOL,EOL,465.0,Won,2026-09-20,,C0262
+ENQ-2600,2026-09-17,Property manager,EOL,EOL,585.0,Won,2026-09-17,,C0261
+ENQ-2601,2026-09-17,Facebook,EOL,EOL,465.0,Lost,2026-09-27,Timing did not suit,
+ENQ-2602,2026-09-18,Referral,RES,SPC,140.0,Won,2026-09-21,,C0267
+ENQ-2603,2026-09-18,Google search,RES,SPC,140.0,Won,2026-09-19,,C0269
+ENQ-2604,2026-09-20,Property manager,RES,SPC,150.0,Won,2026-09-23,,C0280
+ENQ-2605,2026-09-21,Google search,RES,SPC,170.0,Won,2026-09-23,,C0266
+ENQ-2606,2026-09-21,Property manager,RES,SPC,165.0,Lost,2026-09-26,Timing did not suit,
+ENQ-2607,2026-09-21,Website form,EOL,EOL,440.0,Lost,2026-10-02,Price too high,
+ENQ-2608,2026-09-23,Google search,EOL,EOL,335.0,Lost,2026-10-05,Changed plans,
+ENQ-2609,2026-09-25,Website form,EOL,EOL,360.0,Won,2026-09-25,,C0040
+ENQ-2610,2026-09-25,Google search,RES,ADH,235.0,Won,2026-09-26,,C0290
+ENQ-2611,2026-09-26,Facebook,RES,SPC,170.0,Won,2026-09-28,,C0264
+ENQ-2612,2026-09-26,Referral,EOL,EOL,365.0,Lost,2026-10-01,Price too high,
+ENQ-2613,2026-09-26,Google search,RES,SPC,170.0,Lost,2026-09-29,Changed plans,
+ENQ-2614,2026-09-26,Google search,RES,ADH,370.0,Lost,2026-09-30,Went with another cleaner,
+ENQ-2615,2026-09-27,Google search,RES,SPC,140.0,Won,2026-09-27,,C0278
+ENQ-2616,2026-09-28,Google search,RES,SPC,280.0,Lost,2026-10-04,Changed plans,
+ENQ-2617,2026-09-29,Property manager,EOL,EOL,480.0,Won,2026-10-01,,C0277
+ENQ-2618,2026-09-29,Google search,RES,SPC,260.0,Lost,2026-10-08,No response after quote,
+ENQ-2619,2026-09-29,Google search,RES,SPC,255.0,Lost,2026-10-03,Changed plans,
+ENQ-2620,2026-09-30,Facebook,RES,ADH,240.0,Won,2026-10-02,,C0287
+ENQ-2621,2026-09-30,Google search,COMM,ADH,230.0,Won,2026-10-02,,C0292
+ENQ-2622,2026-09-30,Property manager,RES,ADH,325.0,Lost,2026-10-02,No response after quote,
+ENQ-2623,2026-09-30,Referral,EOL,EOL,475.0,Lost,2026-10-12,Timing did not suit,
+ENQ-2624,2026-09-30,Google search,RES,SPC,185.0,Lost,2026-10-11,Timing did not suit,
+ENQ-2625,2026-10-01,Google search,RES,ADH,230.0,Won,2026-10-01,,C0291
+ENQ-2626,2026-10-01,Website form,RES,ADH,190.0,Lost,2026-10-08,No response after quote,
+ENQ-2627,2026-10-01,Property manager,RES,ADH,225.0,Lost,2026-10-07,Went with another cleaner,
+ENQ-2628,2026-10-04,Google search,RES,SPC,420.0,Lost,2026-10-14,Went with another cleaner,
+ENQ-2629,2026-10-05,Website form,RES,SPC,155.0,Lost,2026-10-09,Went with another cleaner,
+ENQ-2630,2026-10-06,Google search,RES,SPC,200.0,Lost,2026-10-15,Went with another cleaner,
+ENQ-2631,2026-10-09,Google search,RES,ADH,270.0,Lost,2026-10-18,Went with another cleaner,
+ENQ-2632,2026-10-10,Referral,RES,SPC,370.0,Won,2026-10-10,,C0279
+ENQ-2633,2026-10-10,Property manager,RES,SPC,230.0,Won,2026-10-11,,C0281
+ENQ-2634,2026-10-10,Facebook,RES,ADH,170.0,Open,,,
+ENQ-2635,2026-10-11,Google search,RES,ADH,190.0,Won,2026-10-14,,C0286
+ENQ-2636,2026-10-11,Google search,RES,SPC,360.0,Lost,2026-10-14,Went with another cleaner,
+ENQ-2637,2026-10-12,Google search,RES,SPC,190.0,Won,2026-10-12,,C0017
+ENQ-2638,2026-10-13,Referral,RES,SPC,370.0,Won,2026-10-16,,C0284
+ENQ-2639,2026-10-13,Referral,RES,SPC,270.0,Open,,,
+ENQ-2640,2026-10-14,Property manager,RES,SPC,180.0,Open,,,
+ENQ-2641,2026-10-16,NDIS coordinator,RES,ADH,240.0,Open,,,
+ENQ-2642,2026-10-18,Google search,RES,ADH,230.0,Open,,,
+ENQ-2643,2026-10-18,Google search,RES,SPC,265.0,Open,,,
+ENQ-2644,2026-10-19,Referral,RES,ADH,240.0,Open,,,
+ENQ-2645,2026-10-19,Referral,RES,SPC,175.0,Open,,,
+ENQ-2646,2026-10-19,Property manager,RES,SPC,155.0,Open,,,

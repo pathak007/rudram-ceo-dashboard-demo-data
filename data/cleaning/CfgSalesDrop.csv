@@ -1,0 +1,4 @@
+DropPct,Label,SortOrder,IsDefault
+0.1,10% drop,1,False
+0.2,20% drop,2,True
+0.3,30% drop,3,False

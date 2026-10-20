@@ -1,0 +1,336 @@
+{
+  "as_at": "2026-10-19",
+  "window_start": "2026-06-01",
+  "window_end": "2026-09-30",
+  "period_label": "Jun\u2013Sep 2026 \u00b7 example business \u00b7 updated daily",
+  "generated": "2026-10-20 09:41",
+  "big_picture": {
+    "revenue": 77276.64,
+    "net_profit": 4044.79,
+    "profit_margin": 0.0523,
+    "average_clean_value": 180.9757,
+    "cleans": 427,
+    "leads_won_pct": 0.4293,
+    "months": [
+      {
+        "month": "Jun",
+        "revenue": 20227.36,
+        "net_profit": 1681.91
+      },
+      {
+        "month": "Jul",
+        "revenue": 18649.29,
+        "net_profit": 1021.34
+      },
+      {
+        "month": "Aug",
+        "revenue": 17939.08,
+        "net_profit": 1173.83
+      },
+      {
+        "month": "Sep",
+        "revenue": 20460.91,
+        "net_profit": 167.71
+      }
+    ],
+    "revenue_by_client_type": {
+      "Residential": 43922.8,
+      "Commercial": 10800.72,
+      "End of Lease": 10565.0,
+      "NDIS / Support": 7242.79,
+      "Strata / Body Corporate": 4745.33
+    }
+  },
+  "money": {
+    "labour": 50788.06,
+    "consumables": 6929.92,
+    "overheads": 15513.87,
+    "by_service": {
+      "Regular / Recurring Clean": {
+        "revenue": 31007.8,
+        "labour": 22687.75,
+        "consumables": 2692.81,
+        "overheads": 6225.0504,
+        "profit": -597.8104,
+        "margin": -0.0193,
+        "labour_share": 0.7317
+      },
+      "Commercial Contract": {
+        "revenue": 14571.05,
+        "labour": 8004.77,
+        "consumables": 1137.92,
+        "overheads": 2925.2485,
+        "profit": 2503.1115,
+        "margin": 0.1718,
+        "labour_share": 0.5494
+      },
+      "End of Lease": {
+        "revenue": 10565.0,
+        "labour": 7644.44,
+        "consumables": 931.16,
+        "overheads": 2121.0037,
+        "profit": -131.6037,
+        "margin": -0.0125,
+        "labour_share": 0.7236
+      },
+      "Carpet / Window / Deep Clean": {
+        "revenue": 7520.0,
+        "labour": 3229.87,
+        "consumables": 1075.08,
+        "overheads": 1509.6969,
+        "profit": 1705.3531,
+        "margin": 0.2268,
+        "labour_share": 0.4295
+      },
+      "NDIS / Support Clean": {
+        "revenue": 7242.79,
+        "labour": 4905.02,
+        "consumables": 605.02,
+        "overheads": 1454.0449,
+        "profit": 278.7051,
+        "margin": 0.0385,
+        "labour_share": 0.6772
+      },
+      "One-off / Ad-hoc": {
+        "revenue": 6370.0,
+        "labour": 4316.21,
+        "consumables": 487.93,
+        "overheads": 1278.8257,
+        "profit": 287.0343,
+        "margin": 0.0451,
+        "labour_share": 0.6776
+      }
+    }
+  },
+  "job_check": {
+    "quoted_cost": 51021.64,
+    "actual_cost": 57717.98,
+    "over_quote_pct": 0.1312,
+    "cleans_over_budget": 287,
+    "cleans": 427,
+    "revenue_per_paid_hour": 54.3054,
+    "overrun": 6696.34,
+    "by_service": {
+      "One-off / Ad-hoc": 0.2308,
+      "Commercial Contract": 0.0918,
+      "End of Lease": 0.3628,
+      "NDIS / Support Clean": -0.0137,
+      "Regular / Recurring Clean": 0.1028,
+      "Carpet / Window / Deep Clean": 0.118
+    },
+    "by_cleaner": {
+      "Sam": 0.1123,
+      "Priya": 0.0812,
+      "Jess": 0.0224,
+      "Tom": 0.3081,
+      "Mia": 0.3814,
+      "Zara": 0.4265
+    },
+    "top5": [
+      {
+        "job": "EOL-1054 2-bed unit, Applecross",
+        "cleaner": "Mia",
+        "quoted": 230.08,
+        "actual": 443.77,
+        "cause": "return visit for re-clean"
+      },
+      {
+        "job": "EOL-1065 2-bed unit, East Perth",
+        "cleaner": "Mia",
+        "quoted": 238.13,
+        "actual": 421.15,
+        "cause": "site larger than quoted"
+      },
+      {
+        "job": "EOL-1059 4x2 house, Leeming",
+        "cleaner": "Mia",
+        "quoted": 325.3,
+        "actual": 490.01,
+        "cause": "extra areas requested"
+      },
+      {
+        "job": "EOL-1071 3x2 house, Belmont",
+        "cleaner": "Zara",
+        "quoted": 267.7,
+        "actual": 427.54,
+        "cause": "2 extra hours"
+      },
+      {
+        "job": "EOL-1058 3x2 house, Joondanna",
+        "cleaner": "Mia",
+        "quoted": 277.69,
+        "actual": 437.43,
+        "cause": "2 extra hours"
+      }
+    ]
+  },
+  "team": {
+    "paid_hours": 1423.0,
+    "time_on_cleans": 0.8078,
+    "labour_pct_revenue": 0.6572,
+    "revenue_per_hour": 54.3054,
+    "target": 57.0,
+    "sites_per_cleaner_day": 2.3368,
+    "cleaners": {
+      "Sam": {
+        "hours": 380.5,
+        "revenue": 21619.6666,
+        "revenue_per_hour": 56.8191,
+        "over_quote": 0.1123
+      },
+      "Priya": {
+        "hours": 357.0,
+        "revenue": 18648.3089,
+        "revenue_per_hour": 52.2362,
+        "over_quote": 0.0812
+      },
+      "Jess": {
+        "hours": 365.25,
+        "revenue": 21010.2368,
+        "revenue_per_hour": 57.5229,
+        "over_quote": 0.0224
+      },
+      "Tom": {
+        "hours": 122.5,
+        "revenue": 6140.1458,
+        "revenue_per_hour": 50.1236,
+        "over_quote": 0.3081
+      },
+      "Mia": {
+        "hours": 91.75,
+        "revenue": 4691.4925,
+        "revenue_per_hour": 51.1334,
+        "over_quote": 0.3814
+      },
+      "Zara": {
+        "hours": 106.0,
+        "revenue": 5166.7894,
+        "revenue_per_hour": 48.7433,
+        "over_quote": 0.4265
+      }
+    }
+  },
+  "cash": {
+    "cash_in_bank": 32413.49,
+    "owed_to_you": 5935.91,
+    "overdue_invoices": 11,
+    "tax_set_aside": 7904.2616,
+    "next_30_days": 15746.0802,
+    "safe_owner_pay": 8763.1482,
+    "aged": {
+      "0-30 days": 2853.34,
+      "31-60 days": 1477.77,
+      "61-90 days": 749.43,
+      "90+ days": 855.37
+    },
+    "forecast": [
+      33681.1046,
+      30827.8253,
+      32095.4399,
+      33363.0546,
+      34630.6692,
+      28989.993,
+      30257.6076,
+      31525.2222,
+      32792.8368,
+      34060.4515,
+      35328.0661,
+      36595.6807,
+      37863.2953
+    ],
+    "minimum_cash": 10000.0,
+    "avg_monthly_sales": 19319.16,
+    "break_even": 17972.2557,
+    "drop_to_loss": 0.0697
+  },
+  "afford": [
+    {
+      "card": "Can we hire another cleaner?",
+      "status": "Watch",
+      "fails": 1,
+      "metrics": {
+        "CashBufferWeeks": 8.8222,
+        "LabourPctRevenue": 0.6572,
+        "TimeOnCleansMin3M": 0.7965
+      }
+    },
+    {
+      "card": "Can we buy the van ($38,000)?",
+      "status": "Watch",
+      "fails": 1,
+      "metrics": {
+        "PaybackMonths": 34.5455,
+        "RepaymentsPctRevenue": 0.0326,
+        "CashLeftAfterDeposit": 1163.1482
+      }
+    },
+    {
+      "card": "Can we buy the carpet extractor ($6,500)?",
+      "status": "Ready",
+      "fails": 0,
+      "metrics": {
+        "PaybackMonths": 10.8333,
+        "RepaymentsPctRevenue": 0.0124,
+        "CashLeftAfterDeposit": 7463.1482
+      }
+    },
+    {
+      "card": "Can we buy the ride-on scrubber ($12,500)?",
+      "status": "Watch",
+      "fails": 1,
+      "metrics": {
+        "PaybackMonths": 19.2308,
+        "RepaymentsPctRevenue": 0.0187,
+        "CashLeftAfterDeposit": 7513.1482
+      }
+    },
+    {
+      "card": "Is our pricing working?",
+      "status": "Not yet",
+      "fails": 2,
+      "metrics": {
+        "WorstServiceMargin": -0.0193,
+        "OverQuotePct": 0.1312,
+        "BestServiceMargin": 0.2268
+      }
+    },
+    {
+      "card": "What if sales drop 10%? (sales $17.4K/month vs break-even $18.0K)",
+      "status": "Watch",
+      "fails": 1,
+      "metrics": {
+        "ScenarioSalesVsBreakEven": -585.0117,
+        "ScenarioCashWeeks": 143.1537,
+        "LargestClientShare": 0.0461
+      }
+    },
+    {
+      "card": "What if sales drop 20%? (sales $15.5K/month vs break-even $18.0K)",
+      "status": "Watch",
+      "fails": 1,
+      "metrics": {
+        "ScenarioSalesVsBreakEven": -2516.9277,
+        "ScenarioCashWeeks": 33.2733,
+        "LargestClientShare": 0.0461
+      }
+    },
+    {
+      "card": "What if sales drop 30%? (sales $13.5K/month vs break-even $18.0K)",
+      "status": "Watch",
+      "fails": 1,
+      "metrics": {
+        "ScenarioSalesVsBreakEven": -4448.8437,
+        "ScenarioCashWeeks": 18.8244,
+        "LargestClientShare": 0.0461
+      }
+    }
+  ],
+  "retention": {
+    "recurring_contract_value": 13719.6,
+    "client_retention": 0.9375,
+    "contracts_won": 3,
+    "contracts_lost": 2,
+    "largest_client_share": 0.0461,
+    "largest_client": "Cityside Dental"
+  }
+}

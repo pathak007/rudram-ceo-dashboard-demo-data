@@ -1,0 +1,13 @@
+RuleID,Scenario,RuleOrder,MetricName,Operator,Threshold,WatchBand,Unit,LabelTemplate
+Hire-1,Hire,1,CashBufferWeeks,>=,8.0,0,weeks,Cash buffer {actual} weeks · need {threshold}
+Hire-2,Hire,2,LabourPctRevenue,<=,0.55,0,pct,Labour {actual} of revenue · max {threshold}
+Hire-3,Hire,3,TimeOnCleansMin3M,>=,0.75,0,pct,Team {actual} on cleans for 3 months · min {threshold}
+Buy-1,Buy,1,PaybackMonths,<=,18.0,0,months,Pays for itself in {actual} months · max {threshold}
+Buy-2,Buy,2,RepaymentsPctRevenue,<=,0.06,0,pct,Repayments {actual} of revenue · max {threshold}
+Buy-3,Buy,3,CashLeftAfterDeposit,>=,0.0,0,aud,Tax & bills still covered after deposit
+Pricing-1,Pricing,1,WorstServiceMargin,>=,0.15,0,pct,{service} margin {actual} · target {threshold}
+Pricing-2,Pricing,2,OverQuotePct,<=,0.1,0,pct,Cleans costing {actual} more than quoted · max {threshold}
+Pricing-3,Pricing,3,BestServiceMargin,>=,0.15,0,pct,{service} margin {actual} · target {threshold}
+SalesDrop-1,SalesDrop,1,ScenarioSalesVsBreakEven,>=,0.0,0,aud,Sales would be {actual}/month · break-even {threshold}
+SalesDrop-2,SalesDrop,2,ScenarioCashWeeks,>=,13.0,0,weeks,Cash would last {actual} weeks · want {threshold}+
+SalesDrop-3,SalesDrop,3,LargestClientShare,<=,0.2,0,pct,No client over {threshold} of sales

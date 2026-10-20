@@ -1,0 +1,6 @@
+ClientTypeKey,ClientType,SortOrder
+RES,Residential,1
+COMM,Commercial,2
+STR,Strata / Body Corporate,3
+NDIS,NDIS / Support,4
+EOL,End of Lease,5

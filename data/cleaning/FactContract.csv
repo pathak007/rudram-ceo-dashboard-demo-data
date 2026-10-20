@@ -1,0 +1,42 @@
+ContractID,ClientKey,SiteKey,ServiceTypeKey,ContractType,Frequency,ValuePerVisitExGST,MonthlyValueExGST,StartDate,EndDate,IsActive,EndReason,PricedBefore2022
+K0001,C0001,ST0001,REG,Residential regular,Weekly,110.0,476.67,2021-08-24,2026-03-18,False,Budget cut,True
+K0002,C0002,ST0002,REG,Residential regular,Weekly,106.0,459.33,2021-02-13,2025-09-27,False,Doing it themselves,True
+K0003,C0003,ST0003,REG,Residential regular,Fortnightly,96.0,208.0,2021-06-07,,True,,True
+K0004,C0004,ST0004,REG,Residential regular,Fortnightly,102.0,221.0,2021-08-13,,True,,True
+K0005,C0005,ST0005,REG,Residential regular,Fortnightly,108.0,234.0,2019-04-28,,True,,True
+K0006,C0006,ST0006,REG,Residential regular,Fortnightly,108.0,234.0,2021-06-29,2025-10-21,False,Moved away,True
+K0007,C0007,ST0007,REG,Residential regular,Fortnightly,96.0,208.0,2019-01-23,,True,,True
+K0008,C0008,ST0008,REG,Residential regular,Fortnightly,108.0,234.0,2019-06-23,,True,,True
+K0009,C0009,ST0009,REG,Residential regular,Fortnightly,102.0,221.0,2020-04-21,,True,,True
+K0010,C0010,ST0010,REG,Residential regular,Fortnightly,106.0,229.67,2021-05-11,,True,,True
+K0011,C0011,ST0011,REG,Residential regular,Fortnightly,106.0,229.67,2020-11-10,2026-02-25,False,Moved away,True
+K0012,C0012,ST0012,REG,Residential regular,Fortnightly,98.0,212.33,2019-02-08,,True,,True
+K0013,C0013,ST0013,REG,Residential regular,Weekly,102.0,442.0,2021-06-17,,True,,True
+K0014,C0014,ST0014,REG,Residential regular,Fortnightly,110.0,238.33,2020-11-18,2026-06-04,False,Went with a cheaper cleaner,True
+K0015,C0015,ST0015,REG,Residential regular,Monthly,184.25,184.25,2023-08-01,,True,,False
+K0016,C0016,ST0016,REG,Residential regular,Monthly,179.97,179.97,2022-03-24,,True,,False
+K0017,C0017,ST0017,REG,Residential regular,Weekly,175.68,761.28,2023-12-14,,True,,False
+K0018,C0018,ST0018,REG,Residential regular,Fortnightly,169.25,366.71,2022-09-10,,True,,False
+K0019,C0019,ST0019,REG,Residential regular,Fortnightly,173.54,376.0,2022-11-06,,True,,False
+K0020,C0020,ST0020,REG,Residential regular,Fortnightly,182.11,394.57,2023-07-21,,True,,False
+K0021,C0021,ST0021,REG,Residential regular,Fortnightly,177.82,385.28,2022-06-15,,True,,False
+K0022,C0022,ST0022,REG,Residential regular,Weekly,162.83,705.6,2024-04-25,,True,,False
+K0023,C0023,ST0023,REG,Residential regular,Fortnightly,169.25,366.71,2024-11-17,,True,,False
+K0024,C0024,ST0024,REG,Residential regular,Fortnightly,184.25,399.21,2024-03-21,2025-11-10,False,Went with a cheaper cleaner,False
+K0025,C0025,ST0025,COM,Commercial,Weekly,184.25,798.42,2022-03-01,,True,,False
+K0026,C0026,ST0026,COM,Commercial,Twice weekly,119.98,1039.83,2021-06-01,2026-01-30,False,Went with another provider,False
+K0027,C0027,ST0027,COM,Commercial,Weekly,199.25,863.42,2026-03-02,,True,,False
+K0028,C0028,ST0028,COM,Commercial,Weekly,176.75,765.92,2026-05-08,,True,,False
+K0029,C0029,ST0029,COM,Strata common areas,Fortnightly,227.1,492.05,2020-09-01,,True,,False
+K0030,C0030,ST0030,COM,Strata common areas,Monthly,276.38,276.38,2023-02-01,2026-07-31,False,Went with another provider,False
+K0031,C0031,ST0031,COM,Strata common areas,Fortnightly,244.24,529.19,2026-03-10,,True,,False
+K0032,C0032,ST0032,NDIS,NDIS support,Fortnightly,132.83,287.8,2023-07-01,,True,,False
+K0033,C0033,ST0033,NDIS,NDIS support,Fortnightly,132.83,287.8,2024-01-15,,True,,False
+K0034,C0034,ST0034,NDIS,NDIS support,Weekly,132.83,575.6,2024-08-01,,True,,False
+K0035,C0035,ST0035,NDIS,NDIS support,Weekly,132.83,575.6,2026-02-10,,True,,False
+K0036,C0036,ST0036,NDIS,NDIS support,Fortnightly,132.83,287.8,2026-09-07,,True,,False
+K0037,C0073,ST0081,REG,Residential regular,Fortnightly,184.25,399.21,2025-10-30,,True,,False
+K0038,C0109,ST0129,REG,Residential regular,Weekly,182.11,789.14,2025-12-10,,True,,False
+K0039,C0193,ST0230,REG,Residential regular,Fortnightly,167.11,362.07,2026-05-04,,True,,False
+K0040,C0237,ST0288,REG,Residential regular,Fortnightly,179.97,389.93,2026-08-13,,True,,False
+K0041,C0256,ST0309,REG,Residential regular,Fortnightly,177.82,385.28,2026-09-04,,True,,False

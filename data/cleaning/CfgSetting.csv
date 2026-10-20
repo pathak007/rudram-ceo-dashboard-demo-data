@@ -1,0 +1,25 @@
+SettingKey,Value,Unit,Description
+BusinessName,Demo Cleaning Co Pty Ltd,text,Shown top right of every screen
+PeriodLabel,Jun–Sep 2026 · example business · updated daily,text,Shown under the business name
+SimStartDate,2025-07-01,date,First date of simulated history
+ReportStartDate,2026-06-01,date,First day of the rolling reporting window
+ReportEndDate,2026-09-30,date,Last day of the last complete month
+AsAtDate,2026-10-19,date,"Data is complete to this date (cash, receivables, tax as at)"
+DataLastUpdated,2026-10-20 09:41,datetime,When this dataset was generated (Perth time)
+OpeningCash,24000,AUD,Bank balance at SimStartDate
+Industry,cleaning,text,Profile used to generate the data
+Seed,67,int,Simulation seed
+SuperRate,0.115,ratio,"Superannuation guarantee rate, used for the forecast"
+MinimumCash,10000,AUD,Cash floor shown as the dashed line on the 13-week forecast
+RevenuePerHourTarget,57,AUD/hr,Target revenue per paid hour (Team & Time target marker)
+OverheadAllocationMethod,RevenueShare,text,"How overheads are spread across service types: RevenueShare, OnSiteHours or CleanCount"
+QuoteLabourRate,34,AUD/hr,Standard labour rate used when quoting (FY2025; indexed each July)
+QuoteTravelAllowanceHours,0.5,hours,Travel allowance per cleaner per job built into quotes
+PAYGWRate,0.08,ratio,PAYG withholding as a share of gross wages (approximation for set-aside)
+IncomeTaxProvisionRate,0,ratio,Optional income tax provision on net profit; 0 = off
+OwnerPayRule,Always keep tax and the next 30 days covered.,text,Shown in the 'Your rule' footer
+ForecastWeeks,13,weeks,Cash forecast horizon
+ForecastLookbackWeeks,13,weeks,History used to average weekly receipts and payments
+BusyLookbackMonths,3,months,Months the team must be busy for the hire rule
+NarrativeDay,Monday,text,Day the weekly narrative is written
+RulesFootnote,Rules set with Karen G. Adams · reviewed at every Monthly Review,text,Screen 6 legend text

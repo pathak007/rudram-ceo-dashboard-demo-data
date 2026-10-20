@@ -1,0 +1,28 @@
+Term,Definition,Screen,SortOrder
+Revenue,"Money invoiced for cleans in the period, before GST.",All,1
+Net profit,"Revenue less labour, consumables and overheads. Owner drawings are not a cost.",The Big Picture,2
+Profit margin,Net profit as a share of revenue. How many cents you keep from every dollar.,The Big Picture,3
+Average clean value,Revenue divided by the number of cleans completed in the period.,The Big Picture,4
+Leads won,Quotes won as a share of quotes decided (won plus lost) in the period.,The Big Picture,5
+Labour,"Wages, super and on-costs for the cleaning team, including paid travel between sites.",Where the Money's Made,6
+Consumables cost,"Chemicals, paper products, PPE, equipment hire and fuel used to deliver the clean.",Where the Money's Made,7
+Overhead cost,"Running costs not tied to a specific clean: insurance, admin wages, software, vehicle finance, marketing.",Where the Money's Made,8
+Profit after overheads,What a service type keeps once its share of overheads is counted. Overheads are shared by revenue unless your adviser sets another method.,Where the Money's Made,9
+Quoted cost,"What the clean was expected to cost when it was priced: quoted hours plus a travel allowance at the standard labour rate, plus expected consumables.",Job Check,10
+Actual cost,"What the clean really cost: hours on site plus its share of the day's travel, at each cleaner's real rate, plus consumables used.",Job Check,11
+Over quote,"How much more the cleans cost than quoted, as a percentage of the quoted cost.",Job Check,12
+Revenue per hour,"Revenue divided by every paid hour, including travel. The single best test of pricing and efficiency together.",Team & Time,13
+% time on cleans,"Hours spent on site cleaning as a share of all paid hours. The rest is travel, loading and training.",Team & Time,14
+Sites per cleaner per day,Average number of different sites each cleaner visits on a working day. More sites usually means more travel.,Team & Time,15
+Cash in bank,The business bank balance as at yesterday.,Cash & My Pay,16
+Owed to you,"Unpaid invoices, including GST.",Cash & My Pay,17
+Aged receivables,Unpaid invoices grouped by how long ago they were issued.,Cash & My Pay,18
+Tax & BAS set aside,"GST collected less GST paid, plus PAYG withheld from wages, since the last BAS was paid. This money belongs to the ATO.",Cash & My Pay,19
+Break-even,The sales you need each month to cover every cost. Below it you make a loss.,Cash & My Pay,20
+Safe owner's pay,"Cash in the bank, less tax and BAS set aside, less the next 30 days of bills and wages. What you can take without touching money that is already spoken for.",Cash & My Pay,21
+Cash buffer weeks,How many weeks of normal bills and wages the cash in the bank would cover.,Can I Afford It?,22
+Payback,How many months a purchase takes to pay for itself from the extra profit or savings it brings.,Can I Afford It?,23
+Ready / Watch / Not yet,Ready: every rule is met. Watch: one rule is not met. Not yet: two or more rules are not met. Rules are set with your adviser.,Can I Afford It?,24
+Recurring contract value,Combined monthly value of all active recurring cleaning contracts: the subscription-style base of the business.,Clients & Retention,25
+Client retention rate,Share of contracts active at the start of the period that are still active at the end.,Clients & Retention,26
+Churn,A recurring contract that ended or was cancelled within the period.,Clients & Retention,27

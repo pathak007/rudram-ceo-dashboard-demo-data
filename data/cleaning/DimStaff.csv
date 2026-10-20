@@ -1,0 +1,8 @@
+StaffKey,FirstName,Role,EmploymentType,StartDate,EndDate,LoadedHourlyCost,IsNewestCasual,SortOrder
+S01,Sam,Team Leader,Owner / Director,2019-03-01,,37.2,False,1
+S02,Priya,Cleaner,Part-time,2021-08-09,,34.69,False,2
+S03,Jess,Cleaner,Part-time,2022-05-16,,33.59,False,3
+S04,Tom,Casual,Casual,2023-10-02,,38.89,False,4
+S05,Ella,Casual,Casual,2025-08-04,2026-02-01,38.89,False,5
+S06,Mia,Casual,Casual,2026-02-02,2026-08-02,38.89,False,6
+S07,Zara,Casual,Casual,2026-08-03,,38.89,True,7

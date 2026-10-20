@@ -1,0 +1,6 @@
+CostCategoryKey,CostCategory,SortOrder
+CHEM,Chemicals,1
+PAPER,Paper & Consumables,2
+EQUIP,Equipment Hire & Maintenance,3
+PPE,PPE,4
+VEH,Vehicle & Fuel,5

@@ -1,0 +1,4 @@
+Item,PriceExGST,DepositPct,TermMonths,AnnualRate,MonthlyBenefit,SortOrder,IsDefault
+Van,38000,0.2,60,0.089,1100,1,False
+Carpet extractor,6500,0.2,24,0.095,600,2,True
+Ride-on scrubber,12500,0.1,36,0.095,650,3,False

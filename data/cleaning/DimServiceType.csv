@@ -1,0 +1,7 @@
+ServiceTypeKey,ServiceType,JobPrefix,IsRecurring,SortOrder
+REG,Regular / Recurring Clean,REG,True,1
+EOL,End of Lease,EOL,False,2
+COM,Commercial Contract,COM,True,3
+SPC,Carpet / Window / Deep Clean,SPC,False,4
+NDIS,NDIS / Support Clean,NDIS,True,5
+ADH,One-off / Ad-hoc,ADH,False,6

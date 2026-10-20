@@ -1,0 +1,1231 @@
+ExpenseLineID,SourceType,Date,DueDate,Supplier,AccountCode,Description,AmountExGST,GST,StaffKey,PaidDate
+EX000001,Bill,2025-07-03,2025-07-03,Job management software,485,Monthly,92.11,9.21,,2025-07-03
+EX000002,Bill,2025-07-03,2025-07-03,Xero,485,Monthly,72.45,7.24,,2025-07-03
+EX000003,Bill,2025-07-05,2025-07-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2025-07-05
+EX000004,Bill,2025-07-06,2025-08-05,Perth Clean Supply Co,310,Weekly supplies,120.03,12.0,,2025-08-07
+EX000005,Bill,2025-07-06,2025-08-05,WA Hygiene Wholesale,311,Weekly supplies,49.95,5.0,,2025-08-03
+EX000006,Bill,2025-07-06,2025-08-05,SafeWorks Supplies,313,Weekly supplies,20.08,2.01,,2025-08-04
+EX000007,Bill,2025-07-06,2025-07-13,Fleet fuel card,314,Weekly supplies,174.67,17.47,,2025-07-13
+EX000008,Payroll,2025-07-06,2025-07-06,Payroll - Tom,475,Field wages,400.62,0.0,S04,
+EX000009,Payroll,2025-07-06,2025-07-06,Payroll - Tom,476,Super & on-costs,59.61,0.0,S04,
+EX000010,Payroll,2025-07-06,2025-07-06,Payroll - Jess,477,Field wages,798.23,0.0,S03,
+EX000011,Payroll,2025-07-06,2025-07-06,Payroll - Priya,477,Field wages,773.48,0.0,S02,
+EX000012,Payroll,2025-07-06,2025-07-06,Payroll - Sam,477,Field wages,672.84,0.0,S01,
+EX000013,Payroll,2025-07-06,2025-07-06,Payroll - Jess,478,Super & on-costs,118.48,0.0,S03,
+EX000014,Payroll,2025-07-06,2025-07-06,Payroll - Priya,478,Super & on-costs,114.8,0.0,S02,
+EX000015,Payroll,2025-07-06,2025-07-06,Payroll - Sam,478,Super & on-costs,99.87,0.0,S01,
+EX000016,Bill,2025-07-10,2025-07-10,Website & listings refresh,400,Monthly,434.7,43.47,,2025-07-10
+EX000017,Bill,2025-07-12,2025-07-12,Telco,489,Monthly,122.13,12.21,,2025-07-12
+EX000018,Bill,2025-07-13,2025-08-12,Perth Clean Supply Co,310,Weekly supplies,92.44,9.24,,2025-08-14
+EX000019,Bill,2025-07-13,2025-08-12,WA Hygiene Wholesale,311,Weekly supplies,38.06,3.81,,2025-08-14
+EX000020,Bill,2025-07-13,2025-08-12,SafeWorks Supplies,313,Weekly supplies,15.3,1.53,,2025-08-08
+EX000021,Bill,2025-07-13,2025-07-20,Fleet fuel card,314,Weekly supplies,157.21,15.72,,2025-07-20
+EX000022,Payroll,2025-07-13,2025-07-13,Payroll - Tom,475,Field wages,130.81,0.0,S04,
+EX000023,Payroll,2025-07-13,2025-07-13,Payroll - Tom,476,Super & on-costs,19.47,0.0,S04,
+EX000024,Payroll,2025-07-13,2025-07-13,Payroll - Jess,477,Field wages,664.02,0.0,S03,
+EX000025,Payroll,2025-07-13,2025-07-13,Payroll - Priya,477,Field wages,758.88,0.0,S02,
+EX000026,Payroll,2025-07-13,2025-07-13,Payroll - Sam,477,Field wages,578.96,0.0,S01,
+EX000027,Payroll,2025-07-13,2025-07-13,Payroll - Jess,478,Super & on-costs,98.56,0.0,S03,
+EX000028,Payroll,2025-07-13,2025-07-13,Payroll - Priya,478,Super & on-costs,112.64,0.0,S02,
+EX000029,Payroll,2025-07-13,2025-07-13,Payroll - Sam,478,Super & on-costs,85.93,0.0,S01,
+EX000030,Bill,2025-07-15,2025-07-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2025-07-15
+EX000031,Bill,2025-07-17,2025-07-17,Equipment Hire WA,312,Carpet extractor hire SPC-1004,56.92,5.69,,2025-07-17
+EX000032,Bill,2025-07-19,2025-07-19,Equipment Hire WA,312,Carpet extractor hire SPC-1005,56.92,5.69,,2025-07-19
+EX000033,Bill,2025-07-20,2025-08-19,Perth Clean Supply Co,310,Weekly supplies,86.82,8.68,,2025-08-21
+EX000034,Bill,2025-07-20,2025-08-19,WA Hygiene Wholesale,311,Weekly supplies,40.7,4.07,,2025-08-24
+EX000035,Bill,2025-07-20,2025-08-19,SafeWorks Supplies,313,Weekly supplies,14.56,1.46,,2025-08-18
+EX000036,Bill,2025-07-20,2025-07-27,Fleet fuel card,314,Weekly supplies,178.14,17.81,,2025-07-27
+EX000037,Bill,2025-07-20,2025-07-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2025-07-20
+EX000038,Payroll,2025-07-20,2025-07-20,Payroll - Tom,475,Field wages,294.33,0.0,S04,
+EX000039,Payroll,2025-07-20,2025-07-20,Payroll - Tom,476,Super & on-costs,43.8,0.0,S04,
+EX000040,Payroll,2025-07-20,2025-07-20,Payroll - Jess,477,Field wages,586.32,0.0,S03,
+EX000041,Payroll,2025-07-20,2025-07-20,Payroll - Priya,477,Field wages,693.21,0.0,S02,
+EX000042,Payroll,2025-07-20,2025-07-20,Payroll - Sam,477,Field wages,555.47,0.0,S01,
+EX000043,Payroll,2025-07-20,2025-07-20,Payroll - Jess,478,Super & on-costs,87.02,0.0,S03,
+EX000044,Payroll,2025-07-20,2025-07-20,Payroll - Priya,478,Super & on-costs,102.89,0.0,S02,
+EX000045,Payroll,2025-07-20,2025-07-20,Payroll - Sam,478,Super & on-costs,82.45,0.0,S01,
+EX000046,Bill,2025-07-25,2025-07-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2025-07-25
+EX000047,Bill,2025-07-27,2025-08-26,Perth Clean Supply Co,310,Weekly supplies,64.89,6.49,,2025-08-28
+EX000048,Bill,2025-07-27,2025-08-26,WA Hygiene Wholesale,311,Weekly supplies,33.41,3.34,,2025-08-22
+EX000049,Bill,2025-07-27,2025-08-26,SafeWorks Supplies,313,Weekly supplies,11.63,1.16,,2025-08-27
+EX000050,Bill,2025-07-27,2025-08-03,Fleet fuel card,314,Weekly supplies,129.25,12.93,,2025-08-03
+EX000051,Payroll,2025-07-27,2025-07-27,Payroll - Tom,475,Field wages,114.47,0.0,S04,
+EX000052,Payroll,2025-07-27,2025-07-27,Payroll - Tom,476,Super & on-costs,17.03,0.0,S04,
+EX000053,Payroll,2025-07-27,2025-07-27,Payroll - Jess,477,Field wages,480.35,0.0,S03,
+EX000054,Payroll,2025-07-27,2025-07-27,Payroll - Priya,477,Field wages,532.68,0.0,S02,
+EX000055,Payroll,2025-07-27,2025-07-27,Payroll - Sam,477,Field wages,563.3,0.0,S01,
+EX000056,Payroll,2025-07-27,2025-07-27,Payroll - Jess,478,Super & on-costs,71.3,0.0,S03,
+EX000057,Payroll,2025-07-27,2025-07-27,Payroll - Priya,478,Super & on-costs,79.06,0.0,S02,
+EX000058,Payroll,2025-07-27,2025-07-27,Payroll - Sam,478,Super & on-costs,83.61,0.0,S01,
+EX000059,Bill,2025-07-28,2025-07-28,Google Ads,400,Monthly,310.5,31.05,,2025-07-28
+EX000060,Bill,2025-07-28,2025-07-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2025-07-28
+EX000061,Bill,2025-07-31,2025-08-30,Perth Clean Supply Co,310,Weekly supplies,59.44,5.94,,2025-09-04
+EX000062,Bill,2025-07-31,2025-08-30,WA Hygiene Wholesale,311,Weekly supplies,35.97,3.6,,2025-09-03
+EX000063,Bill,2025-07-31,2025-08-30,SafeWorks Supplies,313,Weekly supplies,11.15,1.11,,2025-09-01
+EX000064,Bill,2025-07-31,2025-08-07,Fleet fuel card,314,Weekly supplies,125.77,12.58,,2025-08-07
+EX000065,Payroll,2025-07-31,2025-07-31,Payroll - Jess,477,Field wages,600.44,0.0,S03,
+EX000066,Payroll,2025-07-31,2025-07-31,Payroll - Priya,477,Field wages,467.0,0.0,S02,
+EX000067,Payroll,2025-07-31,2025-07-31,Payroll - Sam,477,Field wages,485.06,0.0,S01,
+EX000068,Payroll,2025-07-31,2025-07-31,Payroll - Jess,478,Super & on-costs,89.12,0.0,S03,
+EX000069,Payroll,2025-07-31,2025-07-31,Payroll - Priya,478,Super & on-costs,69.32,0.0,S02,
+EX000070,Payroll,2025-07-31,2025-07-31,Payroll - Sam,478,Super & on-costs,72.0,0.0,S01,
+EX000071,Payroll,2025-07-31,2025-07-31,Payroll - Sam (admin),480,Director admin & quoting,1219.23,0.0,S01,
+EX000072,Payroll,2025-07-31,2025-07-31,Payroll - Sam (admin),481,Director super,140.21,0.0,S01,
+EX000073,Bill,2025-08-03,2025-09-02,Perth Clean Supply Co,310,Weekly supplies,11.87,1.19,,2025-09-03
+EX000074,Bill,2025-08-03,2025-09-02,WA Hygiene Wholesale,311,Weekly supplies,8.94,0.89,,2025-08-30
+EX000075,Bill,2025-08-03,2025-09-02,SafeWorks Supplies,313,Weekly supplies,1.9,0.19,,2025-09-01
+EX000076,Bill,2025-08-03,2025-08-10,Fleet fuel card,314,Weekly supplies,20.75,2.08,,2025-08-10
+EX000077,Bill,2025-08-03,2025-08-03,Job management software,485,Monthly,92.11,9.21,,2025-08-03
+EX000078,Bill,2025-08-03,2025-08-03,Xero,485,Monthly,72.45,7.24,,2025-08-03
+EX000079,Payroll,2025-08-03,2025-08-03,Payroll - Tom,475,Field wages,261.63,0.0,S04,
+EX000080,Payroll,2025-08-03,2025-08-03,Payroll - Tom,476,Super & on-costs,38.93,0.0,S04,
+EX000081,Payroll,2025-08-03,2025-08-03,Payroll - Priya,477,Field wages,80.27,0.0,S02,
+EX000082,Payroll,2025-08-03,2025-08-03,Payroll - Priya,478,Super & on-costs,11.91,0.0,S02,
+EX000083,Bill,2025-08-05,2025-08-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2025-08-05
+EX000084,Bill,2025-08-10,2025-09-09,Perth Clean Supply Co,310,Weekly supplies,95.67,9.57,,2025-09-14
+EX000085,Bill,2025-08-10,2025-09-09,WA Hygiene Wholesale,311,Weekly supplies,43.8,4.38,,2025-09-06
+EX000086,Bill,2025-08-10,2025-09-09,SafeWorks Supplies,313,Weekly supplies,16.22,1.62,,2025-09-11
+EX000087,Bill,2025-08-10,2025-08-17,Fleet fuel card,314,Weekly supplies,162.57,16.26,,2025-08-17
+EX000088,Payroll,2025-08-10,2025-08-10,Payroll - Ella,475,Field wages,605.01,0.0,S05,
+EX000089,Payroll,2025-08-10,2025-08-10,Payroll - Tom,475,Field wages,277.98,0.0,S04,
+EX000090,Payroll,2025-08-10,2025-08-10,Payroll - Ella,476,Super & on-costs,90.03,0.0,S05,
+EX000091,Payroll,2025-08-10,2025-08-10,Payroll - Tom,476,Super & on-costs,41.36,0.0,S04,
+EX000092,Payroll,2025-08-10,2025-08-10,Payroll - Jess,477,Field wages,692.28,0.0,S03,
+EX000093,Payroll,2025-08-10,2025-08-10,Payroll - Priya,477,Field wages,437.82,0.0,S02,
+EX000094,Payroll,2025-08-10,2025-08-10,Payroll - Sam,477,Field wages,469.42,0.0,S01,
+EX000095,Payroll,2025-08-10,2025-08-10,Payroll - Jess,478,Super & on-costs,102.75,0.0,S03,
+EX000096,Payroll,2025-08-10,2025-08-10,Payroll - Priya,478,Super & on-costs,64.98,0.0,S02,
+EX000097,Payroll,2025-08-10,2025-08-10,Payroll - Sam,478,Super & on-costs,69.67,0.0,S01,
+EX000098,Bill,2025-08-12,2025-08-12,Telco,489,Monthly,122.13,12.21,,2025-08-12
+EX000099,Bill,2025-08-15,2025-08-15,Equipment Hire WA,312,Carpet extractor hire SPC-1008,56.92,5.69,,2025-08-15
+EX000100,Bill,2025-08-15,2025-08-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2025-08-15
+EX000101,Bill,2025-08-17,2025-09-16,Perth Clean Supply Co,310,Weekly supplies,110.53,11.05,,2025-09-19
+EX000102,Bill,2025-08-17,2025-09-16,WA Hygiene Wholesale,311,Weekly supplies,46.59,4.66,,2025-09-11
+EX000103,Bill,2025-08-17,2025-09-16,SafeWorks Supplies,313,Weekly supplies,18.51,1.85,,2025-09-16
+EX000104,Bill,2025-08-17,2025-08-24,Fleet fuel card,314,Weekly supplies,190.23,19.02,,2025-08-24
+EX000105,Payroll,2025-08-17,2025-08-17,Payroll - Ella,475,Field wages,449.68,0.0,S05,
+EX000106,Payroll,2025-08-17,2025-08-17,Payroll - Tom,475,Field wages,286.16,0.0,S04,
+EX000107,Payroll,2025-08-17,2025-08-17,Payroll - Ella,476,Super & on-costs,66.91,0.0,S05,
+EX000108,Payroll,2025-08-17,2025-08-17,Payroll - Tom,476,Super & on-costs,42.58,0.0,S04,
+EX000109,Payroll,2025-08-17,2025-08-17,Payroll - Jess,477,Field wages,664.01,0.0,S03,
+EX000110,Payroll,2025-08-17,2025-08-17,Payroll - Priya,477,Field wages,736.99,0.0,S02,
+EX000111,Payroll,2025-08-17,2025-08-17,Payroll - Sam,477,Field wages,532.02,0.0,S01,
+EX000112,Payroll,2025-08-17,2025-08-17,Payroll - Jess,478,Super & on-costs,98.56,0.0,S03,
+EX000113,Payroll,2025-08-17,2025-08-17,Payroll - Priya,478,Super & on-costs,109.39,0.0,S02,
+EX000114,Payroll,2025-08-17,2025-08-17,Payroll - Sam,478,Super & on-costs,78.96,0.0,S01,
+EX000115,Bill,2025-08-20,2025-08-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2025-08-20
+EX000116,Bill,2025-08-23,2025-08-23,Equipment Hire WA,312,Carpet extractor hire SPC-1010,56.92,5.69,,2025-08-23
+EX000117,Bill,2025-08-24,2025-09-23,Perth Clean Supply Co,310,Weekly supplies,96.03,9.6,,2025-09-26
+EX000118,Bill,2025-08-24,2025-09-23,WA Hygiene Wholesale,311,Weekly supplies,43.95,4.4,,2025-09-21
+EX000119,Bill,2025-08-24,2025-09-23,SafeWorks Supplies,313,Weekly supplies,16.48,1.65,,2025-09-20
+EX000120,Bill,2025-08-24,2025-08-31,Fleet fuel card,314,Weekly supplies,155.64,15.56,,2025-08-31
+EX000121,Payroll,2025-08-24,2025-08-24,Payroll - Ella,475,Field wages,359.74,0.0,S05,
+EX000122,Payroll,2025-08-24,2025-08-24,Payroll - Tom,475,Field wages,114.47,0.0,S04,
+EX000123,Payroll,2025-08-24,2025-08-24,Payroll - Ella,476,Super & on-costs,53.53,0.0,S05,
+EX000124,Payroll,2025-08-24,2025-08-24,Payroll - Tom,476,Super & on-costs,17.03,0.0,S04,
+EX000125,Payroll,2025-08-24,2025-08-24,Payroll - Jess,477,Field wages,593.38,0.0,S03,
+EX000126,Payroll,2025-08-24,2025-08-24,Payroll - Priya,477,Field wages,598.35,0.0,S02,
+EX000127,Payroll,2025-08-24,2025-08-24,Payroll - Sam,477,Field wages,633.72,0.0,S01,
+EX000128,Payroll,2025-08-24,2025-08-24,Payroll - Jess,478,Super & on-costs,88.07,0.0,S03,
+EX000129,Payroll,2025-08-24,2025-08-24,Payroll - Priya,478,Super & on-costs,88.81,0.0,S02,
+EX000130,Payroll,2025-08-24,2025-08-24,Payroll - Sam,478,Super & on-costs,94.06,0.0,S01,
+EX000131,Bill,2025-08-25,2025-08-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2025-08-25
+EX000132,Bill,2025-08-28,2025-08-28,Google Ads,400,Monthly,310.5,31.05,,2025-08-28
+EX000133,Bill,2025-08-28,2025-08-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2025-08-28
+EX000134,Bill,2025-08-31,2025-09-30,Perth Clean Supply Co,310,Weekly supplies,73.58,7.36,,2025-10-05
+EX000135,Bill,2025-08-31,2025-09-30,WA Hygiene Wholesale,311,Weekly supplies,37.47,3.75,,2025-09-25
+EX000136,Bill,2025-08-31,2025-09-30,SafeWorks Supplies,313,Weekly supplies,13.4,1.34,,2025-10-03
+EX000137,Bill,2025-08-31,2025-09-07,Fleet fuel card,314,Weekly supplies,145.27,14.53,,2025-09-07
+EX000138,Payroll,2025-08-31,2025-08-31,Payroll - Ella,475,Field wages,81.75,0.0,S05,
+EX000139,Payroll,2025-08-31,2025-08-31,Payroll - Tom,475,Field wages,114.47,0.0,S04,
+EX000140,Payroll,2025-08-31,2025-08-31,Payroll - Ella,476,Super & on-costs,12.17,0.0,S05,
+EX000141,Payroll,2025-08-31,2025-08-31,Payroll - Tom,476,Super & on-costs,17.03,0.0,S04,
+EX000142,Payroll,2025-08-31,2025-08-31,Payroll - Jess,477,Field wages,784.11,0.0,S03,
+EX000143,Payroll,2025-08-31,2025-08-31,Payroll - Priya,477,Field wages,430.52,0.0,S02,
+EX000144,Payroll,2025-08-31,2025-08-31,Payroll - Sam,477,Field wages,445.95,0.0,S01,
+EX000145,Payroll,2025-08-31,2025-08-31,Payroll - Jess,478,Super & on-costs,116.38,0.0,S03,
+EX000146,Payroll,2025-08-31,2025-08-31,Payroll - Priya,478,Super & on-costs,63.9,0.0,S02,
+EX000147,Payroll,2025-08-31,2025-08-31,Payroll - Sam,478,Super & on-costs,66.19,0.0,S01,
+EX000148,Payroll,2025-08-31,2025-08-31,Payroll - Sam (admin),480,Director admin & quoting,1219.23,0.0,S01,
+EX000149,Payroll,2025-08-31,2025-08-31,Payroll - Sam (admin),481,Director super,140.21,0.0,S01,
+EX000150,Bill,2025-09-01,2025-09-01,Equipment Hire WA,312,Carpet extractor hire SPC-1012,56.92,5.69,,2025-09-01
+EX000151,Bill,2025-09-03,2025-09-03,Job management software,485,Monthly,92.11,9.21,,2025-09-03
+EX000152,Bill,2025-09-03,2025-09-03,Xero,485,Monthly,72.45,7.24,,2025-09-03
+EX000153,Bill,2025-09-05,2025-09-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2025-09-05
+EX000154,Bill,2025-09-07,2025-10-07,Perth Clean Supply Co,310,Weekly supplies,140.74,14.07,,2025-10-10
+EX000155,Bill,2025-09-07,2025-10-07,WA Hygiene Wholesale,311,Weekly supplies,56.68,5.67,,2025-10-02
+EX000156,Bill,2025-09-07,2025-10-07,SafeWorks Supplies,313,Weekly supplies,23.11,2.31,,2025-10-08
+EX000157,Bill,2025-09-07,2025-09-14,Fleet fuel card,314,Weekly supplies,220.05,22.01,,2025-09-14
+EX000158,Payroll,2025-09-07,2025-09-07,Payroll - Ella,475,Field wages,457.85,0.0,S05,
+EX000159,Payroll,2025-09-07,2025-09-07,Payroll - Tom,475,Field wages,490.56,0.0,S04,
+EX000160,Payroll,2025-09-07,2025-09-07,Payroll - Ella,476,Super & on-costs,68.13,0.0,S05,
+EX000161,Payroll,2025-09-07,2025-09-07,Payroll - Tom,476,Super & on-costs,72.99,0.0,S04,
+EX000162,Payroll,2025-09-07,2025-09-07,Payroll - Jess,477,Field wages,664.01,0.0,S03,
+EX000163,Payroll,2025-09-07,2025-09-07,Payroll - Priya,477,Field wages,751.59,0.0,S02,
+EX000164,Payroll,2025-09-07,2025-09-07,Payroll - Sam,477,Field wages,805.84,0.0,S01,
+EX000165,Payroll,2025-09-07,2025-09-07,Payroll - Jess,478,Super & on-costs,98.56,0.0,S03,
+EX000166,Payroll,2025-09-07,2025-09-07,Payroll - Priya,478,Super & on-costs,111.55,0.0,S02,
+EX000167,Payroll,2025-09-07,2025-09-07,Payroll - Sam,478,Super & on-costs,119.61,0.0,S01,
+EX000168,Bill,2025-09-12,2025-09-12,Telco,489,Monthly,122.13,12.21,,2025-09-12
+EX000169,Bill,2025-09-14,2025-10-14,Perth Clean Supply Co,310,Weekly supplies,72.74,7.27,,2025-10-11
+EX000170,Bill,2025-09-14,2025-10-14,WA Hygiene Wholesale,311,Weekly supplies,38.1,3.81,,2025-10-10
+EX000171,Bill,2025-09-14,2025-10-14,SafeWorks Supplies,313,Weekly supplies,13.04,1.3,,2025-10-14
+EX000172,Bill,2025-09-14,2025-09-21,Fleet fuel card,314,Weekly supplies,139.75,13.98,,2025-09-21
+EX000173,Payroll,2025-09-14,2025-09-14,Payroll - Ella,475,Field wages,89.94,0.0,S05,
+EX000174,Payroll,2025-09-14,2025-09-14,Payroll - Tom,475,Field wages,130.81,0.0,S04,
+EX000175,Payroll,2025-09-14,2025-09-14,Payroll - Ella,476,Super & on-costs,13.38,0.0,S05,
+EX000176,Payroll,2025-09-14,2025-09-14,Payroll - Tom,476,Super & on-costs,19.47,0.0,S04,
+EX000177,Payroll,2025-09-14,2025-09-14,Payroll - Jess,477,Field wages,642.83,0.0,S03,
+EX000178,Payroll,2025-09-14,2025-09-14,Payroll - Priya,477,Field wages,554.57,0.0,S02,
+EX000179,Payroll,2025-09-14,2025-09-14,Payroll - Sam,477,Field wages,414.66,0.0,S01,
+EX000180,Payroll,2025-09-14,2025-09-14,Payroll - Jess,478,Super & on-costs,95.41,0.0,S03,
+EX000181,Payroll,2025-09-14,2025-09-14,Payroll - Priya,478,Super & on-costs,82.31,0.0,S02,
+EX000182,Payroll,2025-09-14,2025-09-14,Payroll - Sam,478,Super & on-costs,61.55,0.0,S01,
+EX000183,Bill,2025-09-15,2025-09-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2025-09-15
+EX000184,Bill,2025-09-18,2025-09-18,Uniform reorder,461,Monthly,248.4,24.84,,2025-09-18
+EX000185,Bill,2025-09-19,2025-09-19,Equipment Hire WA,312,Carpet extractor hire SPC-1017,56.92,5.69,,2025-09-19
+EX000186,Bill,2025-09-20,2025-09-20,Equipment Hire WA,312,Carpet extractor hire SPC-1018,56.92,5.69,,2025-09-20
+EX000187,Bill,2025-09-20,2025-09-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2025-09-20
+EX000188,Bill,2025-09-21,2025-10-21,Perth Clean Supply Co,310,Weekly supplies,97.37,9.74,,2025-10-22
+EX000189,Bill,2025-09-21,2025-10-21,WA Hygiene Wholesale,311,Weekly supplies,42.36,4.24,,2025-10-22
+EX000190,Bill,2025-09-21,2025-10-21,SafeWorks Supplies,313,Weekly supplies,16.65,1.67,,2025-10-16
+EX000191,Bill,2025-09-21,2025-09-28,Fleet fuel card,314,Weekly supplies,153.72,15.37,,2025-09-28
+EX000192,Payroll,2025-09-21,2025-09-21,Payroll - Ella,475,Field wages,310.68,0.0,S05,
+EX000193,Payroll,2025-09-21,2025-09-21,Payroll - Tom,475,Field wages,261.63,0.0,S04,
+EX000194,Payroll,2025-09-21,2025-09-21,Payroll - Ella,476,Super & on-costs,46.23,0.0,S05,
+EX000195,Payroll,2025-09-21,2025-09-21,Payroll - Tom,476,Super & on-costs,38.93,0.0,S04,
+EX000196,Payroll,2025-09-21,2025-09-21,Payroll - Jess,477,Field wages,543.94,0.0,S03,
+EX000197,Payroll,2025-09-21,2025-09-21,Payroll - Priya,477,Field wages,583.76,0.0,S02,
+EX000198,Payroll,2025-09-21,2025-09-21,Payroll - Sam,477,Field wages,657.2,0.0,S01,
+EX000199,Payroll,2025-09-21,2025-09-21,Payroll - Jess,478,Super & on-costs,80.73,0.0,S03,
+EX000200,Payroll,2025-09-21,2025-09-21,Payroll - Priya,478,Super & on-costs,86.64,0.0,S02,
+EX000201,Payroll,2025-09-21,2025-09-21,Payroll - Sam,478,Super & on-costs,97.54,0.0,S01,
+EX000202,Bill,2025-09-22,2025-09-22,Year-end accounts & tax return,412,Monthly,1500.75,150.07,,2025-09-22
+EX000203,Bill,2025-09-25,2025-09-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2025-09-25
+EX000204,Bill,2025-09-27,2025-09-27,Equipment Hire WA,312,Carpet extractor hire SPC-1019,56.92,5.69,,2025-09-27
+EX000205,Bill,2025-09-28,2025-10-28,Perth Clean Supply Co,310,Weekly supplies,98.52,9.85,,2025-10-24
+EX000206,Bill,2025-09-28,2025-10-28,WA Hygiene Wholesale,311,Weekly supplies,43.49,4.35,,2025-10-24
+EX000207,Bill,2025-09-28,2025-10-28,SafeWorks Supplies,313,Weekly supplies,16.19,1.62,,2025-10-31
+EX000208,Bill,2025-09-28,2025-10-05,Fleet fuel card,314,Weekly supplies,171.2,17.12,,2025-10-05
+EX000209,Bill,2025-09-28,2025-09-28,Google Ads,400,Monthly,310.5,31.05,,2025-09-28
+EX000210,Bill,2025-09-28,2025-09-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2025-09-28
+EX000211,Payroll,2025-09-28,2025-09-28,Payroll - Ella,475,Field wages,327.04,0.0,S05,
+EX000212,Payroll,2025-09-28,2025-09-28,Payroll - Tom,475,Field wages,425.15,0.0,S04,
+EX000213,Payroll,2025-09-28,2025-09-28,Payroll - Ella,476,Super & on-costs,48.66,0.0,S05,
+EX000214,Payroll,2025-09-28,2025-09-28,Payroll - Tom,476,Super & on-costs,63.26,0.0,S04,
+EX000215,Payroll,2025-09-28,2025-09-28,Payroll - Jess,477,Field wages,692.28,0.0,S03,
+EX000216,Payroll,2025-09-28,2025-09-28,Payroll - Priya,477,Field wages,547.27,0.0,S02,
+EX000217,Payroll,2025-09-28,2025-09-28,Payroll - Sam,477,Field wages,320.77,0.0,S01,
+EX000218,Payroll,2025-09-28,2025-09-28,Payroll - Jess,478,Super & on-costs,102.75,0.0,S03,
+EX000219,Payroll,2025-09-28,2025-09-28,Payroll - Priya,478,Super & on-costs,81.23,0.0,S02,
+EX000220,Payroll,2025-09-28,2025-09-28,Payroll - Sam,478,Super & on-costs,47.61,0.0,S01,
+EX000221,Bill,2025-09-30,2025-10-30,Perth Clean Supply Co,310,Weekly supplies,14.84,1.48,,2025-11-01
+EX000222,Bill,2025-09-30,2025-10-30,WA Hygiene Wholesale,311,Weekly supplies,9.12,0.91,,2025-11-01
+EX000223,Bill,2025-09-30,2025-10-30,SafeWorks Supplies,313,Weekly supplies,2.47,0.25,,2025-10-30
+EX000224,Bill,2025-09-30,2025-10-07,Fleet fuel card,314,Weekly supplies,27.95,2.79,,2025-10-07
+EX000225,Payroll,2025-09-30,2025-09-30,Payroll - Ella,475,Field wages,122.64,0.0,S05,
+EX000226,Payroll,2025-09-30,2025-09-30,Payroll - Ella,476,Super & on-costs,18.25,0.0,S05,
+EX000227,Payroll,2025-09-30,2025-09-30,Payroll - Jess,477,Field wages,254.3,0.0,S03,
+EX000228,Payroll,2025-09-30,2025-09-30,Payroll - Jess,478,Super & on-costs,37.75,0.0,S03,
+EX000229,Payroll,2025-09-30,2025-09-30,Payroll - Sam (admin),480,Director admin & quoting,1179.9,0.0,S01,
+EX000230,Payroll,2025-09-30,2025-09-30,Payroll - Sam (admin),481,Director super,135.69,0.0,S01,
+EX000231,Bill,2025-10-03,2025-10-03,Job management software,485,Monthly,92.11,9.21,,2025-10-03
+EX000232,Bill,2025-10-03,2025-10-03,Xero,485,Monthly,72.45,7.24,,2025-10-03
+EX000233,Bill,2025-10-05,2025-11-04,Perth Clean Supply Co,310,Weekly supplies,102.82,10.28,,2025-10-31
+EX000234,Bill,2025-10-05,2025-11-04,WA Hygiene Wholesale,311,Weekly supplies,35.26,3.53,,2025-11-08
+EX000235,Bill,2025-10-05,2025-11-04,SafeWorks Supplies,313,Weekly supplies,17.02,1.7,,2025-11-01
+EX000236,Bill,2025-10-05,2025-10-12,Fleet fuel card,314,Weekly supplies,142.53,14.25,,2025-10-12
+EX000237,Bill,2025-10-05,2025-10-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2025-10-05
+EX000238,Payroll,2025-10-05,2025-10-05,Payroll - Ella,475,Field wages,163.52,0.0,S05,
+EX000239,Payroll,2025-10-05,2025-10-05,Payroll - Tom,475,Field wages,245.27,0.0,S04,
+EX000240,Payroll,2025-10-05,2025-10-05,Payroll - Ella,476,Super & on-costs,24.33,0.0,S05,
+EX000241,Payroll,2025-10-05,2025-10-05,Payroll - Tom,476,Super & on-costs,36.5,0.0,S04,
+EX000242,Payroll,2025-10-05,2025-10-05,Payroll - Jess,477,Field wages,423.84,0.0,S03,
+EX000243,Payroll,2025-10-05,2025-10-05,Payroll - Priya,477,Field wages,656.72,0.0,S02,
+EX000244,Payroll,2025-10-05,2025-10-05,Payroll - Sam,477,Field wages,657.2,0.0,S01,
+EX000245,Payroll,2025-10-05,2025-10-05,Payroll - Jess,478,Super & on-costs,62.91,0.0,S03,
+EX000246,Payroll,2025-10-05,2025-10-05,Payroll - Priya,478,Super & on-costs,97.48,0.0,S02,
+EX000247,Payroll,2025-10-05,2025-10-05,Payroll - Sam,478,Super & on-costs,97.54,0.0,S01,
+EX000248,Bill,2025-10-07,2025-10-07,Equipment Hire WA,312,Carpet extractor hire SPC-1022,56.92,5.69,,2025-10-07
+EX000249,Bill,2025-10-12,2025-11-11,Perth Clean Supply Co,310,Weekly supplies,93.76,9.38,,2025-11-16
+EX000250,Bill,2025-10-12,2025-11-11,WA Hygiene Wholesale,311,Weekly supplies,40.15,4.01,,2025-11-14
+EX000251,Bill,2025-10-12,2025-11-11,SafeWorks Supplies,313,Weekly supplies,15.51,1.55,,2025-11-16
+EX000252,Bill,2025-10-12,2025-10-19,Fleet fuel card,314,Weekly supplies,171.06,17.11,,2025-10-19
+EX000253,Bill,2025-10-12,2025-10-12,Telco,489,Monthly,122.13,12.21,,2025-10-12
+EX000254,Payroll,2025-10-12,2025-10-12,Payroll - Ella,475,Field wages,237.1,0.0,S05,
+EX000255,Payroll,2025-10-12,2025-10-12,Payroll - Tom,475,Field wages,130.81,0.0,S04,
+EX000256,Payroll,2025-10-12,2025-10-12,Payroll - Ella,476,Super & on-costs,35.28,0.0,S05,
+EX000257,Payroll,2025-10-12,2025-10-12,Payroll - Tom,476,Super & on-costs,19.47,0.0,S04,
+EX000258,Payroll,2025-10-12,2025-10-12,Payroll - Jess,477,Field wages,720.53,0.0,S03,
+EX000259,Payroll,2025-10-12,2025-10-12,Payroll - Priya,477,Field wages,437.82,0.0,S02,
+EX000260,Payroll,2025-10-12,2025-10-12,Payroll - Sam,477,Field wages,633.72,0.0,S01,
+EX000261,Payroll,2025-10-12,2025-10-12,Payroll - Jess,478,Super & on-costs,106.95,0.0,S03,
+EX000262,Payroll,2025-10-12,2025-10-12,Payroll - Priya,478,Super & on-costs,64.98,0.0,S02,
+EX000263,Payroll,2025-10-12,2025-10-12,Payroll - Sam,478,Super & on-costs,94.06,0.0,S01,
+EX000264,Bill,2025-10-14,2025-10-14,Van service & tyres,449,Monthly,558.9,55.89,,2025-10-14
+EX000265,Bill,2025-10-15,2025-10-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2025-10-15
+EX000266,Bill,2025-10-19,2025-11-18,Perth Clean Supply Co,310,Weekly supplies,104.57,10.46,,2025-11-18
+EX000267,Bill,2025-10-19,2025-11-18,WA Hygiene Wholesale,311,Weekly supplies,41.08,4.11,,2025-11-23
+EX000268,Bill,2025-10-19,2025-11-18,SafeWorks Supplies,313,Weekly supplies,17.05,1.71,,2025-11-23
+EX000269,Bill,2025-10-19,2025-10-26,Fleet fuel card,314,Weekly supplies,163.91,16.39,,2025-10-26
+EX000270,Payroll,2025-10-19,2025-10-19,Payroll - Ella,475,Field wages,416.97,0.0,S05,
+EX000271,Payroll,2025-10-19,2025-10-19,Payroll - Tom,475,Field wages,147.16,0.0,S04,
+EX000272,Payroll,2025-10-19,2025-10-19,Payroll - Ella,476,Super & on-costs,62.04,0.0,S05,
+EX000273,Payroll,2025-10-19,2025-10-19,Payroll - Tom,476,Super & on-costs,21.9,0.0,S04,
+EX000274,Payroll,2025-10-19,2025-10-19,Payroll - Jess,477,Field wages,466.23,0.0,S03,
+EX000275,Payroll,2025-10-19,2025-10-19,Payroll - Priya,477,Field wages,678.62,0.0,S02,
+EX000276,Payroll,2025-10-19,2025-10-19,Payroll - Sam,477,Field wages,672.83,0.0,S01,
+EX000277,Payroll,2025-10-19,2025-10-19,Payroll - Jess,478,Super & on-costs,69.2,0.0,S03,
+EX000278,Payroll,2025-10-19,2025-10-19,Payroll - Priya,478,Super & on-costs,100.72,0.0,S02,
+EX000279,Payroll,2025-10-19,2025-10-19,Payroll - Sam,478,Super & on-costs,99.87,0.0,S01,
+EX000280,Bill,2025-10-20,2025-10-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2025-10-20
+EX000281,Bill,2025-10-25,2025-10-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2025-10-25
+EX000282,Bill,2025-10-26,2025-11-25,Perth Clean Supply Co,310,Weekly supplies,86.6,8.66,,2025-11-27
+EX000283,Bill,2025-10-26,2025-11-25,WA Hygiene Wholesale,311,Weekly supplies,45.3,4.53,,2025-11-24
+EX000284,Bill,2025-10-26,2025-11-25,SafeWorks Supplies,313,Weekly supplies,14.89,1.49,,2025-11-28
+EX000285,Bill,2025-10-26,2025-11-02,Fleet fuel card,314,Weekly supplies,142.53,14.25,,2025-11-02
+EX000286,Payroll,2025-10-26,2025-10-26,Payroll - Ella,475,Field wages,269.8,0.0,S05,
+EX000287,Payroll,2025-10-26,2025-10-26,Payroll - Tom,475,Field wages,147.16,0.0,S04,
+EX000288,Payroll,2025-10-26,2025-10-26,Payroll - Ella,476,Super & on-costs,40.15,0.0,S05,
+EX000289,Payroll,2025-10-26,2025-10-26,Payroll - Tom,476,Super & on-costs,21.9,0.0,S04,
+EX000290,Payroll,2025-10-26,2025-10-26,Payroll - Jess,477,Field wages,586.32,0.0,S03,
+EX000291,Payroll,2025-10-26,2025-10-26,Payroll - Priya,477,Field wages,518.08,0.0,S02,
+EX000292,Payroll,2025-10-26,2025-10-26,Payroll - Sam,477,Field wages,539.83,0.0,S01,
+EX000293,Payroll,2025-10-26,2025-10-26,Payroll - Jess,478,Super & on-costs,87.02,0.0,S03,
+EX000294,Payroll,2025-10-26,2025-10-26,Payroll - Priya,478,Super & on-costs,76.9,0.0,S02,
+EX000295,Payroll,2025-10-26,2025-10-26,Payroll - Sam,478,Super & on-costs,80.13,0.0,S01,
+EX000296,Bill,2025-10-28,2025-10-28,Google Ads,400,Monthly,310.5,31.05,,2025-10-28
+EX000297,Bill,2025-10-28,2025-10-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2025-10-28
+EX000298,Bill,2025-10-31,2025-11-30,Perth Clean Supply Co,310,Weekly supplies,73.48,7.35,,2025-12-02
+EX000299,Bill,2025-10-31,2025-11-30,WA Hygiene Wholesale,311,Weekly supplies,34.89,3.49,,2025-11-25
+EX000300,Bill,2025-10-31,2025-11-30,SafeWorks Supplies,313,Weekly supplies,13.08,1.31,,2025-11-26
+EX000301,Bill,2025-10-31,2025-11-07,Fleet fuel card,314,Weekly supplies,156.78,15.68,,2025-11-07
+EX000302,Payroll,2025-10-31,2025-10-31,Payroll - Ella,475,Field wages,114.47,0.0,S05,
+EX000303,Payroll,2025-10-31,2025-10-31,Payroll - Tom,475,Field wages,138.99,0.0,S04,
+EX000304,Payroll,2025-10-31,2025-10-31,Payroll - Ella,476,Super & on-costs,17.03,0.0,S05,
+EX000305,Payroll,2025-10-31,2025-10-31,Payroll - Tom,476,Super & on-costs,20.68,0.0,S04,
+EX000306,Payroll,2025-10-31,2025-10-31,Payroll - Jess,477,Field wages,452.1,0.0,S03,
+EX000307,Payroll,2025-10-31,2025-10-31,Payroll - Priya,477,Field wages,561.86,0.0,S02,
+EX000308,Payroll,2025-10-31,2025-10-31,Payroll - Sam,477,Field wages,633.72,0.0,S01,
+EX000309,Payroll,2025-10-31,2025-10-31,Payroll - Jess,478,Super & on-costs,67.1,0.0,S03,
+EX000310,Payroll,2025-10-31,2025-10-31,Payroll - Priya,478,Super & on-costs,83.4,0.0,S02,
+EX000311,Payroll,2025-10-31,2025-10-31,Payroll - Sam,478,Super & on-costs,94.06,0.0,S01,
+EX000312,Payroll,2025-10-31,2025-10-31,Payroll - Sam (admin),480,Director admin & quoting,1219.23,0.0,S01,
+EX000313,Payroll,2025-10-31,2025-10-31,Payroll - Sam (admin),481,Director super,140.21,0.0,S01,
+EX000314,Bill,2025-11-02,2025-12-02,Perth Clean Supply Co,310,Weekly supplies,11.99,1.2,,2025-12-05
+EX000315,Bill,2025-11-02,2025-12-02,WA Hygiene Wholesale,311,Weekly supplies,3.53,0.35,,2025-12-01
+EX000316,Bill,2025-11-02,2025-12-02,SafeWorks Supplies,313,Weekly supplies,1.71,0.17,,2025-11-28
+EX000317,Bill,2025-11-02,2025-11-09,Fleet fuel card,314,Weekly supplies,14.4,1.44,,2025-11-09
+EX000318,Payroll,2025-11-02,2025-11-02,Payroll - Ella,475,Field wages,147.16,0.0,S05,
+EX000319,Payroll,2025-11-02,2025-11-02,Payroll - Tom,475,Field wages,130.81,0.0,S04,
+EX000320,Payroll,2025-11-02,2025-11-02,Payroll - Ella,476,Super & on-costs,21.9,0.0,S05,
+EX000321,Payroll,2025-11-02,2025-11-02,Payroll - Tom,476,Super & on-costs,19.47,0.0,S04,
+EX000322,Bill,2025-11-03,2025-11-03,Equipment Hire WA,312,Carpet extractor hire SPC-1031,56.92,5.69,,2025-11-03
+EX000323,Bill,2025-11-03,2025-11-03,Job management software,485,Monthly,92.11,9.21,,2025-11-03
+EX000324,Bill,2025-11-03,2025-11-03,Xero,485,Monthly,72.45,7.24,,2025-11-03
+EX000325,Bill,2025-11-05,2025-11-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2025-11-05
+EX000326,Bill,2025-11-09,2025-12-09,Perth Clean Supply Co,310,Weekly supplies,107.75,10.78,,2025-12-04
+EX000327,Bill,2025-11-09,2025-12-09,WA Hygiene Wholesale,311,Weekly supplies,50.97,5.1,,2025-12-05
+EX000328,Bill,2025-11-09,2025-12-09,SafeWorks Supplies,313,Weekly supplies,17.2,1.72,,2025-12-04
+EX000329,Bill,2025-11-09,2025-11-16,Fleet fuel card,314,Weekly supplies,183.53,18.35,,2025-11-16
+EX000330,Payroll,2025-11-09,2025-11-09,Payroll - Ella,475,Field wages,425.14,0.0,S05,
+EX000331,Payroll,2025-11-09,2025-11-09,Payroll - Tom,475,Field wages,294.33,0.0,S04,
+EX000332,Payroll,2025-11-09,2025-11-09,Payroll - Ella,476,Super & on-costs,63.26,0.0,S05,
+EX000333,Payroll,2025-11-09,2025-11-09,Payroll - Tom,476,Super & on-costs,43.8,0.0,S04,
+EX000334,Payroll,2025-11-09,2025-11-09,Payroll - Jess,477,Field wages,678.15,0.0,S03,
+EX000335,Payroll,2025-11-09,2025-11-09,Payroll - Priya,477,Field wages,583.76,0.0,S02,
+EX000336,Payroll,2025-11-09,2025-11-09,Payroll - Sam,477,Field wages,485.06,0.0,S01,
+EX000337,Payroll,2025-11-09,2025-11-09,Payroll - Jess,478,Super & on-costs,100.66,0.0,S03,
+EX000338,Payroll,2025-11-09,2025-11-09,Payroll - Priya,478,Super & on-costs,86.64,0.0,S02,
+EX000339,Payroll,2025-11-09,2025-11-09,Payroll - Sam,478,Super & on-costs,72.0,0.0,S01,
+EX000340,Bill,2025-11-12,2025-11-12,Telco,489,Monthly,122.13,12.21,,2025-11-12
+EX000341,Bill,2025-11-15,2025-11-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2025-11-15
+EX000342,Bill,2025-11-16,2025-12-16,Perth Clean Supply Co,310,Weekly supplies,140.6,14.06,,2025-12-20
+EX000343,Bill,2025-11-16,2025-12-16,WA Hygiene Wholesale,311,Weekly supplies,47.92,4.79,,2025-12-14
+EX000344,Bill,2025-11-16,2025-12-16,SafeWorks Supplies,313,Weekly supplies,22.42,2.24,,2025-12-13
+EX000345,Bill,2025-11-16,2025-11-23,Fleet fuel card,314,Weekly supplies,208.71,20.87,,2025-11-23
+EX000346,Payroll,2025-11-16,2025-11-16,Payroll - Ella,475,Field wages,343.39,0.0,S05,
+EX000347,Payroll,2025-11-16,2025-11-16,Payroll - Tom,475,Field wages,253.46,0.0,S04,
+EX000348,Payroll,2025-11-16,2025-11-16,Payroll - Ella,476,Super & on-costs,51.1,0.0,S05,
+EX000349,Payroll,2025-11-16,2025-11-16,Payroll - Tom,476,Super & on-costs,37.71,0.0,S04,
+EX000350,Payroll,2025-11-16,2025-11-16,Payroll - Jess,477,Field wages,536.87,0.0,S03,
+EX000351,Payroll,2025-11-16,2025-11-16,Payroll - Priya,477,Field wages,795.37,0.0,S02,
+EX000352,Payroll,2025-11-16,2025-11-16,Payroll - Sam,477,Field wages,1126.61,0.0,S01,
+EX000353,Payroll,2025-11-16,2025-11-16,Payroll - Jess,478,Super & on-costs,79.68,0.0,S03,
+EX000354,Payroll,2025-11-16,2025-11-16,Payroll - Priya,478,Super & on-costs,118.05,0.0,S02,
+EX000355,Payroll,2025-11-16,2025-11-16,Payroll - Sam,478,Super & on-costs,167.22,0.0,S01,
+EX000356,Bill,2025-11-18,2025-11-18,Equipment Hire WA,312,Carpet extractor hire SPC-1038,56.92,5.69,,2025-11-18
+EX000357,Bill,2025-11-20,2025-11-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2025-11-20
+EX000358,Bill,2025-11-22,2025-11-22,Equipment Hire WA,312,Carpet extractor hire SPC-1040,56.92,5.69,,2025-11-22
+EX000359,Bill,2025-11-23,2025-12-23,Perth Clean Supply Co,310,Weekly supplies,133.07,13.31,,2025-12-19
+EX000360,Bill,2025-11-23,2025-12-23,WA Hygiene Wholesale,311,Weekly supplies,47.98,4.8,,2025-12-24
+EX000361,Bill,2025-11-23,2025-12-23,SafeWorks Supplies,313,Weekly supplies,21.44,2.14,,2025-12-22
+EX000362,Bill,2025-11-23,2025-11-30,Fleet fuel card,314,Weekly supplies,212.3,21.23,,2025-11-30
+EX000363,Payroll,2025-11-23,2025-11-23,Payroll - Ella,475,Field wages,613.19,0.0,S05,
+EX000364,Payroll,2025-11-23,2025-11-23,Payroll - Tom,475,Field wages,163.52,0.0,S04,
+EX000365,Payroll,2025-11-23,2025-11-23,Payroll - Ella,476,Super & on-costs,91.24,0.0,S05,
+EX000366,Payroll,2025-11-23,2025-11-23,Payroll - Tom,476,Super & on-costs,24.33,0.0,S04,
+EX000367,Payroll,2025-11-23,2025-11-23,Payroll - Jess,477,Field wages,685.22,0.0,S03,
+EX000368,Payroll,2025-11-23,2025-11-23,Payroll - Priya,477,Field wages,649.43,0.0,S02,
+EX000369,Payroll,2025-11-23,2025-11-23,Payroll - Sam,477,Field wages,719.79,0.0,S01,
+EX000370,Payroll,2025-11-23,2025-11-23,Payroll - Jess,478,Super & on-costs,101.7,0.0,S03,
+EX000371,Payroll,2025-11-23,2025-11-23,Payroll - Priya,478,Super & on-costs,96.39,0.0,S02,
+EX000372,Payroll,2025-11-23,2025-11-23,Payroll - Sam,478,Super & on-costs,106.83,0.0,S01,
+EX000373,Bill,2025-11-25,2025-11-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2025-11-25
+EX000374,Bill,2025-11-28,2025-11-28,Google Ads,400,Monthly,310.5,31.05,,2025-11-28
+EX000375,Bill,2025-11-28,2025-11-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2025-11-28
+EX000376,Bill,2025-11-30,2025-12-30,Perth Clean Supply Co,310,Weekly supplies,75.37,7.54,,2025-12-25
+EX000377,Bill,2025-11-30,2025-12-30,WA Hygiene Wholesale,311,Weekly supplies,41.61,4.16,,2025-12-29
+EX000378,Bill,2025-11-30,2025-12-30,SafeWorks Supplies,313,Weekly supplies,13.48,1.35,,2025-12-25
+EX000379,Bill,2025-11-30,2025-12-07,Fleet fuel card,314,Weekly supplies,143.93,14.39,,2025-12-07
+EX000380,Payroll,2025-11-30,2025-11-30,Payroll - Ella,475,Field wages,122.64,0.0,S05,
+EX000381,Payroll,2025-11-30,2025-11-30,Payroll - Tom,475,Field wages,138.99,0.0,S04,
+EX000382,Payroll,2025-11-30,2025-11-30,Payroll - Ella,476,Super & on-costs,18.25,0.0,S05,
+EX000383,Payroll,2025-11-30,2025-11-30,Payroll - Tom,476,Super & on-costs,20.68,0.0,S04,
+EX000384,Payroll,2025-11-30,2025-11-30,Payroll - Jess,477,Field wages,572.18,0.0,S03,
+EX000385,Payroll,2025-11-30,2025-11-30,Payroll - Priya,477,Field wages,532.68,0.0,S02,
+EX000386,Payroll,2025-11-30,2025-11-30,Payroll - Sam,477,Field wages,571.13,0.0,S01,
+EX000387,Payroll,2025-11-30,2025-11-30,Payroll - Jess,478,Super & on-costs,84.93,0.0,S03,
+EX000388,Payroll,2025-11-30,2025-11-30,Payroll - Priya,478,Super & on-costs,79.06,0.0,S02,
+EX000389,Payroll,2025-11-30,2025-11-30,Payroll - Sam,478,Super & on-costs,84.77,0.0,S01,
+EX000390,Payroll,2025-11-30,2025-11-30,Payroll - Sam (admin),480,Director admin & quoting,1179.9,0.0,S01,
+EX000391,Payroll,2025-11-30,2025-11-30,Payroll - Sam (admin),481,Director super,135.69,0.0,S01,
+EX000392,Bill,2025-12-03,2025-12-03,Job management software,485,Monthly,92.11,9.21,,2025-12-03
+EX000393,Bill,2025-12-03,2025-12-03,Xero,485,Monthly,72.45,7.24,,2025-12-03
+EX000394,Bill,2025-12-05,2025-12-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2025-12-05
+EX000395,Bill,2025-12-07,2026-01-06,Perth Clean Supply Co,310,Weekly supplies,120.29,12.03,,2026-01-04
+EX000396,Bill,2025-12-07,2026-01-06,WA Hygiene Wholesale,311,Weekly supplies,51.21,5.12,,2026-01-04
+EX000397,Bill,2025-12-07,2026-01-06,SafeWorks Supplies,313,Weekly supplies,19.86,1.99,,2026-01-08
+EX000398,Bill,2025-12-07,2025-12-14,Fleet fuel card,314,Weekly supplies,203.45,20.34,,2025-12-14
+EX000399,Payroll,2025-12-07,2025-12-07,Payroll - Ella,475,Field wages,490.56,0.0,S05,
+EX000400,Payroll,2025-12-07,2025-12-07,Payroll - Tom,475,Field wages,400.62,0.0,S04,
+EX000401,Payroll,2025-12-07,2025-12-07,Payroll - Ella,476,Super & on-costs,72.99,0.0,S05,
+EX000402,Payroll,2025-12-07,2025-12-07,Payroll - Tom,476,Super & on-costs,59.61,0.0,S04,
+EX000403,Payroll,2025-12-07,2025-12-07,Payroll - Jess,477,Field wages,558.06,0.0,S03,
+EX000404,Payroll,2025-12-07,2025-12-07,Payroll - Priya,477,Field wages,554.57,0.0,S02,
+EX000405,Payroll,2025-12-07,2025-12-07,Payroll - Sam,477,Field wages,751.07,0.0,S01,
+EX000406,Payroll,2025-12-07,2025-12-07,Payroll - Jess,478,Super & on-costs,82.83,0.0,S03,
+EX000407,Payroll,2025-12-07,2025-12-07,Payroll - Priya,478,Super & on-costs,82.31,0.0,S02,
+EX000408,Payroll,2025-12-07,2025-12-07,Payroll - Sam,478,Super & on-costs,111.48,0.0,S01,
+EX000409,Bill,2025-12-08,2025-12-08,Equipment Hire WA,312,Carpet extractor hire SPC-1042,56.92,5.69,,2025-12-08
+EX000410,Bill,2025-12-12,2025-12-12,Telco,489,Monthly,122.13,12.21,,2025-12-12
+EX000411,Bill,2025-12-14,2026-01-13,Perth Clean Supply Co,310,Weekly supplies,106.19,10.62,,2026-01-14
+EX000412,Bill,2025-12-14,2026-01-13,WA Hygiene Wholesale,311,Weekly supplies,42.2,4.22,,2026-01-16
+EX000413,Bill,2025-12-14,2026-01-13,SafeWorks Supplies,313,Weekly supplies,17.49,1.75,,2026-01-16
+EX000414,Bill,2025-12-14,2025-12-21,Fleet fuel card,314,Weekly supplies,170.78,17.08,,2025-12-21
+EX000415,Payroll,2025-12-14,2025-12-14,Payroll - Ella,475,Field wages,376.09,0.0,S05,
+EX000416,Payroll,2025-12-14,2025-12-14,Payroll - Tom,475,Field wages,122.64,0.0,S04,
+EX000417,Payroll,2025-12-14,2025-12-14,Payroll - Ella,476,Super & on-costs,55.96,0.0,S05,
+EX000418,Payroll,2025-12-14,2025-12-14,Payroll - Tom,476,Super & on-costs,18.25,0.0,S04,
+EX000419,Payroll,2025-12-14,2025-12-14,Payroll - Jess,477,Field wages,466.23,0.0,S03,
+EX000420,Payroll,2025-12-14,2025-12-14,Payroll - Priya,477,Field wages,591.05,0.0,S02,
+EX000421,Payroll,2025-12-14,2025-12-14,Payroll - Sam,477,Field wages,852.78,0.0,S01,
+EX000422,Payroll,2025-12-14,2025-12-14,Payroll - Jess,478,Super & on-costs,69.2,0.0,S03,
+EX000423,Payroll,2025-12-14,2025-12-14,Payroll - Priya,478,Super & on-costs,87.73,0.0,S02,
+EX000424,Payroll,2025-12-14,2025-12-14,Payroll - Sam,478,Super & on-costs,126.58,0.0,S01,
+EX000425,Bill,2025-12-15,2025-12-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2025-12-15
+EX000426,Bill,2025-12-20,2025-12-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2025-12-20
+EX000427,Bill,2025-12-21,2026-01-20,Perth Clean Supply Co,310,Weekly supplies,104.57,10.46,,2026-01-20
+EX000428,Bill,2025-12-21,2026-01-20,WA Hygiene Wholesale,311,Weekly supplies,39.95,4.0,,2026-01-16
+EX000429,Bill,2025-12-21,2026-01-20,SafeWorks Supplies,313,Weekly supplies,17.15,1.71,,2026-01-21
+EX000430,Bill,2025-12-21,2025-12-28,Fleet fuel card,314,Weekly supplies,167.1,16.71,,2025-12-28
+EX000431,Payroll,2025-12-21,2025-12-21,Payroll - Ella,475,Field wages,392.44,0.0,S05,
+EX000432,Payroll,2025-12-21,2025-12-21,Payroll - Tom,475,Field wages,318.86,0.0,S04,
+EX000433,Payroll,2025-12-21,2025-12-21,Payroll - Ella,476,Super & on-costs,58.4,0.0,S05,
+EX000434,Payroll,2025-12-21,2025-12-21,Payroll - Tom,476,Super & on-costs,47.45,0.0,S04,
+EX000435,Payroll,2025-12-21,2025-12-21,Payroll - Jess,477,Field wages,635.77,0.0,S03,
+EX000436,Payroll,2025-12-21,2025-12-21,Payroll - Priya,477,Field wages,539.97,0.0,S02,
+EX000437,Payroll,2025-12-21,2025-12-21,Payroll - Sam,477,Field wages,406.84,0.0,S01,
+EX000438,Payroll,2025-12-21,2025-12-21,Payroll - Jess,478,Super & on-costs,94.36,0.0,S03,
+EX000439,Payroll,2025-12-21,2025-12-21,Payroll - Priya,478,Super & on-costs,80.15,0.0,S02,
+EX000440,Payroll,2025-12-21,2025-12-21,Payroll - Sam,478,Super & on-costs,60.38,0.0,S01,
+EX000441,Bill,2025-12-24,2025-12-24,Equipment Hire WA,312,Carpet extractor hire SPC-1048,56.92,5.69,,2025-12-24
+EX000442,Bill,2025-12-25,2025-12-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2025-12-25
+EX000443,Bill,2025-12-27,2025-12-27,Equipment Hire WA,312,Carpet extractor hire SPC-1049,56.92,5.69,,2025-12-27
+EX000444,Bill,2025-12-28,2026-01-27,Perth Clean Supply Co,310,Weekly supplies,87.42,8.74,,2026-01-23
+EX000445,Bill,2025-12-28,2026-01-27,WA Hygiene Wholesale,311,Weekly supplies,29.46,2.95,,2026-01-29
+EX000446,Bill,2025-12-28,2026-01-27,SafeWorks Supplies,313,Weekly supplies,14.96,1.5,,2026-01-24
+EX000447,Bill,2025-12-28,2026-01-04,Fleet fuel card,314,Weekly supplies,152.6,15.26,,2026-01-04
+EX000448,Bill,2025-12-28,2025-12-28,Google Ads,400,Monthly,310.5,31.05,,2025-12-28
+EX000449,Bill,2025-12-28,2025-12-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2025-12-28
+EX000450,Payroll,2025-12-28,2025-12-28,Payroll - Ella,475,Field wages,555.96,0.0,S05,
+EX000451,Payroll,2025-12-28,2025-12-28,Payroll - Tom,475,Field wages,531.43,0.0,S04,
+EX000452,Payroll,2025-12-28,2025-12-28,Payroll - Ella,476,Super & on-costs,82.73,0.0,S05,
+EX000453,Payroll,2025-12-28,2025-12-28,Payroll - Tom,476,Super & on-costs,79.08,0.0,S04,
+EX000454,Payroll,2025-12-28,2025-12-28,Payroll - Jess,477,Field wages,162.47,0.0,S03,
+EX000455,Payroll,2025-12-28,2025-12-28,Payroll - Priya,477,Field wages,459.71,0.0,S02,
+EX000456,Payroll,2025-12-28,2025-12-28,Payroll - Sam,477,Field wages,297.3,0.0,S01,
+EX000457,Payroll,2025-12-28,2025-12-28,Payroll - Jess,478,Super & on-costs,24.12,0.0,S03,
+EX000458,Payroll,2025-12-28,2025-12-28,Payroll - Priya,478,Super & on-costs,68.23,0.0,S02,
+EX000459,Payroll,2025-12-28,2025-12-28,Payroll - Sam,478,Super & on-costs,44.13,0.0,S01,
+EX000460,Bill,2025-12-31,2026-01-30,Perth Clean Supply Co,310,Weekly supplies,39.84,3.98,,2026-01-30
+EX000461,Bill,2025-12-31,2026-01-30,WA Hygiene Wholesale,311,Weekly supplies,20.55,2.06,,2026-02-02
+EX000462,Bill,2025-12-31,2026-01-30,SafeWorks Supplies,313,Weekly supplies,6.91,0.69,,2026-01-27
+EX000463,Bill,2025-12-31,2026-01-07,Fleet fuel card,314,Weekly supplies,69.04,6.9,,2026-01-07
+EX000464,Payroll,2025-12-31,2025-12-31,Payroll - Jess,477,Field wages,268.44,0.0,S03,
+EX000465,Payroll,2025-12-31,2025-12-31,Payroll - Priya,477,Field wages,328.36,0.0,S02,
+EX000466,Payroll,2025-12-31,2025-12-31,Payroll - Sam,477,Field wages,383.36,0.0,S01,
+EX000467,Payroll,2025-12-31,2025-12-31,Payroll - Jess,478,Super & on-costs,39.84,0.0,S03,
+EX000468,Payroll,2025-12-31,2025-12-31,Payroll - Priya,478,Super & on-costs,48.74,0.0,S02,
+EX000469,Payroll,2025-12-31,2025-12-31,Payroll - Sam,478,Super & on-costs,56.9,0.0,S01,
+EX000470,Payroll,2025-12-31,2025-12-31,Payroll - Sam (admin),480,Director admin & quoting,1219.23,0.0,S01,
+EX000471,Payroll,2025-12-31,2025-12-31,Payroll - Sam (admin),481,Director super,140.21,0.0,S01,
+EX000472,Bill,2026-01-03,2026-01-03,Equipment Hire WA,312,Carpet extractor hire SPC-1050,56.92,5.69,,2026-01-03
+EX000473,Bill,2026-01-03,2026-01-03,Job management software,485,Monthly,92.11,9.21,,2026-01-03
+EX000474,Bill,2026-01-03,2026-01-03,Xero,485,Monthly,72.45,7.24,,2026-01-03
+EX000475,Bill,2026-01-04,2026-02-03,Perth Clean Supply Co,310,Weekly supplies,25.88,2.59,,2026-02-03
+EX000476,Bill,2026-01-04,2026-02-03,WA Hygiene Wholesale,311,Weekly supplies,12.73,1.27,,2026-02-01
+EX000477,Bill,2026-01-04,2026-02-03,SafeWorks Supplies,313,Weekly supplies,4.27,0.43,,2026-01-31
+EX000478,Bill,2026-01-04,2026-01-11,Fleet fuel card,314,Weekly supplies,42.77,4.28,,2026-01-11
+EX000479,Payroll,2026-01-04,2026-01-04,Payroll - Ella,475,Field wages,196.22,0.0,S05,
+EX000480,Payroll,2026-01-04,2026-01-04,Payroll - Tom,475,Field wages,367.91,0.0,S04,
+EX000481,Payroll,2026-01-04,2026-01-04,Payroll - Ella,476,Super & on-costs,29.2,0.0,S05,
+EX000482,Payroll,2026-01-04,2026-01-04,Payroll - Tom,476,Super & on-costs,54.75,0.0,S04,
+EX000483,Payroll,2026-01-04,2026-01-04,Payroll - Priya,477,Field wages,87.56,0.0,S02,
+EX000484,Payroll,2026-01-04,2026-01-04,Payroll - Priya,478,Super & on-costs,13.0,0.0,S02,
+EX000485,Bill,2026-01-05,2026-01-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2026-01-05
+EX000486,Bill,2026-01-10,2026-01-10,Equipment Hire WA,312,Carpet extractor hire SPC-1052,56.92,5.69,,2026-01-10
+EX000487,Bill,2026-01-11,2026-02-10,Perth Clean Supply Co,310,Weekly supplies,130.57,13.06,,2026-02-05
+EX000488,Bill,2026-01-11,2026-02-10,WA Hygiene Wholesale,311,Weekly supplies,46.47,4.65,,2026-02-05
+EX000489,Bill,2026-01-11,2026-02-10,SafeWorks Supplies,313,Weekly supplies,20.42,2.04,,2026-02-15
+EX000490,Bill,2026-01-11,2026-01-18,Fleet fuel card,314,Weekly supplies,210.25,21.03,,2026-01-18
+EX000491,Payroll,2026-01-11,2026-01-11,Payroll - Ella,475,Field wages,367.92,0.0,S05,
+EX000492,Payroll,2026-01-11,2026-01-11,Payroll - Tom,475,Field wages,196.22,0.0,S04,
+EX000493,Payroll,2026-01-11,2026-01-11,Payroll - Ella,476,Super & on-costs,54.75,0.0,S05,
+EX000494,Payroll,2026-01-11,2026-01-11,Payroll - Tom,476,Super & on-costs,29.2,0.0,S04,
+EX000495,Payroll,2026-01-11,2026-01-11,Payroll - Jess,477,Field wages,621.64,0.0,S03,
+EX000496,Payroll,2026-01-11,2026-01-11,Payroll - Priya,477,Field wages,591.05,0.0,S02,
+EX000497,Payroll,2026-01-11,2026-01-11,Payroll - Sam,477,Field wages,1095.32,0.0,S01,
+EX000498,Payroll,2026-01-11,2026-01-11,Payroll - Jess,478,Super & on-costs,92.27,0.0,S03,
+EX000499,Payroll,2026-01-11,2026-01-11,Payroll - Priya,478,Super & on-costs,87.73,0.0,S02,
+EX000500,Payroll,2026-01-11,2026-01-11,Payroll - Sam,478,Super & on-costs,162.57,0.0,S01,
+EX000501,Bill,2026-01-12,2026-01-12,Equipment Hire WA,312,Carpet extractor hire SPC-1054,56.92,5.69,,2026-01-12
+EX000502,Bill,2026-01-12,2026-01-12,Telco,489,Monthly,122.13,12.21,,2026-01-12
+EX000503,Bill,2026-01-15,2026-01-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2026-01-15
+EX000504,Bill,2026-01-18,2026-02-17,Perth Clean Supply Co,310,Weekly supplies,105.69,10.57,,2026-02-18
+EX000505,Bill,2026-01-18,2026-02-17,WA Hygiene Wholesale,311,Weekly supplies,41.13,4.11,,2026-02-14
+EX000506,Bill,2026-01-18,2026-02-17,SafeWorks Supplies,313,Weekly supplies,18.01,1.8,,2026-02-13
+EX000507,Bill,2026-01-18,2026-01-25,Fleet fuel card,314,Weekly supplies,185.29,18.53,,2026-01-25
+EX000508,Payroll,2026-01-18,2026-01-18,Payroll - Ella,475,Field wages,343.38,0.0,S05,
+EX000509,Payroll,2026-01-18,2026-01-18,Payroll - Tom,475,Field wages,188.05,0.0,S04,
+EX000510,Payroll,2026-01-18,2026-01-18,Payroll - Ella,476,Super & on-costs,51.1,0.0,S05,
+EX000511,Payroll,2026-01-18,2026-01-18,Payroll - Tom,476,Super & on-costs,27.98,0.0,S04,
+EX000512,Payroll,2026-01-18,2026-01-18,Payroll - Jess,477,Field wages,642.83,0.0,S03,
+EX000513,Payroll,2026-01-18,2026-01-18,Payroll - Priya,477,Field wages,649.43,0.0,S02,
+EX000514,Payroll,2026-01-18,2026-01-18,Payroll - Sam,477,Field wages,555.47,0.0,S01,
+EX000515,Payroll,2026-01-18,2026-01-18,Payroll - Jess,478,Super & on-costs,95.41,0.0,S03,
+EX000516,Payroll,2026-01-18,2026-01-18,Payroll - Priya,478,Super & on-costs,96.39,0.0,S02,
+EX000517,Payroll,2026-01-18,2026-01-18,Payroll - Sam,478,Super & on-costs,82.45,0.0,S01,
+EX000518,Bill,2026-01-20,2026-01-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2026-01-20
+EX000519,Bill,2026-01-25,2026-02-24,Perth Clean Supply Co,310,Weekly supplies,125.03,12.5,,2026-02-21
+EX000520,Bill,2026-01-25,2026-02-24,WA Hygiene Wholesale,311,Weekly supplies,45.37,4.54,,2026-02-22
+EX000521,Bill,2026-01-25,2026-02-24,SafeWorks Supplies,313,Weekly supplies,20.3,2.03,,2026-03-01
+EX000522,Bill,2026-01-25,2026-02-01,Fleet fuel card,314,Weekly supplies,188.83,18.88,,2026-02-01
+EX000523,Bill,2026-01-25,2026-01-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2026-01-25
+EX000524,Payroll,2026-01-25,2026-01-25,Payroll - Ella,475,Field wages,130.81,0.0,S05,
+EX000525,Payroll,2026-01-25,2026-01-25,Payroll - Tom,475,Field wages,302.51,0.0,S04,
+EX000526,Payroll,2026-01-25,2026-01-25,Payroll - Ella,476,Super & on-costs,19.47,0.0,S05,
+EX000527,Payroll,2026-01-25,2026-01-25,Payroll - Tom,476,Super & on-costs,45.01,0.0,S04,
+EX000528,Payroll,2026-01-25,2026-01-25,Payroll - Jess,477,Field wages,551.0,0.0,S03,
+EX000529,Payroll,2026-01-25,2026-01-25,Payroll - Priya,477,Field wages,664.02,0.0,S02,
+EX000530,Payroll,2026-01-25,2026-01-25,Payroll - Sam,477,Field wages,1056.21,0.0,S01,
+EX000531,Payroll,2026-01-25,2026-01-25,Payroll - Jess,478,Super & on-costs,81.78,0.0,S03,
+EX000532,Payroll,2026-01-25,2026-01-25,Payroll - Priya,478,Super & on-costs,98.56,0.0,S02,
+EX000533,Payroll,2026-01-25,2026-01-25,Payroll - Sam,478,Super & on-costs,156.77,0.0,S01,
+EX000534,Bill,2026-01-28,2026-01-28,Google Ads,400,Monthly,310.5,31.05,,2026-01-28
+EX000535,Bill,2026-01-28,2026-01-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2026-01-28
+EX000536,Bill,2026-01-31,2026-03-02,Perth Clean Supply Co,310,Weekly supplies,67.62,6.76,,2026-02-28
+EX000537,Bill,2026-01-31,2026-03-02,WA Hygiene Wholesale,311,Weekly supplies,36.99,3.7,,2026-02-25
+EX000538,Bill,2026-01-31,2026-03-02,SafeWorks Supplies,313,Weekly supplies,12.54,1.25,,2026-03-07
+EX000539,Bill,2026-01-31,2026-02-07,Fleet fuel card,314,Weekly supplies,124.72,12.47,,2026-02-07
+EX000540,Payroll,2026-01-31,2026-01-31,Payroll - Ella,475,Field wages,106.28,0.0,S05,
+EX000541,Payroll,2026-01-31,2026-01-31,Payroll - Tom,475,Field wages,147.16,0.0,S04,
+EX000542,Payroll,2026-01-31,2026-01-31,Payroll - Ella,476,Super & on-costs,15.82,0.0,S05,
+EX000543,Payroll,2026-01-31,2026-01-31,Payroll - Tom,476,Super & on-costs,21.9,0.0,S04,
+EX000544,Payroll,2026-01-31,2026-01-31,Payroll - Jess,477,Field wages,649.89,0.0,S03,
+EX000545,Payroll,2026-01-31,2026-01-31,Payroll - Priya,477,Field wages,408.63,0.0,S02,
+EX000546,Payroll,2026-01-31,2026-01-31,Payroll - Sam,477,Field wages,391.19,0.0,S01,
+EX000547,Payroll,2026-01-31,2026-01-31,Payroll - Jess,478,Super & on-costs,96.46,0.0,S03,
+EX000548,Payroll,2026-01-31,2026-01-31,Payroll - Priya,478,Super & on-costs,60.65,0.0,S02,
+EX000549,Payroll,2026-01-31,2026-01-31,Payroll - Sam,478,Super & on-costs,58.06,0.0,S01,
+EX000550,Payroll,2026-01-31,2026-01-31,Payroll - Sam (admin),480,Director admin & quoting,1219.23,0.0,S01,
+EX000551,Payroll,2026-01-31,2026-01-31,Payroll - Sam (admin),481,Director super,140.21,0.0,S01,
+EX000552,Bill,2026-02-03,2026-02-03,Job management software,485,Monthly,92.11,9.21,,2026-02-03
+EX000553,Bill,2026-02-03,2026-02-03,Xero,485,Monthly,72.45,7.24,,2026-02-03
+EX000554,Bill,2026-02-05,2026-02-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2026-02-05
+EX000555,Bill,2026-02-08,2026-03-10,Perth Clean Supply Co,310,Weekly supplies,102.63,10.26,,2026-03-08
+EX000556,Bill,2026-02-08,2026-03-10,WA Hygiene Wholesale,311,Weekly supplies,43.45,4.35,,2026-03-07
+EX000557,Bill,2026-02-08,2026-03-10,SafeWorks Supplies,313,Weekly supplies,16.52,1.65,,2026-03-14
+EX000558,Bill,2026-02-08,2026-02-15,Fleet fuel card,314,Weekly supplies,187.14,18.71,,2026-02-15
+EX000559,Payroll,2026-02-08,2026-02-08,Payroll - Mia,475,Field wages,318.85,0.0,S06,
+EX000560,Payroll,2026-02-08,2026-02-08,Payroll - Tom,475,Field wages,441.5,0.0,S04,
+EX000561,Payroll,2026-02-08,2026-02-08,Payroll - Mia,476,Super & on-costs,47.45,0.0,S06,
+EX000562,Payroll,2026-02-08,2026-02-08,Payroll - Tom,476,Super & on-costs,65.69,0.0,S04,
+EX000563,Payroll,2026-02-08,2026-02-08,Payroll - Jess,477,Field wages,536.87,0.0,S03,
+EX000564,Payroll,2026-02-08,2026-02-08,Payroll - Priya,477,Field wages,525.38,0.0,S02,
+EX000565,Payroll,2026-02-08,2026-02-08,Payroll - Sam,477,Field wages,758.9,0.0,S01,
+EX000566,Payroll,2026-02-08,2026-02-08,Payroll - Jess,478,Super & on-costs,79.68,0.0,S03,
+EX000567,Payroll,2026-02-08,2026-02-08,Payroll - Priya,478,Super & on-costs,77.98,0.0,S02,
+EX000568,Payroll,2026-02-08,2026-02-08,Payroll - Sam,478,Super & on-costs,112.64,0.0,S01,
+EX000569,Bill,2026-02-12,2026-02-12,Telco,489,Monthly,122.13,12.21,,2026-02-12
+EX000570,Bill,2026-02-15,2026-03-17,Perth Clean Supply Co,310,Weekly supplies,72.24,7.22,,2026-03-20
+EX000571,Bill,2026-02-15,2026-03-17,WA Hygiene Wholesale,311,Weekly supplies,32.88,3.29,,2026-03-16
+EX000572,Bill,2026-02-15,2026-03-17,SafeWorks Supplies,313,Weekly supplies,13.05,1.31,,2026-03-17
+EX000573,Bill,2026-02-15,2026-02-22,Fleet fuel card,314,Weekly supplies,129.57,12.96,,2026-02-22
+EX000574,Bill,2026-02-15,2026-02-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2026-02-15
+EX000575,Payroll,2026-02-15,2026-02-15,Payroll - Mia,475,Field wages,482.38,0.0,S06,
+EX000576,Payroll,2026-02-15,2026-02-15,Payroll - Mia,476,Super & on-costs,71.78,0.0,S06,
+EX000577,Payroll,2026-02-15,2026-02-15,Payroll - Jess,477,Field wages,642.83,0.0,S03,
+EX000578,Payroll,2026-02-15,2026-02-15,Payroll - Priya,477,Field wages,379.44,0.0,S02,
+EX000579,Payroll,2026-02-15,2026-02-15,Payroll - Sam,477,Field wages,328.59,0.0,S01,
+EX000580,Payroll,2026-02-15,2026-02-15,Payroll - Jess,478,Super & on-costs,95.41,0.0,S03,
+EX000581,Payroll,2026-02-15,2026-02-15,Payroll - Priya,478,Super & on-costs,56.32,0.0,S02,
+EX000582,Payroll,2026-02-15,2026-02-15,Payroll - Sam,478,Super & on-costs,48.77,0.0,S01,
+EX000583,Bill,2026-02-20,2026-02-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2026-02-20
+EX000584,Bill,2026-02-21,2026-02-21,Equipment Hire WA,312,Carpet extractor hire SPC-1063,56.92,5.69,,2026-02-21
+EX000585,Bill,2026-02-22,2026-03-24,Perth Clean Supply Co,310,Weekly supplies,103.88,10.39,,2026-03-19
+EX000586,Bill,2026-02-22,2026-03-24,WA Hygiene Wholesale,311,Weekly supplies,36.45,3.65,,2026-03-25
+EX000587,Bill,2026-02-22,2026-03-24,SafeWorks Supplies,313,Weekly supplies,17.52,1.75,,2026-03-23
+EX000588,Bill,2026-02-22,2026-03-01,Fleet fuel card,314,Weekly supplies,187.11,18.71,,2026-03-01
+EX000589,Payroll,2026-02-22,2026-02-22,Payroll - Mia,475,Field wages,302.51,0.0,S06,
+EX000590,Payroll,2026-02-22,2026-02-22,Payroll - Tom,475,Field wages,286.16,0.0,S04,
+EX000591,Payroll,2026-02-22,2026-02-22,Payroll - Mia,476,Super & on-costs,45.01,0.0,S06,
+EX000592,Payroll,2026-02-22,2026-02-22,Payroll - Tom,476,Super & on-costs,42.58,0.0,S04,
+EX000593,Payroll,2026-02-22,2026-02-22,Payroll - Jess,477,Field wages,572.19,0.0,S03,
+EX000594,Payroll,2026-02-22,2026-02-22,Payroll - Priya,477,Field wages,620.24,0.0,S02,
+EX000595,Payroll,2026-02-22,2026-02-22,Payroll - Sam,477,Field wages,649.37,0.0,S01,
+EX000596,Payroll,2026-02-22,2026-02-22,Payroll - Jess,478,Super & on-costs,84.93,0.0,S03,
+EX000597,Payroll,2026-02-22,2026-02-22,Payroll - Priya,478,Super & on-costs,92.06,0.0,S02,
+EX000598,Payroll,2026-02-22,2026-02-22,Payroll - Sam,478,Super & on-costs,96.38,0.0,S01,
+EX000599,Bill,2026-02-25,2026-02-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2026-02-25
+EX000600,Bill,2026-02-26,2026-02-26,Equipment Hire WA,312,Carpet extractor hire SPC-1067,56.92,5.69,,2026-02-26
+EX000601,Bill,2026-02-28,2026-03-30,Perth Clean Supply Co,310,Weekly supplies,96.72,9.67,,2026-03-27
+EX000602,Bill,2026-02-28,2026-03-30,WA Hygiene Wholesale,311,Weekly supplies,33.85,3.39,,2026-04-02
+EX000603,Bill,2026-02-28,2026-03-30,SafeWorks Supplies,313,Weekly supplies,15.96,1.6,,2026-04-04
+EX000604,Bill,2026-02-28,2026-03-07,Fleet fuel card,314,Weekly supplies,165.52,16.55,,2026-03-07
+EX000605,Bill,2026-02-28,2026-02-28,Google Ads,400,Monthly,310.5,31.05,,2026-02-28
+EX000606,Bill,2026-02-28,2026-02-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2026-02-28
+EX000607,Payroll,2026-02-28,2026-02-28,Payroll - Mia,475,Field wages,220.75,0.0,S06,
+EX000608,Payroll,2026-02-28,2026-02-28,Payroll - Tom,475,Field wages,147.16,0.0,S04,
+EX000609,Payroll,2026-02-28,2026-02-28,Payroll - Mia,476,Super & on-costs,32.85,0.0,S06,
+EX000610,Payroll,2026-02-28,2026-02-28,Payroll - Tom,476,Super & on-costs,21.9,0.0,S04,
+EX000611,Payroll,2026-02-28,2026-02-28,Payroll - Jess,477,Field wages,642.83,0.0,S03,
+EX000612,Payroll,2026-02-28,2026-02-28,Payroll - Priya,477,Field wages,693.21,0.0,S02,
+EX000613,Payroll,2026-02-28,2026-02-28,Payroll - Sam,477,Field wages,485.06,0.0,S01,
+EX000614,Payroll,2026-02-28,2026-02-28,Payroll - Jess,478,Super & on-costs,95.41,0.0,S03,
+EX000615,Payroll,2026-02-28,2026-02-28,Payroll - Priya,478,Super & on-costs,102.89,0.0,S02,
+EX000616,Payroll,2026-02-28,2026-02-28,Payroll - Sam,478,Super & on-costs,72.0,0.0,S01,
+EX000617,Payroll,2026-02-28,2026-02-28,Payroll - Sam (admin),480,Director admin & quoting,1101.24,0.0,S01,
+EX000618,Payroll,2026-02-28,2026-02-28,Payroll - Sam (admin),481,Director super,126.64,0.0,S01,
+EX000619,Bill,2026-03-03,2026-03-03,Job management software,485,Monthly,92.11,9.21,,2026-03-03
+EX000620,Bill,2026-03-03,2026-03-03,Xero,485,Monthly,72.45,7.24,,2026-03-03
+EX000621,Bill,2026-03-05,2026-03-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2026-03-05
+EX000622,Bill,2026-03-06,2026-03-06,Workers comp & public liability renewal top-up,433,Monthly,393.3,39.33,,2026-03-06
+EX000623,Bill,2026-03-08,2026-04-07,Perth Clean Supply Co,310,Weekly supplies,86.0,8.6,,2026-04-06
+EX000624,Bill,2026-03-08,2026-04-07,WA Hygiene Wholesale,311,Weekly supplies,41.85,4.19,,2026-04-03
+EX000625,Bill,2026-03-08,2026-04-07,SafeWorks Supplies,313,Weekly supplies,15.24,1.52,,2026-04-07
+EX000626,Bill,2026-03-08,2026-03-15,Fleet fuel card,314,Weekly supplies,172.42,17.24,,2026-03-15
+EX000627,Payroll,2026-03-08,2026-03-08,Payroll - Mia,475,Field wages,245.27,0.0,S06,
+EX000628,Payroll,2026-03-08,2026-03-08,Payroll - Tom,475,Field wages,253.46,0.0,S04,
+EX000629,Payroll,2026-03-08,2026-03-08,Payroll - Mia,476,Super & on-costs,36.5,0.0,S06,
+EX000630,Payroll,2026-03-08,2026-03-08,Payroll - Tom,476,Super & on-costs,37.71,0.0,S04,
+EX000631,Payroll,2026-03-08,2026-03-08,Payroll - Jess,477,Field wages,614.57,0.0,S03,
+EX000632,Payroll,2026-03-08,2026-03-08,Payroll - Priya,477,Field wages,532.68,0.0,S02,
+EX000633,Payroll,2026-03-08,2026-03-08,Payroll - Sam,477,Field wages,532.02,0.0,S01,
+EX000634,Payroll,2026-03-08,2026-03-08,Payroll - Jess,478,Super & on-costs,91.22,0.0,S03,
+EX000635,Payroll,2026-03-08,2026-03-08,Payroll - Priya,478,Super & on-costs,79.06,0.0,S02,
+EX000636,Payroll,2026-03-08,2026-03-08,Payroll - Sam,478,Super & on-costs,78.96,0.0,S01,
+EX000637,Bill,2026-03-12,2026-03-12,Telco,489,Monthly,122.13,12.21,,2026-03-12
+EX000638,Bill,2026-03-15,2026-04-14,Perth Clean Supply Co,310,Weekly supplies,64.06,6.41,,2026-04-10
+EX000639,Bill,2026-03-15,2026-04-14,WA Hygiene Wholesale,311,Weekly supplies,39.43,3.94,,2026-04-13
+EX000640,Bill,2026-03-15,2026-04-14,SafeWorks Supplies,313,Weekly supplies,11.65,1.17,,2026-04-12
+EX000641,Bill,2026-03-15,2026-03-22,Fleet fuel card,314,Weekly supplies,143.06,14.31,,2026-03-22
+EX000642,Bill,2026-03-15,2026-03-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2026-03-15
+EX000643,Payroll,2026-03-15,2026-03-15,Payroll - Mia,475,Field wages,65.41,0.0,S06,
+EX000644,Payroll,2026-03-15,2026-03-15,Payroll - Mia,476,Super & on-costs,9.73,0.0,S06,
+EX000645,Payroll,2026-03-15,2026-03-15,Payroll - Jess,477,Field wages,720.53,0.0,S03,
+EX000646,Payroll,2026-03-15,2026-03-15,Payroll - Priya,477,Field wages,452.41,0.0,S02,
+EX000647,Payroll,2026-03-15,2026-03-15,Payroll - Sam,477,Field wages,453.78,0.0,S01,
+EX000648,Payroll,2026-03-15,2026-03-15,Payroll - Jess,478,Super & on-costs,106.95,0.0,S03,
+EX000649,Payroll,2026-03-15,2026-03-15,Payroll - Priya,478,Super & on-costs,67.15,0.0,S02,
+EX000650,Payroll,2026-03-15,2026-03-15,Payroll - Sam,478,Super & on-costs,67.35,0.0,S01,
+EX000651,Bill,2026-03-17,2026-03-17,Equipment Hire WA,312,Carpet extractor hire SPC-1071,56.92,5.69,,2026-03-17
+EX000652,Bill,2026-03-18,2026-03-18,Uniform reorder,461,Monthly,248.4,24.84,,2026-03-18
+EX000653,Bill,2026-03-20,2026-03-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2026-03-20
+EX000654,Bill,2026-03-21,2026-03-21,Equipment Hire WA,312,Carpet extractor hire SPC-1073,56.92,5.69,,2026-03-21
+EX000655,Bill,2026-03-22,2026-04-21,Perth Clean Supply Co,310,Weekly supplies,99.22,9.92,,2026-04-16
+EX000656,Bill,2026-03-22,2026-04-21,WA Hygiene Wholesale,311,Weekly supplies,38.65,3.87,,2026-04-21
+EX000657,Bill,2026-03-22,2026-04-21,SafeWorks Supplies,313,Weekly supplies,17.01,1.7,,2026-04-16
+EX000658,Bill,2026-03-22,2026-03-29,Fleet fuel card,314,Weekly supplies,183.4,18.34,,2026-03-29
+EX000659,Payroll,2026-03-22,2026-03-22,Payroll - Mia,475,Field wages,122.64,0.0,S06,
+EX000660,Payroll,2026-03-22,2026-03-22,Payroll - Tom,475,Field wages,188.05,0.0,S04,
+EX000661,Payroll,2026-03-22,2026-03-22,Payroll - Mia,476,Super & on-costs,18.25,0.0,S06,
+EX000662,Payroll,2026-03-22,2026-03-22,Payroll - Tom,476,Super & on-costs,27.98,0.0,S04,
+EX000663,Payroll,2026-03-22,2026-03-22,Payroll - Jess,477,Field wages,543.93,0.0,S03,
+EX000664,Payroll,2026-03-22,2026-03-22,Payroll - Priya,477,Field wages,780.77,0.0,S02,
+EX000665,Payroll,2026-03-22,2026-03-22,Payroll - Sam,477,Field wages,649.37,0.0,S01,
+EX000666,Payroll,2026-03-22,2026-03-22,Payroll - Jess,478,Super & on-costs,80.73,0.0,S03,
+EX000667,Payroll,2026-03-22,2026-03-22,Payroll - Priya,478,Super & on-costs,115.89,0.0,S02,
+EX000668,Payroll,2026-03-22,2026-03-22,Payroll - Sam,478,Super & on-costs,96.38,0.0,S01,
+EX000669,Bill,2026-03-25,2026-03-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2026-03-25
+EX000670,Bill,2026-03-28,2026-03-28,Equipment Hire WA,312,Carpet extractor hire SPC-1076,56.92,5.69,,2026-03-28
+EX000671,Bill,2026-03-28,2026-03-28,Equipment Hire WA,312,Carpet extractor hire SPC-1077,56.92,5.69,,2026-03-28
+EX000672,Bill,2026-03-28,2026-03-28,Google Ads,400,Monthly,310.5,31.05,,2026-03-28
+EX000673,Bill,2026-03-28,2026-03-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2026-03-28
+EX000674,Bill,2026-03-29,2026-04-28,Perth Clean Supply Co,310,Weekly supplies,72.67,7.27,,2026-05-03
+EX000675,Bill,2026-03-29,2026-04-28,WA Hygiene Wholesale,311,Weekly supplies,35.66,3.57,,2026-04-25
+EX000676,Bill,2026-03-29,2026-04-28,SafeWorks Supplies,313,Weekly supplies,13.04,1.3,,2026-04-25
+EX000677,Bill,2026-03-29,2026-04-05,Fleet fuel card,314,Weekly supplies,154.08,15.41,,2026-04-05
+EX000678,Payroll,2026-03-29,2026-03-29,Payroll - Mia,475,Field wages,114.47,0.0,S06,
+EX000679,Payroll,2026-03-29,2026-03-29,Payroll - Tom,475,Field wages,130.81,0.0,S04,
+EX000680,Payroll,2026-03-29,2026-03-29,Payroll - Mia,476,Super & on-costs,17.03,0.0,S06,
+EX000681,Payroll,2026-03-29,2026-03-29,Payroll - Tom,476,Super & on-costs,19.47,0.0,S04,
+EX000682,Payroll,2026-03-29,2026-03-29,Payroll - Jess,477,Field wages,678.15,0.0,S03,
+EX000683,Payroll,2026-03-29,2026-03-29,Payroll - Priya,477,Field wages,342.96,0.0,S02,
+EX000684,Payroll,2026-03-29,2026-03-29,Payroll - Sam,477,Field wages,555.48,0.0,S01,
+EX000685,Payroll,2026-03-29,2026-03-29,Payroll - Jess,478,Super & on-costs,100.65,0.0,S03,
+EX000686,Payroll,2026-03-29,2026-03-29,Payroll - Priya,478,Super & on-costs,50.9,0.0,S02,
+EX000687,Payroll,2026-03-29,2026-03-29,Payroll - Sam,478,Super & on-costs,82.45,0.0,S01,
+EX000688,Bill,2026-03-31,2026-04-30,Perth Clean Supply Co,310,Weekly supplies,31.98,3.2,,2026-05-04
+EX000689,Bill,2026-03-31,2026-04-30,WA Hygiene Wholesale,311,Weekly supplies,12.73,1.27,,2026-04-27
+EX000690,Bill,2026-03-31,2026-04-30,SafeWorks Supplies,313,Weekly supplies,5.62,0.56,,2026-05-01
+EX000691,Bill,2026-03-31,2026-04-07,Fleet fuel card,314,Weekly supplies,44.02,4.4,,2026-04-07
+EX000692,Payroll,2026-03-31,2026-03-31,Payroll - Mia,475,Field wages,351.57,0.0,S06,
+EX000693,Payroll,2026-03-31,2026-03-31,Payroll - Mia,476,Super & on-costs,52.31,0.0,S06,
+EX000694,Payroll,2026-03-31,2026-03-31,Payroll - Jess,477,Field wages,324.95,0.0,S03,
+EX000695,Payroll,2026-03-31,2026-03-31,Payroll - Jess,478,Super & on-costs,48.23,0.0,S03,
+EX000696,Payroll,2026-03-31,2026-03-31,Payroll - Sam (admin),480,Director admin & quoting,1219.23,0.0,S01,
+EX000697,Payroll,2026-03-31,2026-03-31,Payroll - Sam (admin),481,Director super,140.21,0.0,S01,
+EX000698,Bill,2026-04-01,2026-04-01,Equipment Hire WA,312,Carpet extractor hire SPC-1079,56.92,5.69,,2026-04-01
+EX000699,Bill,2026-04-03,2026-04-03,Job management software,485,Monthly,92.11,9.21,,2026-04-03
+EX000700,Bill,2026-04-03,2026-04-03,Xero,485,Monthly,72.45,7.24,,2026-04-03
+EX000701,Bill,2026-04-05,2026-05-05,Perth Clean Supply Co,310,Weekly supplies,57.76,5.78,,2026-05-08
+EX000702,Bill,2026-04-05,2026-05-05,WA Hygiene Wholesale,311,Weekly supplies,22.26,2.23,,2026-05-02
+EX000703,Bill,2026-04-05,2026-05-05,SafeWorks Supplies,313,Weekly supplies,10.35,1.03,,2026-05-03
+EX000704,Bill,2026-04-05,2026-04-12,Fleet fuel card,314,Weekly supplies,114.79,11.48,,2026-04-12
+EX000705,Bill,2026-04-05,2026-04-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2026-04-05
+EX000706,Payroll,2026-04-05,2026-04-05,Payroll - Mia,475,Field wages,163.52,0.0,S06,
+EX000707,Payroll,2026-04-05,2026-04-05,Payroll - Tom,475,Field wages,220.75,0.0,S04,
+EX000708,Payroll,2026-04-05,2026-04-05,Payroll - Mia,476,Super & on-costs,24.33,0.0,S06,
+EX000709,Payroll,2026-04-05,2026-04-05,Payroll - Tom,476,Super & on-costs,32.85,0.0,S04,
+EX000710,Payroll,2026-04-05,2026-04-05,Payroll - Jess,477,Field wages,218.99,0.0,S03,
+EX000711,Payroll,2026-04-05,2026-04-05,Payroll - Priya,477,Field wages,342.96,0.0,S02,
+EX000712,Payroll,2026-04-05,2026-04-05,Payroll - Sam,477,Field wages,508.54,0.0,S01,
+EX000713,Payroll,2026-04-05,2026-04-05,Payroll - Jess,478,Super & on-costs,32.5,0.0,S03,
+EX000714,Payroll,2026-04-05,2026-04-05,Payroll - Priya,478,Super & on-costs,50.9,0.0,S02,
+EX000715,Payroll,2026-04-05,2026-04-05,Payroll - Sam,478,Super & on-costs,75.48,0.0,S01,
+EX000716,Bill,2026-04-12,2026-05-12,Perth Clean Supply Co,310,Weekly supplies,85.6,8.56,,2026-05-11
+EX000717,Bill,2026-04-12,2026-05-12,WA Hygiene Wholesale,311,Weekly supplies,41.88,4.19,,2026-05-14
+EX000718,Bill,2026-04-12,2026-05-12,SafeWorks Supplies,313,Weekly supplies,15.11,1.51,,2026-05-13
+EX000719,Bill,2026-04-12,2026-04-19,Fleet fuel card,314,Weekly supplies,185.16,18.52,,2026-04-19
+EX000720,Bill,2026-04-12,2026-04-12,Telco,489,Monthly,122.13,12.21,,2026-04-12
+EX000721,Payroll,2026-04-12,2026-04-12,Payroll - Mia,475,Field wages,188.05,0.0,S06,
+EX000722,Payroll,2026-04-12,2026-04-12,Payroll - Mia,476,Super & on-costs,27.98,0.0,S06,
+EX000723,Payroll,2026-04-12,2026-04-12,Payroll - Jess,477,Field wages,713.47,0.0,S03,
+EX000724,Payroll,2026-04-12,2026-04-12,Payroll - Priya,477,Field wages,401.33,0.0,S02,
+EX000725,Payroll,2026-04-12,2026-04-12,Payroll - Sam,477,Field wages,829.32,0.0,S01,
+EX000726,Payroll,2026-04-12,2026-04-12,Payroll - Jess,478,Super & on-costs,105.9,0.0,S03,
+EX000727,Payroll,2026-04-12,2026-04-12,Payroll - Priya,478,Super & on-costs,59.57,0.0,S02,
+EX000728,Payroll,2026-04-12,2026-04-12,Payroll - Sam,478,Super & on-costs,123.09,0.0,S01,
+EX000729,Bill,2026-04-14,2026-04-14,Equipment Hire WA,312,Carpet extractor hire SPC-1085,56.92,5.69,,2026-04-14
+EX000730,Bill,2026-04-14,2026-04-14,Van service & tyres,449,Monthly,558.9,55.89,,2026-04-14
+EX000731,Bill,2026-04-15,2026-04-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2026-04-15
+EX000732,Bill,2026-04-19,2026-05-19,Perth Clean Supply Co,310,Weekly supplies,71.93,7.19,,2026-05-18
+EX000733,Bill,2026-04-19,2026-05-19,WA Hygiene Wholesale,311,Weekly supplies,32.75,3.28,,2026-05-22
+EX000734,Bill,2026-04-19,2026-05-19,SafeWorks Supplies,313,Weekly supplies,12.58,1.26,,2026-05-20
+EX000735,Bill,2026-04-19,2026-04-26,Fleet fuel card,314,Weekly supplies,144.42,14.44,,2026-04-26
+EX000736,Payroll,2026-04-19,2026-04-19,Payroll - Mia,475,Field wages,130.81,0.0,S06,
+EX000737,Payroll,2026-04-19,2026-04-19,Payroll - Tom,475,Field wages,147.16,0.0,S04,
+EX000738,Payroll,2026-04-19,2026-04-19,Payroll - Mia,476,Super & on-costs,19.47,0.0,S06,
+EX000739,Payroll,2026-04-19,2026-04-19,Payroll - Tom,476,Super & on-costs,21.9,0.0,S04,
+EX000740,Payroll,2026-04-19,2026-04-19,Payroll - Jess,477,Field wages,536.87,0.0,S03,
+EX000741,Payroll,2026-04-19,2026-04-19,Payroll - Priya,477,Field wages,328.36,0.0,S02,
+EX000742,Payroll,2026-04-19,2026-04-19,Payroll - Sam,477,Field wages,696.31,0.0,S01,
+EX000743,Payroll,2026-04-19,2026-04-19,Payroll - Jess,478,Super & on-costs,79.68,0.0,S03,
+EX000744,Payroll,2026-04-19,2026-04-19,Payroll - Priya,478,Super & on-costs,48.74,0.0,S02,
+EX000745,Payroll,2026-04-19,2026-04-19,Payroll - Sam,478,Super & on-costs,103.35,0.0,S01,
+EX000746,Bill,2026-04-20,2026-04-20,Equipment Hire WA,312,Carpet extractor hire SPC-1086,56.92,5.69,,2026-04-20
+EX000747,Bill,2026-04-20,2026-04-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2026-04-20
+EX000748,Bill,2026-04-23,2026-04-23,Equipment Hire WA,312,Carpet extractor hire SPC-1087,56.92,5.69,,2026-04-23
+EX000749,Bill,2026-04-25,2026-04-25,Equipment Hire WA,312,Carpet extractor hire SPC-1088,56.92,5.69,,2026-04-25
+EX000750,Bill,2026-04-25,2026-04-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2026-04-25
+EX000751,Bill,2026-04-26,2026-05-26,Perth Clean Supply Co,310,Weekly supplies,112.08,11.21,,2026-05-29
+EX000752,Bill,2026-04-26,2026-05-26,WA Hygiene Wholesale,311,Weekly supplies,45.17,4.52,,2026-05-31
+EX000753,Bill,2026-04-26,2026-05-26,SafeWorks Supplies,313,Weekly supplies,18.65,1.86,,2026-05-26
+EX000754,Bill,2026-04-26,2026-05-03,Fleet fuel card,314,Weekly supplies,196.25,19.62,,2026-05-03
+EX000755,Payroll,2026-04-26,2026-04-26,Payroll - Mia,475,Field wages,376.1,0.0,S06,
+EX000756,Payroll,2026-04-26,2026-04-26,Payroll - Tom,475,Field wages,367.91,0.0,S04,
+EX000757,Payroll,2026-04-26,2026-04-26,Payroll - Mia,476,Super & on-costs,55.96,0.0,S06,
+EX000758,Payroll,2026-04-26,2026-04-26,Payroll - Tom,476,Super & on-costs,54.75,0.0,S04,
+EX000759,Payroll,2026-04-26,2026-04-26,Payroll - Jess,477,Field wages,664.02,0.0,S03,
+EX000760,Payroll,2026-04-26,2026-04-26,Payroll - Priya,477,Field wages,445.11,0.0,S02,
+EX000761,Payroll,2026-04-26,2026-04-26,Payroll - Sam,477,Field wages,618.07,0.0,S01,
+EX000762,Payroll,2026-04-26,2026-04-26,Payroll - Jess,478,Super & on-costs,98.56,0.0,S03,
+EX000763,Payroll,2026-04-26,2026-04-26,Payroll - Priya,478,Super & on-costs,66.07,0.0,S02,
+EX000764,Payroll,2026-04-26,2026-04-26,Payroll - Sam,478,Super & on-costs,91.74,0.0,S01,
+EX000765,Bill,2026-04-28,2026-04-28,Equipment Hire WA,312,Carpet extractor hire SPC-1089,56.92,5.69,,2026-04-28
+EX000766,Bill,2026-04-28,2026-04-28,Google Ads,400,Monthly,310.5,31.05,,2026-04-28
+EX000767,Bill,2026-04-28,2026-04-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2026-04-28
+EX000768,Bill,2026-04-30,2026-05-30,Perth Clean Supply Co,310,Weekly supplies,76.22,7.62,,2026-05-27
+EX000769,Bill,2026-04-30,2026-05-30,WA Hygiene Wholesale,311,Weekly supplies,32.23,3.22,,2026-05-25
+EX000770,Bill,2026-04-30,2026-05-30,SafeWorks Supplies,313,Weekly supplies,13.5,1.35,,2026-06-03
+EX000771,Bill,2026-04-30,2026-05-07,Fleet fuel card,314,Weekly supplies,151.81,15.18,,2026-05-07
+EX000772,Payroll,2026-04-30,2026-04-30,Payroll - Mia,475,Field wages,122.64,0.0,S06,
+EX000773,Payroll,2026-04-30,2026-04-30,Payroll - Mia,476,Super & on-costs,18.25,0.0,S06,
+EX000774,Payroll,2026-04-30,2026-04-30,Payroll - Jess,477,Field wages,558.06,0.0,S03,
+EX000775,Payroll,2026-04-30,2026-04-30,Payroll - Priya,477,Field wages,350.25,0.0,S02,
+EX000776,Payroll,2026-04-30,2026-04-30,Payroll - Sam,477,Field wages,837.15,0.0,S01,
+EX000777,Payroll,2026-04-30,2026-04-30,Payroll - Jess,478,Super & on-costs,82.83,0.0,S03,
+EX000778,Payroll,2026-04-30,2026-04-30,Payroll - Priya,478,Super & on-costs,51.99,0.0,S02,
+EX000779,Payroll,2026-04-30,2026-04-30,Payroll - Sam,478,Super & on-costs,124.25,0.0,S01,
+EX000780,Payroll,2026-04-30,2026-04-30,Payroll - Sam (admin),480,Director admin & quoting,1179.9,0.0,S01,
+EX000781,Payroll,2026-04-30,2026-04-30,Payroll - Sam (admin),481,Director super,135.69,0.0,S01,
+EX000782,Bill,2026-05-03,2026-06-02,Perth Clean Supply Co,310,Weekly supplies,12.87,1.29,,2026-06-07
+EX000783,Bill,2026-05-03,2026-06-02,WA Hygiene Wholesale,311,Weekly supplies,9.22,0.92,,2026-06-05
+EX000784,Bill,2026-05-03,2026-06-02,SafeWorks Supplies,313,Weekly supplies,2.15,0.21,,2026-06-07
+EX000785,Bill,2026-05-03,2026-05-10,Fleet fuel card,314,Weekly supplies,25.43,2.54,,2026-05-10
+EX000786,Bill,2026-05-03,2026-05-03,Job management software,485,Monthly,92.11,9.21,,2026-05-03
+EX000787,Bill,2026-05-03,2026-05-03,Xero,485,Monthly,72.45,7.24,,2026-05-03
+EX000788,Payroll,2026-05-03,2026-05-03,Payroll - Tom,475,Field wages,261.63,0.0,S04,
+EX000789,Payroll,2026-05-03,2026-05-03,Payroll - Tom,476,Super & on-costs,38.93,0.0,S04,
+EX000790,Payroll,2026-05-03,2026-05-03,Payroll - Priya,477,Field wages,102.16,0.0,S02,
+EX000791,Payroll,2026-05-03,2026-05-03,Payroll - Priya,478,Super & on-costs,15.16,0.0,S02,
+EX000792,Bill,2026-05-05,2026-05-05,Equipment Hire WA,312,Carpet extractor hire SPC-1091,56.92,5.69,,2026-05-05
+EX000793,Bill,2026-05-05,2026-05-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2026-05-05
+EX000794,Bill,2026-05-10,2026-06-09,Perth Clean Supply Co,310,Weekly supplies,100.33,10.03,,2026-06-10
+EX000795,Bill,2026-05-10,2026-06-09,WA Hygiene Wholesale,311,Weekly supplies,50.28,5.03,,2026-06-06
+EX000796,Bill,2026-05-10,2026-06-09,SafeWorks Supplies,313,Weekly supplies,17.44,1.74,,2026-06-13
+EX000797,Bill,2026-05-10,2026-05-17,Fleet fuel card,314,Weekly supplies,174.4,17.44,,2026-05-17
+EX000798,Payroll,2026-05-10,2026-05-10,Payroll - Mia,475,Field wages,433.32,0.0,S06,
+EX000799,Payroll,2026-05-10,2026-05-10,Payroll - Tom,475,Field wages,106.28,0.0,S04,
+EX000800,Payroll,2026-05-10,2026-05-10,Payroll - Mia,476,Super & on-costs,64.48,0.0,S06,
+EX000801,Payroll,2026-05-10,2026-05-10,Payroll - Tom,476,Super & on-costs,15.82,0.0,S04,
+EX000802,Payroll,2026-05-10,2026-05-10,Payroll - Jess,477,Field wages,791.17,0.0,S03,
+EX000803,Payroll,2026-05-10,2026-05-10,Payroll - Priya,477,Field wages,364.85,0.0,S02,
+EX000804,Payroll,2026-05-10,2026-05-10,Payroll - Sam,477,Field wages,711.97,0.0,S01,
+EX000805,Payroll,2026-05-10,2026-05-10,Payroll - Jess,478,Super & on-costs,117.43,0.0,S03,
+EX000806,Payroll,2026-05-10,2026-05-10,Payroll - Priya,478,Super & on-costs,54.15,0.0,S02,
+EX000807,Payroll,2026-05-10,2026-05-10,Payroll - Sam,478,Super & on-costs,105.67,0.0,S01,
+EX000808,Bill,2026-05-12,2026-05-12,Telco,489,Monthly,122.13,12.21,,2026-05-12
+EX000809,Bill,2026-05-15,2026-05-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2026-05-15
+EX000810,Bill,2026-05-17,2026-06-16,Perth Clean Supply Co,310,Weekly supplies,120.06,12.01,,2026-06-17
+EX000811,Bill,2026-05-17,2026-06-16,WA Hygiene Wholesale,311,Weekly supplies,45.26,4.53,,2026-06-21
+EX000812,Bill,2026-05-17,2026-06-16,SafeWorks Supplies,313,Weekly supplies,19.88,1.99,,2026-06-11
+EX000813,Bill,2026-05-17,2026-05-24,Fleet fuel card,314,Weekly supplies,188.92,18.89,,2026-05-24
+EX000814,Payroll,2026-05-17,2026-05-17,Payroll - Mia,475,Field wages,335.21,0.0,S06,
+EX000815,Payroll,2026-05-17,2026-05-17,Payroll - Tom,475,Field wages,457.85,0.0,S04,
+EX000816,Payroll,2026-05-17,2026-05-17,Payroll - Mia,476,Super & on-costs,49.88,0.0,S06,
+EX000817,Payroll,2026-05-17,2026-05-17,Payroll - Tom,476,Super & on-costs,68.13,0.0,S04,
+EX000818,Payroll,2026-05-17,2026-05-17,Payroll - Jess,477,Field wages,565.12,0.0,S03,
+EX000819,Payroll,2026-05-17,2026-05-17,Payroll - Priya,477,Field wages,642.13,0.0,S02,
+EX000820,Payroll,2026-05-17,2026-05-17,Payroll - Sam,477,Field wages,657.2,0.0,S01,
+EX000821,Payroll,2026-05-17,2026-05-17,Payroll - Jess,478,Super & on-costs,83.88,0.0,S03,
+EX000822,Payroll,2026-05-17,2026-05-17,Payroll - Priya,478,Super & on-costs,95.31,0.0,S02,
+EX000823,Payroll,2026-05-17,2026-05-17,Payroll - Sam,478,Super & on-costs,97.54,0.0,S01,
+EX000824,Bill,2026-05-20,2026-05-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2026-05-20
+EX000825,Bill,2026-05-24,2026-06-23,Perth Clean Supply Co,310,Weekly supplies,89.08,8.91,,2026-06-24
+EX000826,Bill,2026-05-24,2026-06-23,WA Hygiene Wholesale,311,Weekly supplies,42.05,4.21,,2026-06-19
+EX000827,Bill,2026-05-24,2026-06-23,SafeWorks Supplies,313,Weekly supplies,15.86,1.59,,2026-06-22
+EX000828,Bill,2026-05-24,2026-05-31,Fleet fuel card,314,Weekly supplies,156.24,15.62,,2026-05-31
+EX000829,Payroll,2026-05-24,2026-05-24,Payroll - Mia,475,Field wages,147.16,0.0,S06,
+EX000830,Payroll,2026-05-24,2026-05-24,Payroll - Tom,475,Field wages,98.11,0.0,S04,
+EX000831,Payroll,2026-05-24,2026-05-24,Payroll - Mia,476,Super & on-costs,21.9,0.0,S06,
+EX000832,Payroll,2026-05-24,2026-05-24,Payroll - Tom,476,Super & on-costs,14.6,0.0,S04,
+EX000833,Payroll,2026-05-24,2026-05-24,Payroll - Jess,477,Field wages,628.7,0.0,S03,
+EX000834,Payroll,2026-05-24,2026-05-24,Payroll - Priya,477,Field wages,591.05,0.0,S02,
+EX000835,Payroll,2026-05-24,2026-05-24,Payroll - Sam,477,Field wages,618.06,0.0,S01,
+EX000836,Payroll,2026-05-24,2026-05-24,Payroll - Jess,478,Super & on-costs,93.32,0.0,S03,
+EX000837,Payroll,2026-05-24,2026-05-24,Payroll - Priya,478,Super & on-costs,87.73,0.0,S02,
+EX000838,Payroll,2026-05-24,2026-05-24,Payroll - Sam,478,Super & on-costs,91.74,0.0,S01,
+EX000839,Bill,2026-05-25,2026-05-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2026-05-25
+EX000840,Bill,2026-05-28,2026-05-28,Google Ads,400,Monthly,310.5,31.05,,2026-05-28
+EX000841,Bill,2026-05-28,2026-05-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2026-05-28
+EX000842,Bill,2026-05-31,2026-06-30,Perth Clean Supply Co,310,Weekly supplies,84.96,8.5,,2026-06-26
+EX000843,Bill,2026-05-31,2026-06-30,WA Hygiene Wholesale,311,Weekly supplies,41.7,4.17,,2026-06-29
+EX000844,Bill,2026-05-31,2026-06-30,SafeWorks Supplies,313,Weekly supplies,14.96,1.5,,2026-06-29
+EX000845,Bill,2026-05-31,2026-06-07,Fleet fuel card,314,Weekly supplies,148.98,14.9,,2026-06-07
+EX000846,Payroll,2026-05-31,2026-05-31,Payroll - Mia,475,Field wages,122.64,0.0,S06,
+EX000847,Payroll,2026-05-31,2026-05-31,Payroll - Tom,475,Field wages,384.27,0.0,S04,
+EX000848,Payroll,2026-05-31,2026-05-31,Payroll - Mia,476,Super & on-costs,18.25,0.0,S06,
+EX000849,Payroll,2026-05-31,2026-05-31,Payroll - Tom,476,Super & on-costs,57.18,0.0,S04,
+EX000850,Payroll,2026-05-31,2026-05-31,Payroll - Jess,477,Field wages,586.32,0.0,S03,
+EX000851,Payroll,2026-05-31,2026-05-31,Payroll - Priya,477,Field wages,481.6,0.0,S02,
+EX000852,Payroll,2026-05-31,2026-05-31,Payroll - Sam,477,Field wages,555.49,0.0,S01,
+EX000853,Payroll,2026-05-31,2026-05-31,Payroll - Jess,478,Super & on-costs,87.02,0.0,S03,
+EX000854,Payroll,2026-05-31,2026-05-31,Payroll - Priya,478,Super & on-costs,71.48,0.0,S02,
+EX000855,Payroll,2026-05-31,2026-05-31,Payroll - Sam,478,Super & on-costs,82.45,0.0,S01,
+EX000856,Payroll,2026-05-31,2026-05-31,Payroll - Sam (admin),480,Director admin & quoting,1219.23,0.0,S01,
+EX000857,Payroll,2026-05-31,2026-05-31,Payroll - Sam (admin),481,Director super,140.21,0.0,S01,
+EX000858,Bill,2026-06-03,2026-06-03,Job management software,485,Monthly,92.11,9.21,,2026-06-03
+EX000859,Bill,2026-06-03,2026-06-03,Xero,485,Monthly,72.45,7.24,,2026-06-03
+EX000860,Bill,2026-06-04,2026-06-04,Equipment Hire WA,312,Carpet extractor hire SPC-1095,56.92,5.69,,2026-06-04
+EX000861,Bill,2026-06-05,2026-06-05,Coastal Business Insurance,433,Monthly,274.27,27.43,,2026-06-05
+EX000862,Bill,2026-06-07,2026-07-07,Perth Clean Supply Co,310,Weekly supplies,110.58,11.06,,2026-07-10
+EX000863,Bill,2026-06-07,2026-07-07,WA Hygiene Wholesale,311,Weekly supplies,58.94,5.89,,2026-07-12
+EX000864,Bill,2026-06-07,2026-07-07,SafeWorks Supplies,313,Weekly supplies,19.4,1.94,,2026-07-12
+EX000865,Bill,2026-06-07,2026-06-14,Fleet fuel card,314,Weekly supplies,195.94,19.59,,2026-06-14
+EX000866,Payroll,2026-06-07,2026-06-07,Payroll - Mia,475,Field wages,269.8,0.0,S06,
+EX000867,Payroll,2026-06-07,2026-06-07,Payroll - Tom,475,Field wages,220.75,0.0,S04,
+EX000868,Payroll,2026-06-07,2026-06-07,Payroll - Mia,476,Super & on-costs,40.15,0.0,S06,
+EX000869,Payroll,2026-06-07,2026-06-07,Payroll - Tom,476,Super & on-costs,32.85,0.0,S04,
+EX000870,Payroll,2026-06-07,2026-06-07,Payroll - Jess,477,Field wages,692.28,0.0,S03,
+EX000871,Payroll,2026-06-07,2026-06-07,Payroll - Priya,477,Field wages,525.38,0.0,S02,
+EX000872,Payroll,2026-06-07,2026-06-07,Payroll - Sam,477,Field wages,954.49,0.0,S01,
+EX000873,Payroll,2026-06-07,2026-06-07,Payroll - Jess,478,Super & on-costs,102.75,0.0,S03,
+EX000874,Payroll,2026-06-07,2026-06-07,Payroll - Priya,478,Super & on-costs,77.98,0.0,S02,
+EX000875,Payroll,2026-06-07,2026-06-07,Payroll - Sam,478,Super & on-costs,141.67,0.0,S01,
+EX000876,Bill,2026-06-12,2026-06-12,Telco,489,Monthly,122.13,12.21,,2026-06-12
+EX000877,Bill,2026-06-14,2026-07-14,Perth Clean Supply Co,310,Weekly supplies,101.85,10.19,,2026-07-14
+EX000878,Bill,2026-06-14,2026-07-14,WA Hygiene Wholesale,311,Weekly supplies,41.49,4.15,,2026-07-15
+EX000879,Bill,2026-06-14,2026-07-14,SafeWorks Supplies,313,Weekly supplies,18.02,1.8,,2026-07-16
+EX000880,Bill,2026-06-14,2026-06-21,Fleet fuel card,314,Weekly supplies,171.05,17.11,,2026-06-21
+EX000881,Payroll,2026-06-14,2026-06-14,Payroll - Mia,475,Field wages,302.51,0.0,S06,
+EX000882,Payroll,2026-06-14,2026-06-14,Payroll - Tom,475,Field wages,343.39,0.0,S04,
+EX000883,Payroll,2026-06-14,2026-06-14,Payroll - Mia,476,Super & on-costs,45.01,0.0,S06,
+EX000884,Payroll,2026-06-14,2026-06-14,Payroll - Tom,476,Super & on-costs,51.1,0.0,S04,
+EX000885,Payroll,2026-06-14,2026-06-14,Payroll - Jess,477,Field wages,543.93,0.0,S03,
+EX000886,Payroll,2026-06-14,2026-06-14,Payroll - Priya,477,Field wages,561.86,0.0,S02,
+EX000887,Payroll,2026-06-14,2026-06-14,Payroll - Sam,477,Field wages,657.2,0.0,S01,
+EX000888,Payroll,2026-06-14,2026-06-14,Payroll - Jess,478,Super & on-costs,80.73,0.0,S03,
+EX000889,Payroll,2026-06-14,2026-06-14,Payroll - Priya,478,Super & on-costs,83.4,0.0,S02,
+EX000890,Payroll,2026-06-14,2026-06-14,Payroll - Sam,478,Super & on-costs,97.54,0.0,S01,
+EX000891,Bill,2026-06-15,2026-06-15,Fleet Finance WA (van loan + rego),449,Monthly,503.01,0.0,,2026-06-15
+EX000892,Bill,2026-06-20,2026-06-20,Equipment Hire WA,312,Carpet extractor hire SPC-1098,56.92,5.69,,2026-06-20
+EX000893,Bill,2026-06-20,2026-06-20,Uniforms & sundries,461,Monthly,77.62,7.76,,2026-06-20
+EX000894,Bill,2026-06-21,2026-07-21,Perth Clean Supply Co,310,Weekly supplies,91.52,9.15,,2026-07-18
+EX000895,Bill,2026-06-21,2026-07-21,WA Hygiene Wholesale,311,Weekly supplies,49.32,4.93,,2026-07-19
+EX000896,Bill,2026-06-21,2026-07-21,SafeWorks Supplies,313,Weekly supplies,16.26,1.63,,2026-07-18
+EX000897,Bill,2026-06-21,2026-06-28,Fleet fuel card,314,Weekly supplies,149.65,14.97,,2026-06-28
+EX000898,Payroll,2026-06-21,2026-06-21,Payroll - Mia,475,Field wages,416.97,0.0,S06,
+EX000899,Payroll,2026-06-21,2026-06-21,Payroll - Tom,475,Field wages,98.11,0.0,S04,
+EX000900,Payroll,2026-06-21,2026-06-21,Payroll - Mia,476,Super & on-costs,62.04,0.0,S06,
+EX000901,Payroll,2026-06-21,2026-06-21,Payroll - Tom,476,Super & on-costs,14.6,0.0,S04,
+EX000902,Payroll,2026-06-21,2026-06-21,Payroll - Jess,477,Field wages,614.57,0.0,S03,
+EX000903,Payroll,2026-06-21,2026-06-21,Payroll - Priya,477,Field wages,525.38,0.0,S02,
+EX000904,Payroll,2026-06-21,2026-06-21,Payroll - Sam,477,Field wages,594.6,0.0,S01,
+EX000905,Payroll,2026-06-21,2026-06-21,Payroll - Jess,478,Super & on-costs,91.22,0.0,S03,
+EX000906,Payroll,2026-06-21,2026-06-21,Payroll - Priya,478,Super & on-costs,77.98,0.0,S02,
+EX000907,Payroll,2026-06-21,2026-06-21,Payroll - Sam,478,Super & on-costs,88.25,0.0,S01,
+EX000908,Bill,2026-06-22,2026-06-22,Equipment Hire WA,312,Carpet extractor hire SPC-1099,56.92,5.69,,2026-06-22
+EX000909,Bill,2026-06-25,2026-06-25,Northbridge Bookkeeping,412,Monthly,372.6,37.26,,2026-06-25
+EX000910,Bill,2026-06-28,2026-07-28,Perth Clean Supply Co,310,Weekly supplies,166.18,16.62,,2026-07-25
+EX000911,Bill,2026-06-28,2026-07-28,WA Hygiene Wholesale,311,Weekly supplies,53.79,5.38,,2026-07-30
+EX000912,Bill,2026-06-28,2026-07-28,SafeWorks Supplies,313,Weekly supplies,27.16,2.72,,2026-07-25
+EX000913,Bill,2026-06-28,2026-07-05,Fleet fuel card,314,Weekly supplies,224.46,22.45,,2026-07-05
+EX000914,Bill,2026-06-28,2026-06-28,Google Ads,400,Monthly,310.5,31.05,,2026-06-28
+EX000915,Bill,2026-06-28,2026-06-28,Bank & card terminal fees,404,Monthly,66.24,0.0,,2026-06-28
+EX000916,Payroll,2026-06-28,2026-06-28,Payroll - Mia,475,Field wages,596.85,0.0,S06,
+EX000917,Payroll,2026-06-28,2026-06-28,Payroll - Tom,475,Field wages,506.9,0.0,S04,
+EX000918,Payroll,2026-06-28,2026-06-28,Payroll - Mia,476,Super & on-costs,88.81,0.0,S06,
+EX000919,Payroll,2026-06-28,2026-06-28,Payroll - Tom,476,Super & on-costs,75.43,0.0,S04,
+EX000920,Payroll,2026-06-28,2026-06-28,Payroll - Jess,477,Field wages,649.89,0.0,S03,
+EX000921,Payroll,2026-06-28,2026-06-28,Payroll - Priya,477,Field wages,693.21,0.0,S02,
+EX000922,Payroll,2026-06-28,2026-06-28,Payroll - Sam,477,Field wages,938.84,0.0,S01,
+EX000923,Payroll,2026-06-28,2026-06-28,Payroll - Jess,478,Super & on-costs,96.46,0.0,S03,
+EX000924,Payroll,2026-06-28,2026-06-28,Payroll - Priya,478,Super & on-costs,102.89,0.0,S02,
+EX000925,Payroll,2026-06-28,2026-06-28,Payroll - Sam,478,Super & on-costs,139.35,0.0,S01,
+EX000926,Bill,2026-06-30,2026-07-30,Perth Clean Supply Co,310,Weekly supplies,52.71,5.27,,2026-07-30
+EX000927,Bill,2026-06-30,2026-07-30,WA Hygiene Wholesale,311,Weekly supplies,21.07,2.11,,2026-07-28
+EX000928,Bill,2026-06-30,2026-07-30,SafeWorks Supplies,313,Weekly supplies,9.43,0.94,,2026-08-02
+EX000929,Bill,2026-06-30,2026-07-07,Fleet fuel card,314,Weekly supplies,67.71,6.77,,2026-07-07
+EX000930,Payroll,2026-06-30,2026-06-30,Payroll - Mia,475,Field wages,310.68,0.0,S06,
+EX000931,Payroll,2026-06-30,2026-06-30,Payroll - Mia,476,Super & on-costs,46.23,0.0,S06,
+EX000932,Payroll,2026-06-30,2026-06-30,Payroll - Jess,477,Field wages,310.82,0.0,S03,
+EX000933,Payroll,2026-06-30,2026-06-30,Payroll - Priya,477,Field wages,342.96,0.0,S02,
+EX000934,Payroll,2026-06-30,2026-06-30,Payroll - Sam,477,Field wages,101.7,0.0,S01,
+EX000935,Payroll,2026-06-30,2026-06-30,Payroll - Jess,478,Super & on-costs,46.13,0.0,S03,
+EX000936,Payroll,2026-06-30,2026-06-30,Payroll - Priya,478,Super & on-costs,50.9,0.0,S02,
+EX000937,Payroll,2026-06-30,2026-06-30,Payroll - Sam,478,Super & on-costs,15.1,0.0,S01,
+EX000938,Payroll,2026-06-30,2026-06-30,Payroll - Sam (admin),480,Director admin & quoting,1179.9,0.0,S01,
+EX000939,Payroll,2026-06-30,2026-06-30,Payroll - Sam (admin),481,Director super,135.69,0.0,S01,
+EX000940,Bill,2026-07-03,2026-07-03,Job management software,485,Monthly,95.34,9.53,,2026-07-03
+EX000941,Bill,2026-07-03,2026-07-03,Xero,485,Monthly,74.99,7.5,,2026-07-03
+EX000942,Bill,2026-07-05,2026-08-04,Perth Clean Supply Co,310,Weekly supplies,88.63,8.86,,2026-08-04
+EX000943,Bill,2026-07-05,2026-08-04,WA Hygiene Wholesale,311,Weekly supplies,40.67,4.07,,2026-08-01
+EX000944,Bill,2026-07-05,2026-08-04,SafeWorks Supplies,313,Weekly supplies,14.23,1.42,,2026-08-05
+EX000945,Bill,2026-07-05,2026-07-12,Fleet fuel card,314,Weekly supplies,130.14,13.01,,2026-07-12
+EX000946,Bill,2026-07-05,2026-07-05,Coastal Business Insurance,433,Monthly,283.87,28.39,,2026-07-05
+EX000947,Payroll,2026-07-05,2026-07-05,Payroll - Mia,475,Field wages,321.6,0.0,S06,
+EX000948,Payroll,2026-07-05,2026-07-05,Payroll - Tom,475,Field wages,236.97,0.0,S04,
+EX000949,Payroll,2026-07-05,2026-07-05,Payroll - Mia,476,Super & on-costs,47.85,0.0,S06,
+EX000950,Payroll,2026-07-05,2026-07-05,Payroll - Tom,476,Super & on-costs,35.26,0.0,S04,
+EX000951,Payroll,2026-07-05,2026-07-05,Payroll - Jess,477,Field wages,263.24,0.0,S03,
+EX000952,Payroll,2026-07-05,2026-07-05,Payroll - Priya,477,Field wages,498.41,0.0,S02,
+EX000953,Payroll,2026-07-05,2026-07-05,Payroll - Sam,477,Field wages,591.16,0.0,S01,
+EX000954,Payroll,2026-07-05,2026-07-05,Payroll - Jess,478,Super & on-costs,39.07,0.0,S03,
+EX000955,Payroll,2026-07-05,2026-07-05,Payroll - Priya,478,Super & on-costs,73.98,0.0,S02,
+EX000956,Payroll,2026-07-05,2026-07-05,Payroll - Sam,478,Super & on-costs,87.74,0.0,S01,
+EX000957,Bill,2026-07-10,2026-07-10,Website & listings refresh,400,Monthly,449.91,44.99,,2026-07-10
+EX000958,Bill,2026-07-12,2026-08-11,Perth Clean Supply Co,310,Weekly supplies,91.22,9.12,,2026-08-12
+EX000959,Bill,2026-07-12,2026-08-11,WA Hygiene Wholesale,311,Weekly supplies,43.2,4.32,,2026-08-07
+EX000960,Bill,2026-07-12,2026-08-11,SafeWorks Supplies,313,Weekly supplies,16.66,1.67,,2026-08-10
+EX000961,Bill,2026-07-12,2026-07-19,Fleet fuel card,314,Weekly supplies,173.52,17.35,,2026-07-19
+EX000962,Bill,2026-07-12,2026-07-12,Telco,489,Monthly,126.4,12.64,,2026-07-12
+EX000963,Payroll,2026-07-12,2026-07-12,Payroll - Mia,475,Field wages,236.97,0.0,S06,
+EX000964,Payroll,2026-07-12,2026-07-12,Payroll - Tom,475,Field wages,253.9,0.0,S04,
+EX000965,Payroll,2026-07-12,2026-07-12,Payroll - Mia,476,Super & on-costs,35.26,0.0,S06,
+EX000966,Payroll,2026-07-12,2026-07-12,Payroll - Tom,476,Super & on-costs,37.78,0.0,S04,
+EX000967,Payroll,2026-07-12,2026-07-12,Payroll - Jess,477,Field wages,694.66,0.0,S03,
+EX000968,Payroll,2026-07-12,2026-07-12,Payroll - Priya,477,Field wages,551.27,0.0,S02,
+EX000969,Payroll,2026-07-12,2026-07-12,Payroll - Sam,477,Field wages,599.26,0.0,S01,
+EX000970,Payroll,2026-07-12,2026-07-12,Payroll - Jess,478,Super & on-costs,103.1,0.0,S03,
+EX000971,Payroll,2026-07-12,2026-07-12,Payroll - Priya,478,Super & on-costs,81.82,0.0,S02,
+EX000972,Payroll,2026-07-12,2026-07-12,Payroll - Sam,478,Super & on-costs,88.94,0.0,S01,
+EX000973,Bill,2026-07-15,2026-07-15,Fleet Finance WA (van loan + rego),449,Monthly,520.62,0.0,,2026-07-15
+EX000974,Bill,2026-07-17,2026-07-17,Equipment Hire WA,312,Carpet extractor hire SPC-1104,58.92,5.89,,2026-07-17
+EX000975,Bill,2026-07-19,2026-08-18,Perth Clean Supply Co,310,Weekly supplies,83.77,8.38,,2026-08-20
+EX000976,Bill,2026-07-19,2026-08-18,WA Hygiene Wholesale,311,Weekly supplies,43.68,4.37,,2026-08-18
+EX000977,Bill,2026-07-19,2026-08-18,SafeWorks Supplies,313,Weekly supplies,14.18,1.42,,2026-08-19
+EX000978,Bill,2026-07-19,2026-07-26,Fleet fuel card,314,Weekly supplies,151.84,15.18,,2026-07-26
+EX000979,Payroll,2026-07-19,2026-07-19,Payroll - Tom,475,Field wages,101.56,0.0,S04,
+EX000980,Payroll,2026-07-19,2026-07-19,Payroll - Tom,476,Super & on-costs,15.11,0.0,S04,
+EX000981,Payroll,2026-07-19,2026-07-19,Payroll - Jess,477,Field wages,577.66,0.0,S03,
+EX000982,Payroll,2026-07-19,2026-07-19,Payroll - Priya,477,Field wages,589.01,0.0,S02,
+EX000983,Payroll,2026-07-19,2026-07-19,Payroll - Sam,477,Field wages,680.24,0.0,S01,
+EX000984,Payroll,2026-07-19,2026-07-19,Payroll - Jess,478,Super & on-costs,85.74,0.0,S03,
+EX000985,Payroll,2026-07-19,2026-07-19,Payroll - Priya,478,Super & on-costs,87.43,0.0,S02,
+EX000986,Payroll,2026-07-19,2026-07-19,Payroll - Sam,478,Super & on-costs,100.96,0.0,S01,
+EX000987,Bill,2026-07-20,2026-07-20,Uniforms & sundries,461,Monthly,80.34,8.03,,2026-07-20
+EX000988,Bill,2026-07-25,2026-07-25,Northbridge Bookkeeping,412,Monthly,385.64,38.56,,2026-07-25
+EX000989,Bill,2026-07-26,2026-08-25,Perth Clean Supply Co,310,Weekly supplies,105.98,10.6,,2026-08-29
+EX000990,Bill,2026-07-26,2026-08-25,WA Hygiene Wholesale,311,Weekly supplies,44.05,4.41,,2026-08-29
+EX000991,Bill,2026-07-26,2026-08-25,SafeWorks Supplies,313,Weekly supplies,17.67,1.77,,2026-08-29
+EX000992,Bill,2026-07-26,2026-08-02,Fleet fuel card,314,Weekly supplies,173.53,17.35,,2026-08-02
+EX000993,Payroll,2026-07-26,2026-07-26,Payroll - Mia,475,Field wages,465.48,0.0,S06,
+EX000994,Payroll,2026-07-26,2026-07-26,Payroll - Tom,475,Field wages,355.46,0.0,S04,
+EX000995,Payroll,2026-07-26,2026-07-26,Payroll - Mia,476,Super & on-costs,69.26,0.0,S06,
+EX000996,Payroll,2026-07-26,2026-07-26,Payroll - Tom,476,Super & on-costs,52.89,0.0,S04,
+EX000997,Payroll,2026-07-26,2026-07-26,Payroll - Jess,477,Field wages,570.35,0.0,S03,
+EX000998,Payroll,2026-07-26,2026-07-26,Payroll - Priya,477,Field wages,475.75,0.0,S02,
+EX000999,Payroll,2026-07-26,2026-07-26,Payroll - Sam,477,Field wages,566.86,0.0,S01,
+EX001000,Payroll,2026-07-26,2026-07-26,Payroll - Jess,478,Super & on-costs,84.66,0.0,S03,
+EX001001,Payroll,2026-07-26,2026-07-26,Payroll - Priya,478,Super & on-costs,70.61,0.0,S02,
+EX001002,Payroll,2026-07-26,2026-07-26,Payroll - Sam,478,Super & on-costs,84.14,0.0,S01,
+EX001003,Bill,2026-07-28,2026-07-28,Google Ads,400,Monthly,321.37,32.14,,2026-07-28
+EX001004,Bill,2026-07-28,2026-07-28,Bank & card terminal fees,404,Monthly,68.56,0.0,,2026-07-28
+EX001005,Bill,2026-07-31,2026-08-30,Perth Clean Supply Co,310,Weekly supplies,77.65,7.77,,2026-08-25
+EX001006,Bill,2026-07-31,2026-08-30,WA Hygiene Wholesale,311,Weekly supplies,40.27,4.03,,2026-08-27
+EX001007,Bill,2026-07-31,2026-07-31,Equipment Hire WA,312,Carpet extractor hire SPC-1106,58.92,5.89,,2026-07-31
+EX001008,Bill,2026-07-31,2026-08-30,SafeWorks Supplies,313,Weekly supplies,13.98,1.4,,2026-08-29
+EX001009,Bill,2026-07-31,2026-08-07,Fleet fuel card,314,Weekly supplies,162.69,16.27,,2026-08-07
+EX001010,Payroll,2026-07-31,2026-07-31,Payroll - Mia,475,Field wages,118.49,0.0,S06,
+EX001011,Payroll,2026-07-31,2026-07-31,Payroll - Tom,475,Field wages,160.8,0.0,S04,
+EX001012,Payroll,2026-07-31,2026-07-31,Payroll - Mia,476,Super & on-costs,17.63,0.0,S06,
+EX001013,Payroll,2026-07-31,2026-07-31,Payroll - Tom,476,Super & on-costs,23.93,0.0,S04,
+EX001014,Payroll,2026-07-31,2026-07-31,Payroll - Jess,477,Field wages,563.04,0.0,S03,
+EX001015,Payroll,2026-07-31,2026-07-31,Payroll - Priya,477,Field wages,596.57,0.0,S02,
+EX001016,Payroll,2026-07-31,2026-07-31,Payroll - Sam,477,Field wages,526.37,0.0,S01,
+EX001017,Payroll,2026-07-31,2026-07-31,Payroll - Jess,478,Super & on-costs,83.57,0.0,S03,
+EX001018,Payroll,2026-07-31,2026-07-31,Payroll - Priya,478,Super & on-costs,88.55,0.0,S02,
+EX001019,Payroll,2026-07-31,2026-07-31,Payroll - Sam,478,Super & on-costs,78.13,0.0,S01,
+EX001020,Payroll,2026-07-31,2026-07-31,Payroll - Sam (admin),480,Director admin & quoting,1261.9,0.0,S01,
+EX001021,Payroll,2026-07-31,2026-07-31,Payroll - Sam (admin),481,Director super,145.12,0.0,S01,
+EX001022,Bill,2026-08-03,2026-08-03,Job management software,485,Monthly,95.34,9.53,,2026-08-03
+EX001023,Bill,2026-08-03,2026-08-03,Xero,485,Monthly,74.99,7.5,,2026-08-03
+EX001024,Bill,2026-08-05,2026-08-05,Coastal Business Insurance,433,Monthly,283.87,28.39,,2026-08-05
+EX001025,Bill,2026-08-09,2026-09-08,Perth Clean Supply Co,310,Weekly supplies,99.55,9.96,,2026-09-12
+EX001026,Bill,2026-08-09,2026-09-08,WA Hygiene Wholesale,311,Weekly supplies,44.91,4.49,,2026-09-13
+EX001027,Bill,2026-08-09,2026-09-08,SafeWorks Supplies,313,Weekly supplies,17.4,1.74,,2026-09-04
+EX001028,Bill,2026-08-09,2026-08-16,Fleet fuel card,314,Weekly supplies,168.23,16.82,,2026-08-16
+EX001029,Payroll,2026-08-09,2026-08-09,Payroll - Tom,475,Field wages,220.04,0.0,S04,
+EX001030,Payroll,2026-08-09,2026-08-09,Payroll - Zara,475,Field wages,355.45,0.0,S07,
+EX001031,Payroll,2026-08-09,2026-08-09,Payroll - Tom,476,Super & on-costs,32.74,0.0,S04,
+EX001032,Payroll,2026-08-09,2026-08-09,Payroll - Zara,476,Super & on-costs,52.89,0.0,S07,
+EX001033,Payroll,2026-08-09,2026-08-09,Payroll - Jess,477,Field wages,643.47,0.0,S03,
+EX001034,Payroll,2026-08-09,2026-08-09,Payroll - Priya,477,Field wages,694.75,0.0,S02,
+EX001035,Payroll,2026-08-09,2026-08-09,Payroll - Sam,477,Field wages,566.86,0.0,S01,
+EX001036,Payroll,2026-08-09,2026-08-09,Payroll - Jess,478,Super & on-costs,95.51,0.0,S03,
+EX001037,Payroll,2026-08-09,2026-08-09,Payroll - Priya,478,Super & on-costs,103.12,0.0,S02,
+EX001038,Payroll,2026-08-09,2026-08-09,Payroll - Sam,478,Super & on-costs,84.14,0.0,S01,
+EX001039,Bill,2026-08-12,2026-08-12,Telco,489,Monthly,126.4,12.64,,2026-08-12
+EX001040,Bill,2026-08-14,2026-08-14,Equipment Hire WA,312,Carpet extractor hire SPC-1110,58.92,5.89,,2026-08-14
+EX001041,Bill,2026-08-15,2026-08-15,Equipment Hire WA,312,Carpet extractor hire SPC-1111,58.92,5.89,,2026-08-15
+EX001042,Bill,2026-08-15,2026-08-15,Fleet Finance WA (van loan + rego),449,Monthly,520.62,0.0,,2026-08-15
+EX001043,Bill,2026-08-16,2026-09-15,Perth Clean Supply Co,310,Weekly supplies,92.12,9.21,,2026-09-12
+EX001044,Bill,2026-08-16,2026-09-15,WA Hygiene Wholesale,311,Weekly supplies,45.68,4.57,,2026-09-14
+EX001045,Bill,2026-08-16,2026-09-15,SafeWorks Supplies,313,Weekly supplies,15.97,1.6,,2026-09-14
+EX001046,Bill,2026-08-16,2026-08-23,Fleet fuel card,314,Weekly supplies,178.95,17.89,,2026-08-23
+EX001047,Payroll,2026-08-16,2026-08-16,Payroll - Tom,475,Field wages,473.94,0.0,S04,
+EX001048,Payroll,2026-08-16,2026-08-16,Payroll - Zara,475,Field wages,296.21,0.0,S07,
+EX001049,Payroll,2026-08-16,2026-08-16,Payroll - Tom,476,Super & on-costs,70.52,0.0,S04,
+EX001050,Payroll,2026-08-16,2026-08-16,Payroll - Zara,476,Super & on-costs,44.08,0.0,S07,
+EX001051,Payroll,2026-08-16,2026-08-16,Payroll - Jess,477,Field wages,570.35,0.0,S03,
+EX001052,Payroll,2026-08-16,2026-08-16,Payroll - Priya,477,Field wages,551.26,0.0,S02,
+EX001053,Payroll,2026-08-16,2026-08-16,Payroll - Sam,477,Field wages,453.49,0.0,S01,
+EX001054,Payroll,2026-08-16,2026-08-16,Payroll - Jess,478,Super & on-costs,84.66,0.0,S03,
+EX001055,Payroll,2026-08-16,2026-08-16,Payroll - Priya,478,Super & on-costs,81.82,0.0,S02,
+EX001056,Payroll,2026-08-16,2026-08-16,Payroll - Sam,478,Super & on-costs,67.31,0.0,S01,
+EX001057,Bill,2026-08-20,2026-08-20,Uniforms & sundries,461,Monthly,80.34,8.03,,2026-08-20
+EX001058,Bill,2026-08-23,2026-09-22,Perth Clean Supply Co,310,Weekly supplies,123.79,12.38,,2026-09-19
+EX001059,Bill,2026-08-23,2026-09-22,WA Hygiene Wholesale,311,Weekly supplies,47.71,4.77,,2026-09-25
+EX001060,Bill,2026-08-23,2026-09-22,SafeWorks Supplies,313,Weekly supplies,21.43,2.14,,2026-09-25
+EX001061,Bill,2026-08-23,2026-08-30,Fleet fuel card,314,Weekly supplies,196.87,19.69,,2026-08-30
+EX001062,Payroll,2026-08-23,2026-08-23,Payroll - Tom,475,Field wages,287.74,0.0,S04,
+EX001063,Payroll,2026-08-23,2026-08-23,Payroll - Zara,475,Field wages,592.43,0.0,S07,
+EX001064,Payroll,2026-08-23,2026-08-23,Payroll - Tom,476,Super & on-costs,42.82,0.0,S04,
+EX001065,Payroll,2026-08-23,2026-08-23,Payroll - Zara,476,Super & on-costs,88.15,0.0,S07,
+EX001066,Payroll,2026-08-23,2026-08-23,Payroll - Jess,477,Field wages,563.04,0.0,S03,
+EX001067,Payroll,2026-08-23,2026-08-23,Payroll - Priya,477,Field wages,558.83,0.0,S02,
+EX001068,Payroll,2026-08-23,2026-08-23,Payroll - Sam,477,Field wages,769.31,0.0,S01,
+EX001069,Payroll,2026-08-23,2026-08-23,Payroll - Jess,478,Super & on-costs,83.57,0.0,S03,
+EX001070,Payroll,2026-08-23,2026-08-23,Payroll - Priya,478,Super & on-costs,82.94,0.0,S02,
+EX001071,Payroll,2026-08-23,2026-08-23,Payroll - Sam,478,Super & on-costs,114.19,0.0,S01,
+EX001072,Bill,2026-08-25,2026-08-25,Northbridge Bookkeeping,412,Monthly,385.64,38.56,,2026-08-25
+EX001073,Bill,2026-08-27,2026-08-27,Equipment Hire WA,312,Carpet extractor hire SPC-1115,58.92,5.89,,2026-08-27
+EX001074,Bill,2026-08-28,2026-08-28,Google Ads,400,Monthly,321.37,32.14,,2026-08-28
+EX001075,Bill,2026-08-28,2026-08-28,Bank & card terminal fees,404,Monthly,68.56,0.0,,2026-08-28
+EX001076,Bill,2026-08-30,2026-09-29,Perth Clean Supply Co,310,Weekly supplies,75.49,7.55,,2026-09-30
+EX001077,Bill,2026-08-30,2026-09-29,WA Hygiene Wholesale,311,Weekly supplies,41.01,4.1,,2026-10-04
+EX001078,Bill,2026-08-30,2026-09-29,SafeWorks Supplies,313,Weekly supplies,13.95,1.4,,2026-09-30
+EX001079,Bill,2026-08-30,2026-09-06,Fleet fuel card,314,Weekly supplies,146.76,14.68,,2026-09-06
+EX001080,Payroll,2026-08-30,2026-08-30,Payroll - Tom,475,Field wages,101.56,0.0,S04,
+EX001081,Payroll,2026-08-30,2026-08-30,Payroll - Zara,475,Field wages,101.56,0.0,S07,
+EX001082,Payroll,2026-08-30,2026-08-30,Payroll - Tom,476,Super & on-costs,15.11,0.0,S04,
+EX001083,Payroll,2026-08-30,2026-08-30,Payroll - Zara,476,Super & on-costs,15.11,0.0,S07,
+EX001084,Payroll,2026-08-30,2026-08-30,Payroll - Jess,477,Field wages,570.35,0.0,S03,
+EX001085,Payroll,2026-08-30,2026-08-30,Payroll - Priya,477,Field wages,362.48,0.0,S02,
+EX001086,Payroll,2026-08-30,2026-08-30,Payroll - Sam,477,Field wages,777.41,0.0,S01,
+EX001087,Payroll,2026-08-30,2026-08-30,Payroll - Jess,478,Super & on-costs,84.65,0.0,S03,
+EX001088,Payroll,2026-08-30,2026-08-30,Payroll - Priya,478,Super & on-costs,53.8,0.0,S02,
+EX001089,Payroll,2026-08-30,2026-08-30,Payroll - Sam,478,Super & on-costs,115.39,0.0,S01,
+EX001090,Bill,2026-08-31,2026-09-30,Perth Clean Supply Co,310,Weekly supplies,40.58,4.06,,2026-09-26
+EX001091,Bill,2026-08-31,2026-09-30,WA Hygiene Wholesale,311,Weekly supplies,9.42,0.94,,2026-09-26
+EX001092,Bill,2026-08-31,2026-09-30,SafeWorks Supplies,313,Weekly supplies,6.14,0.61,,2026-10-02
+EX001093,Bill,2026-08-31,2026-09-07,Fleet fuel card,314,Weekly supplies,35.79,3.58,,2026-09-07
+EX001094,Payroll,2026-08-31,2026-08-31,Payroll - Zara,475,Field wages,448.55,0.0,S07,
+EX001095,Payroll,2026-08-31,2026-08-31,Payroll - Zara,476,Super & on-costs,66.74,0.0,S07,
+EX001096,Payroll,2026-08-31,2026-08-31,Payroll - Priya,477,Field wages,317.17,0.0,S02,
+EX001097,Payroll,2026-08-31,2026-08-31,Payroll - Priya,478,Super & on-costs,47.08,0.0,S02,
+EX001098,Payroll,2026-08-31,2026-08-31,Payroll - Sam (admin),480,Director admin & quoting,1261.9,0.0,S01,
+EX001099,Payroll,2026-08-31,2026-08-31,Payroll - Sam (admin),481,Director super,145.12,0.0,S01,
+EX001100,Bill,2026-09-03,2026-09-03,Job management software,485,Monthly,95.34,9.53,,2026-09-03
+EX001101,Bill,2026-09-03,2026-09-03,Xero,485,Monthly,74.99,7.5,,2026-09-03
+EX001102,Bill,2026-09-05,2026-09-05,Coastal Business Insurance,433,Monthly,283.87,28.39,,2026-09-05
+EX001103,Bill,2026-09-06,2026-10-06,Perth Clean Supply Co,310,Weekly supplies,73.1,7.31,,2026-10-04
+EX001104,Bill,2026-09-06,2026-10-06,WA Hygiene Wholesale,311,Weekly supplies,37.54,3.75,,2026-10-06
+EX001105,Bill,2026-09-06,2026-10-06,SafeWorks Supplies,313,Weekly supplies,13.01,1.3,,2026-10-11
+EX001106,Bill,2026-09-06,2026-09-13,Fleet fuel card,314,Weekly supplies,148.24,14.82,,2026-09-13
+EX001107,Payroll,2026-09-06,2026-09-06,Payroll - Tom,475,Field wages,220.04,0.0,S04,
+EX001108,Payroll,2026-09-06,2026-09-06,Payroll - Zara,475,Field wages,93.1,0.0,S07,
+EX001109,Payroll,2026-09-06,2026-09-06,Payroll - Tom,476,Super & on-costs,32.74,0.0,S04,
+EX001110,Payroll,2026-09-06,2026-09-06,Payroll - Zara,476,Super & on-costs,13.85,0.0,S07,
+EX001111,Payroll,2026-09-06,2026-09-06,Payroll - Jess,477,Field wages,621.54,0.0,S03,
+EX001112,Payroll,2026-09-06,2026-09-06,Payroll - Priya,477,Field wages,505.96,0.0,S02,
+EX001113,Payroll,2026-09-06,2026-09-06,Payroll - Sam,477,Field wages,469.69,0.0,S01,
+EX001114,Payroll,2026-09-06,2026-09-06,Payroll - Jess,478,Super & on-costs,92.25,0.0,S03,
+EX001115,Payroll,2026-09-06,2026-09-06,Payroll - Priya,478,Super & on-costs,75.1,0.0,S02,
+EX001116,Payroll,2026-09-06,2026-09-06,Payroll - Sam,478,Super & on-costs,69.71,0.0,S01,
+EX001117,Bill,2026-09-12,2026-09-12,Telco,489,Monthly,126.4,12.64,,2026-09-12
+EX001118,Bill,2026-09-13,2026-10-13,Perth Clean Supply Co,310,Weekly supplies,80.71,8.07,,2026-10-11
+EX001119,Bill,2026-09-13,2026-10-13,WA Hygiene Wholesale,311,Weekly supplies,45.97,4.6,,2026-10-16
+EX001120,Bill,2026-09-13,2026-10-13,SafeWorks Supplies,313,Weekly supplies,14.07,1.41,,2026-10-14
+EX001121,Bill,2026-09-13,2026-09-20,Fleet fuel card,314,Weekly supplies,151.86,15.19,,2026-09-20
+EX001122,Payroll,2026-09-13,2026-09-13,Payroll - Tom,475,Field wages,110.02,0.0,S04,
+EX001123,Payroll,2026-09-13,2026-09-13,Payroll - Zara,475,Field wages,397.77,0.0,S07,
+EX001124,Payroll,2026-09-13,2026-09-13,Payroll - Tom,476,Super & on-costs,16.37,0.0,S04,
+EX001125,Payroll,2026-09-13,2026-09-13,Payroll - Zara,476,Super & on-costs,59.19,0.0,S07,
+EX001126,Payroll,2026-09-13,2026-09-13,Payroll - Jess,477,Field wages,643.47,0.0,S03,
+EX001127,Payroll,2026-09-13,2026-09-13,Payroll - Priya,477,Field wages,430.44,0.0,S02,
+EX001128,Payroll,2026-09-13,2026-09-13,Payroll - Sam,477,Field wages,493.98,0.0,S01,
+EX001129,Payroll,2026-09-13,2026-09-13,Payroll - Jess,478,Super & on-costs,95.51,0.0,S03,
+EX001130,Payroll,2026-09-13,2026-09-13,Payroll - Priya,478,Super & on-costs,63.89,0.0,S02,
+EX001131,Payroll,2026-09-13,2026-09-13,Payroll - Sam,478,Super & on-costs,73.32,0.0,S01,
+EX001132,Bill,2026-09-15,2026-09-15,Fleet Finance WA (van loan + rego),449,Monthly,520.62,0.0,,2026-09-15
+EX001133,Bill,2026-09-18,2026-09-18,Equipment Hire WA,312,Carpet extractor hire SPC-1119,58.92,5.89,,2026-09-18
+EX001134,Bill,2026-09-18,2026-09-18,Uniform reorder,461,Monthly,257.09,25.71,,2026-09-18
+EX001135,Bill,2026-09-20,2026-10-20,Perth Clean Supply Co,310,Weekly supplies,123.21,12.32,,
+EX001136,Bill,2026-09-20,2026-10-20,WA Hygiene Wholesale,311,Weekly supplies,49.56,4.96,,2026-10-15
+EX001137,Bill,2026-09-20,2026-10-20,SafeWorks Supplies,313,Weekly supplies,21.74,2.17,,
+EX001138,Bill,2026-09-20,2026-09-27,Fleet fuel card,314,Weekly supplies,213.3,21.33,,2026-09-27
+EX001139,Bill,2026-09-20,2026-09-20,Uniforms & sundries,461,Monthly,80.34,8.03,,2026-09-20
+EX001140,Payroll,2026-09-20,2026-09-20,Payroll - Tom,475,Field wages,236.97,0.0,S04,
+EX001141,Payroll,2026-09-20,2026-09-20,Payroll - Zara,475,Field wages,600.88,0.0,S07,
+EX001142,Payroll,2026-09-20,2026-09-20,Payroll - Tom,476,Super & on-costs,35.26,0.0,S04,
+EX001143,Payroll,2026-09-20,2026-09-20,Payroll - Zara,476,Super & on-costs,89.41,0.0,S07,
+EX001144,Payroll,2026-09-20,2026-09-20,Payroll - Jess,477,Field wages,584.97,0.0,S03,
+EX001145,Payroll,2026-09-20,2026-09-20,Payroll - Priya,477,Field wages,777.82,0.0,S02,
+EX001146,Payroll,2026-09-20,2026-09-20,Payroll - Sam,477,Field wages,720.73,0.0,S01,
+EX001147,Payroll,2026-09-20,2026-09-20,Payroll - Jess,478,Super & on-costs,86.83,0.0,S03,
+EX001148,Payroll,2026-09-20,2026-09-20,Payroll - Priya,478,Super & on-costs,115.45,0.0,S02,
+EX001149,Payroll,2026-09-20,2026-09-20,Payroll - Sam,478,Super & on-costs,106.97,0.0,S01,
+EX001150,Bill,2026-09-22,2026-09-22,Year-end accounts & tax return,412,Monthly,1553.28,155.33,,2026-09-22
+EX001151,Bill,2026-09-23,2026-09-23,Equipment Hire WA,312,Carpet extractor hire SPC-1121,58.92,5.89,,2026-09-23
+EX001152,Bill,2026-09-25,2026-09-25,Northbridge Bookkeeping,412,Monthly,385.64,38.56,,2026-09-25
+EX001153,Bill,2026-09-26,2026-09-26,Equipment Hire WA,312,Carpet extractor hire SPC-1123,58.92,5.89,,2026-09-26
+EX001154,Bill,2026-09-27,2026-10-27,Perth Clean Supply Co,310,Weekly supplies,133.8,13.38,,
+EX001155,Bill,2026-09-27,2026-10-27,WA Hygiene Wholesale,311,Weekly supplies,52.04,5.2,,
+EX001156,Bill,2026-09-27,2026-10-27,SafeWorks Supplies,313,Weekly supplies,21.96,2.2,,
+EX001157,Bill,2026-09-27,2026-10-04,Fleet fuel card,314,Weekly supplies,209.66,20.97,,2026-10-04
+EX001158,Payroll,2026-09-27,2026-09-27,Payroll - Tom,475,Field wages,177.72,0.0,S04,
+EX001159,Payroll,2026-09-27,2026-09-27,Payroll - Zara,475,Field wages,406.23,0.0,S07,
+EX001160,Payroll,2026-09-27,2026-09-27,Payroll - Tom,476,Super & on-costs,26.45,0.0,S04,
+EX001161,Payroll,2026-09-27,2026-09-27,Payroll - Zara,476,Super & on-costs,60.45,0.0,S07,
+EX001162,Payroll,2026-09-27,2026-09-27,Payroll - Jess,477,Field wages,577.67,0.0,S03,
+EX001163,Payroll,2026-09-27,2026-09-27,Payroll - Priya,477,Field wages,732.51,0.0,S02,
+EX001164,Payroll,2026-09-27,2026-09-27,Payroll - Sam,477,Field wages,987.96,0.0,S01,
+EX001165,Payroll,2026-09-27,2026-09-27,Payroll - Jess,478,Super & on-costs,85.74,0.0,S03,
+EX001166,Payroll,2026-09-27,2026-09-27,Payroll - Priya,478,Super & on-costs,108.72,0.0,S02,
+EX001167,Payroll,2026-09-27,2026-09-27,Payroll - Sam,478,Super & on-costs,146.64,0.0,S01,
+EX001168,Bill,2026-09-28,2026-09-28,Google Ads,400,Monthly,321.37,32.14,,2026-09-28
+EX001169,Bill,2026-09-28,2026-09-28,Bank & card terminal fees,404,Monthly,68.56,0.0,,2026-09-28
+EX001170,Bill,2026-09-29,2026-09-29,Equipment Hire WA,312,Carpet extractor hire SPC-1124,58.92,5.89,,2026-09-29
+EX001171,Bill,2026-09-30,2026-10-30,Perth Clean Supply Co,310,Weekly supplies,76.52,7.65,,
+EX001172,Bill,2026-09-30,2026-10-30,WA Hygiene Wholesale,311,Weekly supplies,30.94,3.09,,
+EX001173,Bill,2026-09-30,2026-10-30,SafeWorks Supplies,313,Weekly supplies,12.88,1.29,,
+EX001174,Bill,2026-09-30,2026-10-07,Fleet fuel card,314,Weekly supplies,122.93,12.29,,2026-10-07
+EX001175,Payroll,2026-09-30,2026-09-30,Payroll - Zara,475,Field wages,296.21,0.0,S07,
+EX001176,Payroll,2026-09-30,2026-09-30,Payroll - Zara,476,Super & on-costs,44.08,0.0,S07,
+EX001177,Payroll,2026-09-30,2026-09-30,Payroll - Jess,477,Field wages,329.05,0.0,S03,
+EX001178,Payroll,2026-09-30,2026-09-30,Payroll - Priya,477,Field wages,400.23,0.0,S02,
+EX001179,Payroll,2026-09-30,2026-09-30,Payroll - Sam,477,Field wages,761.22,0.0,S01,
+EX001180,Payroll,2026-09-30,2026-09-30,Payroll - Jess,478,Super & on-costs,48.84,0.0,S03,
+EX001181,Payroll,2026-09-30,2026-09-30,Payroll - Priya,478,Super & on-costs,59.41,0.0,S02,
+EX001182,Payroll,2026-09-30,2026-09-30,Payroll - Sam,478,Super & on-costs,112.98,0.0,S01,
+EX001183,Payroll,2026-09-30,2026-09-30,Payroll - Sam (admin),480,Director admin & quoting,1221.2,0.0,S01,
+EX001184,Payroll,2026-09-30,2026-09-30,Payroll - Sam (admin),481,Director super,140.44,0.0,S01,
+EX001185,Bill,2026-10-03,2026-10-03,Job management software,485,Monthly,95.34,9.53,,2026-10-03
+EX001186,Bill,2026-10-03,2026-10-03,Xero,485,Monthly,74.99,7.5,,2026-10-03
+EX001187,Bill,2026-10-04,2026-11-03,Perth Clean Supply Co,310,Weekly supplies,42.15,4.21,,
+EX001188,Bill,2026-10-04,2026-11-03,WA Hygiene Wholesale,311,Weekly supplies,17.05,1.71,,
+EX001189,Bill,2026-10-04,2026-11-03,SafeWorks Supplies,313,Weekly supplies,7.31,0.73,,
+EX001190,Bill,2026-10-04,2026-10-11,Fleet fuel card,314,Weekly supplies,77.44,7.74,,2026-10-11
+EX001191,Payroll,2026-10-04,2026-10-04,Payroll - Tom,475,Field wages,245.43,0.0,S04,
+EX001192,Payroll,2026-10-04,2026-10-04,Payroll - Tom,476,Super & on-costs,36.52,0.0,S04,
+EX001193,Payroll,2026-10-04,2026-10-04,Payroll - Jess,477,Field wages,329.05,0.0,S03,
+EX001194,Payroll,2026-10-04,2026-10-04,Payroll - Priya,477,Field wages,181.24,0.0,S02,
+EX001195,Payroll,2026-10-04,2026-10-04,Payroll - Sam,477,Field wages,210.55,0.0,S01,
+EX001196,Payroll,2026-10-04,2026-10-04,Payroll - Jess,478,Super & on-costs,48.84,0.0,S03,
+EX001197,Payroll,2026-10-04,2026-10-04,Payroll - Priya,478,Super & on-costs,26.9,0.0,S02,
+EX001198,Payroll,2026-10-04,2026-10-04,Payroll - Sam,478,Super & on-costs,31.25,0.0,S01,
+EX001199,Bill,2026-10-05,2026-10-05,Coastal Business Insurance,433,Monthly,283.87,28.39,,2026-10-05
+EX001200,Bill,2026-10-11,2026-11-10,Perth Clean Supply Co,310,Weekly supplies,84.3,8.43,,
+EX001201,Bill,2026-10-11,2026-11-10,WA Hygiene Wholesale,311,Weekly supplies,47.02,4.7,,
+EX001202,Bill,2026-10-11,2026-11-10,SafeWorks Supplies,313,Weekly supplies,14.98,1.5,,
+EX001203,Bill,2026-10-11,2026-10-18,Fleet fuel card,314,Weekly supplies,177.03,17.7,,2026-10-18
+EX001204,Payroll,2026-10-11,2026-10-11,Payroll - Tom,475,Field wages,372.38,0.0,S04,
+EX001205,Payroll,2026-10-11,2026-10-11,Payroll - Zara,475,Field wages,177.72,0.0,S07,
+EX001206,Payroll,2026-10-11,2026-10-11,Payroll - Tom,476,Super & on-costs,55.41,0.0,S04,
+EX001207,Payroll,2026-10-11,2026-10-11,Payroll - Zara,476,Super & on-costs,26.45,0.0,S07,
+EX001208,Payroll,2026-10-11,2026-10-11,Payroll - Jess,477,Field wages,658.1,0.0,S03,
+EX001209,Payroll,2026-10-11,2026-10-11,Payroll - Priya,477,Field wages,498.41,0.0,S02,
+EX001210,Payroll,2026-10-11,2026-10-11,Payroll - Sam,477,Field wages,485.88,0.0,S01,
+EX001211,Payroll,2026-10-11,2026-10-11,Payroll - Jess,478,Super & on-costs,97.68,0.0,S03,
+EX001212,Payroll,2026-10-11,2026-10-11,Payroll - Priya,478,Super & on-costs,73.98,0.0,S02,
+EX001213,Payroll,2026-10-11,2026-10-11,Payroll - Sam,478,Super & on-costs,72.12,0.0,S01,
+EX001214,Bill,2026-10-12,2026-10-12,Telco,489,Monthly,126.4,12.64,,2026-10-12
+EX001215,Bill,2026-10-14,2026-10-14,Van service & tyres,449,Monthly,578.46,57.85,,2026-10-14
+EX001216,Bill,2026-10-15,2026-10-15,Fleet Finance WA (van loan + rego),449,Monthly,520.62,0.0,,2026-10-15
+EX001217,Bill,2026-10-18,2026-11-17,Perth Clean Supply Co,310,Weekly supplies,111.55,11.16,,
+EX001218,Bill,2026-10-18,2026-11-17,WA Hygiene Wholesale,311,Weekly supplies,48.53,4.85,,
+EX001219,Bill,2026-10-18,2026-11-17,SafeWorks Supplies,313,Weekly supplies,19.2,1.92,,
+EX001220,Bill,2026-10-18,2026-10-25,Fleet fuel card,314,Weekly supplies,184.39,18.44,,
+EX001221,Payroll,2026-10-18,2026-10-18,Payroll - Tom,475,Field wages,431.62,0.0,S04,
+EX001222,Payroll,2026-10-18,2026-10-18,Payroll - Zara,475,Field wages,253.9,0.0,S07,
+EX001223,Payroll,2026-10-18,2026-10-18,Payroll - Tom,476,Super & on-costs,64.22,0.0,S04,
+EX001224,Payroll,2026-10-18,2026-10-18,Payroll - Zara,476,Super & on-costs,37.78,0.0,S07,
+EX001225,Payroll,2026-10-18,2026-10-18,Payroll - Jess,477,Field wages,563.04,0.0,S03,
+EX001226,Payroll,2026-10-18,2026-10-18,Payroll - Priya,477,Field wages,830.68,0.0,S02,
+EX001227,Payroll,2026-10-18,2026-10-18,Payroll - Sam,477,Field wages,599.26,0.0,S01,
+EX001228,Payroll,2026-10-18,2026-10-18,Payroll - Jess,478,Super & on-costs,83.57,0.0,S03,
+EX001229,Payroll,2026-10-18,2026-10-18,Payroll - Priya,478,Super & on-costs,123.29,0.0,S02,
+EX001230,Payroll,2026-10-18,2026-10-18,Payroll - Sam,478,Super & on-costs,88.94,0.0,S01,
