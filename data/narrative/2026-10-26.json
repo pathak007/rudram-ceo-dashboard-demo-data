@@ -1,6 +1,6 @@
 {
   "week_starting": "2026-10-26",
-  "generated": "2026-10-30 13:06",
+  "generated": "2026-10-30 13:26",
   "model": "claude-sonnet-5-5",
   "as_at": "2026-10-29",
   "facts": [
@@ -19,23 +19,23 @@
   "attempts": [
     {
       "attempt": 1,
-      "raw": "{\"points\": [{\"headline\": \"Sales bounced back in September\", \"body\": \", reaching $20.5K, which is up 14% on a slow August.\"}, {\"headline\": \"Profit is thin at 5.2%\", \"body\": \", and September kept only $0.2K even though it was your biggest sales month.\"}, {\"headline\": \"Your biggest service is losing money\", \"body\": \", with Regular / Recurring Clean at $31.0K and labour taking 73c of every dollar, so have a look at it on Where the Money's Made.\"}]}",
+      "raw": "{\"points\": [{\"headline\": \"Sales picked up in September\", \"body\": \", reaching $20.5K, which is up 14% on August.\"}, {\"headline\": \"Profit nearly vanished in September\", \"body\": \", with only $0.2K left after costs even though sales rose.\"}, {\"headline\": \"Regular cleans lose money\", \"body\": \", with your $31.0K biggest service sitting at -2% after overheads. See Where the Money's Made.\"}]}",
       "problems": []
     }
   ],
   "published": true,
   "points": [
     {
-      "headline": "Sales bounced back in September",
-      "body": ", reaching $20.5K, which is up 14% on a slow August."
+      "headline": "Sales picked up in September",
+      "body": ", reaching $20.5K, which is up 14% on August."
     },
     {
-      "headline": "Profit is thin at 5.2%",
-      "body": ", and September kept only $0.2K even though it was your biggest sales month."
+      "headline": "Profit nearly vanished in September",
+      "body": ", with only $0.2K left after costs even though sales rose."
     },
     {
-      "headline": "Your biggest service is losing money",
-      "body": ", with Regular / Recurring Clean at $31.0K and labour taking 73c of every dollar, so have a look at it on Where the Money's Made."
+      "headline": "Regular cleans lose money",
+      "body": ", with your $31.0K biggest service sitting at -2% after overheads. See Where the Money's Made."
     }
   ]
 }
