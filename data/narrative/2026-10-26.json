@@ -1,0 +1,37 @@
+{
+  "week_starting": "2026-10-26",
+  "generated": "2026-10-30 12:57",
+  "model": "claude-sonnet-5-5",
+  "as_at": "2026-10-29",
+  "facts": [
+    "Report period: June to September (the last 4 complete months).",
+    "Total revenue for the period: $77.3K. Net profit: $4.0K. Profit margin: 5.2%.",
+    "Revenue by month: June $20.2K, July $18.6K, August $17.9K, September $20.5K.",
+    "Net profit by month: June $1.7K, July $1.0K, August $1.2K, September $0.2K.",
+    "Best month for sales: September at $20.5K, up 14% on August.",
+    "Average clean value: $181 across 427 cleans. Quotes won: 43%.",
+    "Biggest service type: Regular / Recurring Clean, $31.0K revenue, margin after overheads -2%, labour takes 73c of every dollar.",
+    "Strongest service type: Carpet / Window / Deep Clean, margin after overheads 23% (keeps 23c of every dollar).",
+    "Cleans cost 13% more than quoted: $6.7K over quote in total, 287 of 427 cleans over budget.",
+    "Revenue per paid hour: $54 against a target of $57. 81% of paid time is spent cleaning. Labour is 66% of revenue.",
+    "Average monthly sales: $19.3K. Break-even: $18.0K a month. A 7% drop in sales would mean a loss."
+  ],
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw": "",
+      "problems": [
+        "call failed: 'ThinkingBlock' object has no attribute 'text'"
+      ]
+    },
+    {
+      "attempt": 2,
+      "raw": "",
+      "problems": [
+        "call failed: 'ThinkingBlock' object has no attribute 'text'"
+      ]
+    }
+  ],
+  "published": false,
+  "points": null
+}
