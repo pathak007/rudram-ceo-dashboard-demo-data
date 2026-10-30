@@ -633,16 +633,26 @@ ENQ-2630,2026-10-06,Google search,RES,SPC,200.0,Lost,2026-10-15,Went with anothe
 ENQ-2631,2026-10-09,Google search,RES,ADH,270.0,Lost,2026-10-18,Went with another cleaner,
 ENQ-2632,2026-10-10,Referral,RES,SPC,370.0,Won,2026-10-10,,C0279
 ENQ-2633,2026-10-10,Property manager,RES,SPC,230.0,Won,2026-10-11,,C0281
-ENQ-2634,2026-10-10,Facebook,RES,ADH,170.0,Open,,,
+ENQ-2634,2026-10-10,Facebook,RES,ADH,170.0,Lost,2026-10-20,Timing did not suit,
 ENQ-2635,2026-10-11,Google search,RES,ADH,190.0,Won,2026-10-14,,C0286
 ENQ-2636,2026-10-11,Google search,RES,SPC,360.0,Lost,2026-10-14,Went with another cleaner,
 ENQ-2637,2026-10-12,Google search,RES,SPC,190.0,Won,2026-10-12,,C0017
 ENQ-2638,2026-10-13,Referral,RES,SPC,370.0,Won,2026-10-16,,C0284
-ENQ-2639,2026-10-13,Referral,RES,SPC,270.0,Open,,,
-ENQ-2640,2026-10-14,Property manager,RES,SPC,180.0,Open,,,
-ENQ-2641,2026-10-16,NDIS coordinator,RES,ADH,240.0,Open,,,
-ENQ-2642,2026-10-18,Google search,RES,ADH,230.0,Open,,,
-ENQ-2643,2026-10-18,Google search,RES,SPC,265.0,Open,,,
-ENQ-2644,2026-10-19,Referral,RES,ADH,240.0,Open,,,
-ENQ-2645,2026-10-19,Referral,RES,SPC,175.0,Open,,,
-ENQ-2646,2026-10-19,Property manager,RES,SPC,155.0,Open,,,
+ENQ-2639,2026-10-13,Referral,RES,SPC,270.0,Lost,2026-10-25,Price too high,
+ENQ-2640,2026-10-14,Property manager,RES,SPC,180.0,Lost,2026-10-20,No response after quote,
+ENQ-2641,2026-10-16,NDIS coordinator,RES,ADH,240.0,Lost,2026-10-24,Timing did not suit,
+ENQ-2642,2026-10-18,Google search,RES,ADH,230.0,Lost,2026-10-21,Went with another cleaner,
+ENQ-2643,2026-10-18,Google search,RES,SPC,265.0,Lost,2026-10-26,Changed plans,
+ENQ-2644,2026-10-19,Referral,RES,ADH,240.0,Won,2026-10-20,,C0288
+ENQ-2645,2026-10-19,Referral,RES,SPC,175.0,Won,2026-10-22,,C0283
+ENQ-2646,2026-10-19,Property manager,RES,SPC,155.0,Lost,2026-10-26,Price too high,
+ENQ-2647,2026-10-22,Property manager,RES,ADH,260.0,Open,,,
+ENQ-2648,2026-10-23,Facebook,RES,SPC,145.0,Won,2026-10-26,,C0282
+ENQ-2649,2026-10-23,Property manager,RES,ADH,235.0,Lost,2026-10-29,Changed plans,
+ENQ-2650,2026-10-25,Referral,RES,ADH,180.0,Won,2026-10-27,,C0289
+ENQ-2651,2026-10-25,Facebook,RES,SPC,355.0,Won,2026-10-25,,C0300
+ENQ-2652,2026-10-26,Referral,COMM,ADH,255.0,Won,2026-10-26,,C0285
+ENQ-2653,2026-10-27,Google search,RES,SPC,255.0,Won,2026-10-29,,C0073
+ENQ-2654,2026-10-27,Facebook,RES,SPC,330.0,Open,,,
+ENQ-2655,2026-10-29,Google search,EOL,EOL,355.0,Won,2026-10-29,,C0047
+ENQ-2656,2026-10-29,Google search,RES,SPC,430.0,Open,,,

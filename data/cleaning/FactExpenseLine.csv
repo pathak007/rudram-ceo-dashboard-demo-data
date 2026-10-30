@@ -1133,9 +1133,9 @@ EX001131,Payroll,2026-09-13,2026-09-13,Payroll - Sam,478,Super & on-costs,73.32,
 EX001132,Bill,2026-09-15,2026-09-15,Fleet Finance WA (van loan + rego),449,Monthly,520.62,0.0,,2026-09-15
 EX001133,Bill,2026-09-18,2026-09-18,Equipment Hire WA,312,Carpet extractor hire SPC-1119,58.92,5.89,,2026-09-18
 EX001134,Bill,2026-09-18,2026-09-18,Uniform reorder,461,Monthly,257.09,25.71,,2026-09-18
-EX001135,Bill,2026-09-20,2026-10-20,Perth Clean Supply Co,310,Weekly supplies,123.21,12.32,,
+EX001135,Bill,2026-09-20,2026-10-20,Perth Clean Supply Co,310,Weekly supplies,123.21,12.32,,2026-10-21
 EX001136,Bill,2026-09-20,2026-10-20,WA Hygiene Wholesale,311,Weekly supplies,49.56,4.96,,2026-10-15
-EX001137,Bill,2026-09-20,2026-10-20,SafeWorks Supplies,313,Weekly supplies,21.74,2.17,,
+EX001137,Bill,2026-09-20,2026-10-20,SafeWorks Supplies,313,Weekly supplies,21.74,2.17,,2026-10-20
 EX001138,Bill,2026-09-20,2026-09-27,Fleet fuel card,314,Weekly supplies,213.3,21.33,,2026-09-27
 EX001139,Bill,2026-09-20,2026-09-20,Uniforms & sundries,461,Monthly,80.34,8.03,,2026-09-20
 EX001140,Payroll,2026-09-20,2026-09-20,Payroll - Tom,475,Field wages,236.97,0.0,S04,
@@ -1152,7 +1152,7 @@ EX001150,Bill,2026-09-22,2026-09-22,Year-end accounts & tax return,412,Monthly,1
 EX001151,Bill,2026-09-23,2026-09-23,Equipment Hire WA,312,Carpet extractor hire SPC-1121,58.92,5.89,,2026-09-23
 EX001152,Bill,2026-09-25,2026-09-25,Northbridge Bookkeeping,412,Monthly,385.64,38.56,,2026-09-25
 EX001153,Bill,2026-09-26,2026-09-26,Equipment Hire WA,312,Carpet extractor hire SPC-1123,58.92,5.89,,2026-09-26
-EX001154,Bill,2026-09-27,2026-10-27,Perth Clean Supply Co,310,Weekly supplies,133.8,13.38,,
+EX001154,Bill,2026-09-27,2026-10-27,Perth Clean Supply Co,310,Weekly supplies,133.8,13.38,,2026-10-24
 EX001155,Bill,2026-09-27,2026-10-27,WA Hygiene Wholesale,311,Weekly supplies,52.04,5.2,,
 EX001156,Bill,2026-09-27,2026-10-27,SafeWorks Supplies,313,Weekly supplies,21.96,2.2,,
 EX001157,Bill,2026-09-27,2026-10-04,Fleet fuel card,314,Weekly supplies,209.66,20.97,,2026-10-04
@@ -1169,8 +1169,8 @@ EX001167,Payroll,2026-09-27,2026-09-27,Payroll - Sam,478,Super & on-costs,146.64
 EX001168,Bill,2026-09-28,2026-09-28,Google Ads,400,Monthly,321.37,32.14,,2026-09-28
 EX001169,Bill,2026-09-28,2026-09-28,Bank & card terminal fees,404,Monthly,68.56,0.0,,2026-09-28
 EX001170,Bill,2026-09-29,2026-09-29,Equipment Hire WA,312,Carpet extractor hire SPC-1124,58.92,5.89,,2026-09-29
-EX001171,Bill,2026-09-30,2026-10-30,Perth Clean Supply Co,310,Weekly supplies,76.52,7.65,,
-EX001172,Bill,2026-09-30,2026-10-30,WA Hygiene Wholesale,311,Weekly supplies,30.94,3.09,,
+EX001171,Bill,2026-09-30,2026-10-30,Perth Clean Supply Co,310,Weekly supplies,76.52,7.65,,2026-10-29
+EX001172,Bill,2026-09-30,2026-10-30,WA Hygiene Wholesale,311,Weekly supplies,30.94,3.09,,2026-10-25
 EX001173,Bill,2026-09-30,2026-10-30,SafeWorks Supplies,313,Weekly supplies,12.88,1.29,,
 EX001174,Bill,2026-09-30,2026-10-07,Fleet fuel card,314,Weekly supplies,122.93,12.29,,2026-10-07
 EX001175,Payroll,2026-09-30,2026-09-30,Payroll - Zara,475,Field wages,296.21,0.0,S07,
@@ -1218,7 +1218,7 @@ EX001216,Bill,2026-10-15,2026-10-15,Fleet Finance WA (van loan + rego),449,Month
 EX001217,Bill,2026-10-18,2026-11-17,Perth Clean Supply Co,310,Weekly supplies,111.55,11.16,,
 EX001218,Bill,2026-10-18,2026-11-17,WA Hygiene Wholesale,311,Weekly supplies,48.53,4.85,,
 EX001219,Bill,2026-10-18,2026-11-17,SafeWorks Supplies,313,Weekly supplies,19.2,1.92,,
-EX001220,Bill,2026-10-18,2026-10-25,Fleet fuel card,314,Weekly supplies,184.39,18.44,,
+EX001220,Bill,2026-10-18,2026-10-25,Fleet fuel card,314,Weekly supplies,184.39,18.44,,2026-10-25
 EX001221,Payroll,2026-10-18,2026-10-18,Payroll - Tom,475,Field wages,431.62,0.0,S04,
 EX001222,Payroll,2026-10-18,2026-10-18,Payroll - Zara,475,Field wages,253.9,0.0,S07,
 EX001223,Payroll,2026-10-18,2026-10-18,Payroll - Tom,476,Super & on-costs,64.22,0.0,S04,
@@ -1229,3 +1229,24 @@ EX001227,Payroll,2026-10-18,2026-10-18,Payroll - Sam,477,Field wages,599.26,0.0,
 EX001228,Payroll,2026-10-18,2026-10-18,Payroll - Jess,478,Super & on-costs,83.57,0.0,S03,
 EX001229,Payroll,2026-10-18,2026-10-18,Payroll - Priya,478,Super & on-costs,123.29,0.0,S02,
 EX001230,Payroll,2026-10-18,2026-10-18,Payroll - Sam,478,Super & on-costs,88.94,0.0,S01,
+EX001231,Bill,2026-10-20,2026-10-20,Equipment Hire WA,312,Carpet extractor hire SPC-1129,58.92,5.89,,2026-10-20
+EX001232,Bill,2026-10-20,2026-10-20,Uniforms & sundries,461,Monthly,80.34,8.03,,2026-10-20
+EX001233,Bill,2026-10-24,2026-10-24,Equipment Hire WA,312,Carpet extractor hire SPC-1130,58.92,5.89,,2026-10-24
+EX001234,Bill,2026-10-24,2026-10-24,Equipment Hire WA,312,Carpet extractor hire SPC-1131,58.92,5.89,,2026-10-24
+EX001235,Bill,2026-10-25,2026-11-24,Perth Clean Supply Co,310,Weekly supplies,89.94,8.99,,
+EX001236,Bill,2026-10-25,2026-11-24,WA Hygiene Wholesale,311,Weekly supplies,48.58,4.86,,
+EX001237,Bill,2026-10-25,2026-11-24,SafeWorks Supplies,313,Weekly supplies,15.66,1.57,,
+EX001238,Bill,2026-10-25,2026-11-01,Fleet fuel card,314,Weekly supplies,169.66,16.97,,
+EX001239,Bill,2026-10-25,2026-10-25,Northbridge Bookkeeping,412,Monthly,385.64,38.56,,2026-10-25
+EX001240,Payroll,2026-10-25,2026-10-25,Payroll - Tom,475,Field wages,296.21,0.0,S04,
+EX001241,Payroll,2026-10-25,2026-10-25,Payroll - Zara,475,Field wages,287.75,0.0,S07,
+EX001242,Payroll,2026-10-25,2026-10-25,Payroll - Tom,476,Super & on-costs,44.08,0.0,S04,
+EX001243,Payroll,2026-10-25,2026-10-25,Payroll - Zara,476,Super & on-costs,42.82,0.0,S07,
+EX001244,Payroll,2026-10-25,2026-10-25,Payroll - Jess,477,Field wages,606.91,0.0,S03,
+EX001245,Payroll,2026-10-25,2026-10-25,Payroll - Priya,477,Field wages,513.51,0.0,S02,
+EX001246,Payroll,2026-10-25,2026-10-25,Payroll - Sam,477,Field wages,510.18,0.0,S01,
+EX001247,Payroll,2026-10-25,2026-10-25,Payroll - Jess,478,Super & on-costs,90.08,0.0,S03,
+EX001248,Payroll,2026-10-25,2026-10-25,Payroll - Priya,478,Super & on-costs,76.22,0.0,S02,
+EX001249,Payroll,2026-10-25,2026-10-25,Payroll - Sam,478,Super & on-costs,75.72,0.0,S01,
+EX001250,Bill,2026-10-28,2026-10-28,Google Ads,400,Monthly,321.37,32.14,,2026-10-28
+EX001251,Bill,2026-10-28,2026-10-28,Bank & card terminal fees,404,Monthly,68.56,0.0,,2026-10-28
