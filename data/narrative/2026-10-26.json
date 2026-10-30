@@ -1,6 +1,6 @@
 {
   "week_starting": "2026-10-26",
-  "generated": "2026-10-30 13:26",
+  "generated": "2026-10-30 13:29",
   "model": "claude-sonnet-5-5",
   "as_at": "2026-10-29",
   "facts": [
@@ -19,7 +19,7 @@
   "attempts": [
     {
       "attempt": 1,
-      "raw": "{\"points\": [{\"headline\": \"Sales picked up in September\", \"body\": \", reaching $20.5K, which is up 14% on August.\"}, {\"headline\": \"Profit nearly vanished in September\", \"body\": \", with only $0.2K left after costs even though sales rose.\"}, {\"headline\": \"Regular cleans lose money\", \"body\": \", with your $31.0K biggest service sitting at -2% after overheads. See Where the Money's Made.\"}]}",
+      "raw": "{\"points\": [{\"headline\": \"Sales picked up in September\", \"body\": \", reaching $20.5K, which is up 14% on August.\"}, {\"headline\": \"Profit nearly vanished in September\", \"body\": \", dropping to $0.2K from $1.2K in August, even though sales rose.\"}, {\"headline\": \"Regular cleans lose money\", \"body\": \", your biggest service, with a margin of -2% after overheads. See Where the Money's Made.\"}]}",
       "problems": []
     }
   ],
@@ -31,11 +31,11 @@
     },
     {
       "headline": "Profit nearly vanished in September",
-      "body": ", with only $0.2K left after costs even though sales rose."
+      "body": ", dropping to $0.2K from $1.2K in August, even though sales rose."
     },
     {
       "headline": "Regular cleans lose money",
-      "body": ", with your $31.0K biggest service sitting at -2% after overheads. See Where the Money's Made."
+      "body": ", your biggest service, with a margin of -2% after overheads. See Where the Money's Made."
     }
   ]
 }
