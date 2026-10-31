@@ -1,4 +1,4 @@
-Demo Cleaning Co Pty Ltd  |  Jun–Sep 2026 · example business · updated daily  |  window 2026-06-01 to 2026-09-30  |  as at 2026-10-29  |  generated 2026-10-30 13:47
+Demo Cleaning Co Pty Ltd  |  Jun–Sep 2026 · example business · updated daily  |  window 2026-06-01 to 2026-09-30  |  as at 2026-10-30  |  generated 2026-10-31 08:00
 
 ==============================================================================
 1. THE BIG PICTURE  ·  How's the business going?
@@ -82,34 +82,34 @@ Demo Cleaning Co Pty Ltd  |  Jun–Sep 2026 · example business · updated daily
 ==============================================================================
 5. CASH & MY PAY  ·  What's in the bank, what's owed, what can I take?
 ==============================================================================
-  Cash in bank $27.1K | Owed to you $6.6K | Overdue invoices 10 | Tax & BAS set aside $8.5K | Safe owner's pay $2.6K
-  Who owes you, and for how long:  0-30 days $4,017  31-60 days $686  61-90 days $1,283  90+ days $662
-  Tax set-aside: GST collected $6,399 - GST paid $1,475 + PAYGW $3,540 (since 2026-07-01)
-  Cash next 13 weeks (min $10,000; BAS $6,908 in the forecast): 28.2 29.3 30.4 24.5 25.6 26.7 27.8 28.9 29.9 31.0 32.1 33.2 30.2
+  Cash in bank $27.7K | Owed to you $6.4K | Overdue invoices 10 | Tax & BAS set aside $8.5K | Safe owner's pay $3.8K
+  Who owes you, and for how long:  0-30 days $3,757  31-60 days $686  61-90 days $533  90+ days $1,411
+  Tax set-aside: GST collected $6,432 - GST paid $1,475 + PAYGW $3,540 (since 2026-07-01)
+  Cash next 13 weeks (min $10,000; BAS $6,908 in the forecast): 28.9 30.1 31.3 25.6 26.8 28.0 29.2 30.4 31.6 32.8 34.0 35.2 32.7
   Sales vs break-even: average sales $19.3K/month, break-even $18.0K (fixed $13.5K/month, contribution margin 75%)
   Insight: You're only $1.3K a month above break-even. A 7% drop in sales and you're running at a loss.
-  Safe pay card: cash $27,102 - tax & BAS $8,463 - next 30 days' bills & wages $16,030 = $2,610
+  Safe pay card: cash $27,734 - tax & BAS $8,496 - next 30 days' bills & wages $15,485 = $3,752
 
 ==============================================================================
 6. CAN I AFFORD IT?  ·  What must be true before you hire, spend, discount or invest?
 ==============================================================================
-  Safe owner's pay $2,610  (cash $27,102, less tax & BAS $8,463, less next 30 days $16,030)
+  Safe owner's pay $3,752  (cash $27,734, less tax & BAS $8,496, less next 30 days $15,485)
   Can we hire another cleaner?  →  Not yet
-     ⊖ CashBufferWeeks            actual 7.246  >= 8.0
+     ⊖ CashBufferWeeks            actual 7.676  >= 8.0
      ⊖ LabourPctRevenue           actual 0.657  <= 0.55
      ✓ TimeOnCleansMin3M          actual 0.796  >= 0.75
   Can we buy the van ($38,000)?  →  Not yet
      ⊖ PaybackMonths              actual 34.545  <= 18.0
      ✓ RepaymentsPctRevenue       actual 0.033  <= 0.06
-     ⊖ CashLeftAfterDeposit       actual -4,989.882  >= 0.0
+     ⊖ CashLeftAfterDeposit       actual -3,847.629  >= 0.0
   Can we buy the carpet extractor ($6,500)?  →  Ready
      ✓ PaybackMonths              actual 10.833  <= 18.0
      ✓ RepaymentsPctRevenue       actual 0.012  <= 0.06
-     ✓ CashLeftAfterDeposit       actual 1,310.118  >= 0.0
+     ✓ CashLeftAfterDeposit       actual 2,452.371  >= 0.0
   Can we buy the ride-on scrubber ($12,500)?  →  Watch
      ⊖ PaybackMonths              actual 19.231  <= 18.0
      ✓ RepaymentsPctRevenue       actual 0.019  <= 0.06
-     ✓ CashLeftAfterDeposit       actual 1,360.118  >= 0.0
+     ✓ CashLeftAfterDeposit       actual 2,502.371  >= 0.0
   Is our pricing working?  →  Not yet
      ⊖ WorstServiceMargin         actual -0.019  >= 0.15
      ⊖ OverQuotePct               actual 0.131  <= 0.1
@@ -117,15 +117,15 @@ Demo Cleaning Co Pty Ltd  |  Jun–Sep 2026 · example business · updated daily
      (worst = Regular / Recurring Clean, best = Carpet / Window / Deep Clean)
   What if sales drop 10%? (sales $17.4K/month vs break-even $18.0K)  →  Watch
      ⊖ ScenarioSalesVsBreakEven   actual -585.012  >= 0.0
-     ✓ ScenarioCashWeeks          actual 85.244  >= 13.0
+     ✓ ScenarioCashWeeks          actual 91.141  >= 13.0
      ✓ LargestClientShare         actual 0.046  <= 0.2
   What if sales drop 20%? (sales $15.5K/month vs break-even $18.0K)  →  Watch
      ⊖ ScenarioSalesVsBreakEven   actual -2,516.928  >= 0.0
-     ✓ ScenarioCashWeeks          actual 19.813  >= 13.0
+     ✓ ScenarioCashWeeks          actual 21.184  >= 13.0
      ✓ LargestClientShare         actual 0.046  <= 0.2
   What if sales drop 30%? (sales $13.5K/month vs break-even $18.0K)  →  Not yet
      ⊖ ScenarioSalesVsBreakEven   actual -4,448.844  >= 0.0
-     ⊖ ScenarioCashWeeks          actual 11.209  >= 13.0
+     ⊖ ScenarioCashWeeks          actual 11.985  >= 13.0
      ✓ LargestClientShare         actual 0.046  <= 0.2
      (largest client: Cityside Dental 4.6% of sales)
 
