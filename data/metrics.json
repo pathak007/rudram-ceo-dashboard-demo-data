@@ -1,22 +1,17 @@
 {
-  "as_at": "2026-10-30",
-  "window_start": "2026-06-01",
-  "window_end": "2026-09-30",
-  "period_label": "Jun\u2013Sep 2026 \u00b7 example business \u00b7 updated daily",
-  "generated": "2026-10-31 08:00",
+  "as_at": "2026-10-31",
+  "window_start": "2026-07-01",
+  "window_end": "2026-10-31",
+  "period_label": "Jul\u2013Oct 2026 \u00b7 example business \u00b7 updated daily",
+  "generated": "2026-11-01 07:37",
   "big_picture": {
-    "revenue": 77276.64,
-    "net_profit": 4044.79,
-    "profit_margin": 0.0523,
-    "average_clean_value": 180.9757,
-    "cleans": 427,
-    "leads_won_pct": 0.4293,
+    "revenue": 75299.28,
+    "net_profit": 3117.83,
+    "profit_margin": 0.0414,
+    "average_clean_value": 177.5926,
+    "cleans": 424,
+    "leads_won_pct": 0.4302,
     "months": [
-      {
-        "month": "Jun",
-        "revenue": 20227.36,
-        "net_profit": 1681.91
-      },
       {
         "month": "Jul",
         "revenue": 18649.29,
@@ -31,122 +26,113 @@
         "month": "Sep",
         "revenue": 20460.91,
         "net_profit": 167.71
+      },
+      {
+        "month": "Oct",
+        "revenue": 18250.0,
+        "net_profit": 754.95
       }
     ],
     "revenue_by_client_type": {
-      "Residential": 43922.8,
-      "Commercial": 10800.72,
-      "End of Lease": 10565.0,
-      "NDIS / Support": 7242.79,
-      "Strata / Body Corporate": 4745.33
+      "Residential": 43876.35,
+      "Commercial": 11360.25,
+      "End of Lease": 8350.0,
+      "NDIS / Support": 7438.48,
+      "Strata / Body Corporate": 4274.2
     }
   },
   "money": {
-    "labour": 50788.06,
-    "consumables": 6929.92,
-    "overheads": 15513.87,
+    "labour": 49153.08,
+    "consumables": 6778.41,
+    "overheads": 16249.96,
     "by_service": {
       "Regular / Recurring Clean": {
-        "revenue": 31007.8,
-        "labour": 22687.75,
-        "consumables": 2692.81,
-        "overheads": 6225.0504,
-        "profit": -597.8104,
-        "margin": -0.0193,
-        "labour_share": 0.7317
+        "revenue": 32271.35,
+        "labour": 23711.23,
+        "consumables": 2829.55,
+        "overheads": 6964.3182,
+        "profit": -1233.7482,
+        "margin": -0.0382,
+        "labour_share": 0.7347
       },
       "Commercial Contract": {
-        "revenue": 14571.05,
-        "labour": 8004.77,
-        "consumables": 1137.92,
-        "overheads": 2925.2485,
-        "profit": 2503.1115,
-        "margin": 0.1718,
-        "labour_share": 0.5494
+        "revenue": 14174.45,
+        "labour": 7851.44,
+        "consumables": 1126.51,
+        "overheads": 3058.917,
+        "profit": 2137.583,
+        "margin": 0.1508,
+        "labour_share": 0.5539
       },
       "End of Lease": {
-        "revenue": 10565.0,
-        "labour": 7644.44,
-        "consumables": 931.16,
-        "overheads": 2121.0037,
-        "profit": -131.6037,
-        "margin": -0.0125,
-        "labour_share": 0.7236
+        "revenue": 8350.0,
+        "labour": 5768.01,
+        "consumables": 712.93,
+        "overheads": 1801.9716,
+        "profit": 67.0884,
+        "margin": 0.008,
+        "labour_share": 0.6908
       },
       "Carpet / Window / Deep Clean": {
-        "revenue": 7520.0,
-        "labour": 3229.87,
-        "consumables": 1075.08,
-        "overheads": 1509.6969,
-        "profit": 1705.3531,
-        "margin": 0.2268,
-        "labour_share": 0.4295
+        "revenue": 7620.0,
+        "labour": 3183.47,
+        "consumables": 1077.59,
+        "overheads": 1644.434,
+        "profit": 1714.506,
+        "margin": 0.225,
+        "labour_share": 0.4178
       },
       "NDIS / Support Clean": {
-        "revenue": 7242.79,
-        "labour": 4905.02,
-        "consumables": 605.02,
-        "overheads": 1454.0449,
-        "profit": 278.7051,
-        "margin": 0.0385,
-        "labour_share": 0.6772
+        "revenue": 7438.48,
+        "labour": 5096.77,
+        "consumables": 626.45,
+        "overheads": 1605.2611,
+        "profit": 109.9989,
+        "margin": 0.0148,
+        "labour_share": 0.6852
       },
       "One-off / Ad-hoc": {
-        "revenue": 6370.0,
-        "labour": 4316.21,
-        "consumables": 487.93,
-        "overheads": 1278.8257,
-        "profit": 287.0343,
-        "margin": 0.0451,
-        "labour_share": 0.6776
+        "revenue": 5445.0,
+        "labour": 3542.16,
+        "consumables": 405.38,
+        "overheads": 1175.0581,
+        "profit": 322.4019,
+        "margin": 0.0592,
+        "labour_share": 0.6505
       }
     }
   },
   "job_check": {
-    "quoted_cost": 51021.64,
-    "actual_cost": 57717.98,
-    "over_quote_pct": 0.1312,
-    "cleans_over_budget": 287,
-    "cleans": 427,
-    "revenue_per_paid_hour": 54.3054,
-    "overrun": 6696.34,
+    "quoted_cost": 50033.64,
+    "actual_cost": 55931.49,
+    "over_quote_pct": 0.1179,
+    "cleans_over_budget": 288,
+    "cleans": 424,
+    "revenue_per_paid_hour": 55.1239,
+    "overrun": 5897.85,
     "by_service": {
-      "One-off / Ad-hoc": 0.2308,
-      "Commercial Contract": 0.0918,
-      "End of Lease": 0.3628,
-      "NDIS / Support Clean": -0.0137,
-      "Regular / Recurring Clean": 0.1028,
-      "Carpet / Window / Deep Clean": 0.118
+      "One-off / Ad-hoc": 0.1936,
+      "Commercial Contract": 0.0989,
+      "End of Lease": 0.3004,
+      "NDIS / Support Clean": -0.0025,
+      "Regular / Recurring Clean": 0.1095,
+      "Carpet / Window / Deep Clean": 0.0885
     },
     "by_cleaner": {
-      "Sam": 0.1123,
-      "Priya": 0.0812,
-      "Jess": 0.0224,
-      "Tom": 0.3081,
-      "Mia": 0.3814,
-      "Zara": 0.4265
+      "Sam": 0.0839,
+      "Priya": 0.0824,
+      "Jess": 0.02,
+      "Tom": 0.296,
+      "Mia": 0.3591,
+      "Zara": 0.3888
     },
     "top5": [
-      {
-        "job": "EOL-1054 2-bed unit, Applecross",
-        "cleaner": "Mia",
-        "quoted": 230.08,
-        "actual": 443.77,
-        "cause": "return visit for re-clean"
-      },
       {
         "job": "EOL-1065 2-bed unit, East Perth",
         "cleaner": "Mia",
         "quoted": 238.13,
         "actual": 421.15,
         "cause": "site larger than quoted"
-      },
-      {
-        "job": "EOL-1059 4x2 house, Leeming",
-        "cleaner": "Mia",
-        "quoted": 325.3,
-        "actual": 490.01,
-        "cause": "extra areas requested"
       },
       {
         "job": "EOL-1071 3x2 house, Belmont",
@@ -156,92 +142,106 @@
         "cause": "2 extra hours"
       },
       {
-        "job": "EOL-1058 3x2 house, Joondanna",
-        "cleaner": "Mia",
-        "quoted": 277.69,
-        "actual": 437.43,
+        "job": "ADH-1079 One-off spring clean, Scarborough",
+        "cleaner": "Tom",
+        "quoted": 142.1,
+        "actual": 288.36,
+        "cause": "site larger than quoted"
+      },
+      {
+        "job": "EOL-1067 2-bed unit, West Perth",
+        "cleaner": "Zara",
+        "quoted": 228.28,
+        "actual": 372.76,
+        "cause": "extra areas requested"
+      },
+      {
+        "job": "ADH-1078 Office one-off clean, East Perth",
+        "cleaner": "Zara",
+        "quoted": 142.1,
+        "actual": 281.4,
         "cause": "2 extra hours"
       }
     ]
   },
   "team": {
-    "paid_hours": 1423.0,
-    "time_on_cleans": 0.8078,
-    "labour_pct_revenue": 0.6572,
-    "revenue_per_hour": 54.3054,
+    "paid_hours": 1366.0,
+    "time_on_cleans": 0.8018,
+    "labour_pct_revenue": 0.6528,
+    "revenue_per_hour": 55.1239,
     "target": 57.0,
-    "sites_per_cleaner_day": 2.3368,
+    "sites_per_cleaner_day": 2.3057,
     "cleaners": {
       "Sam": {
-        "hours": 380.5,
-        "revenue": 21619.6666,
-        "revenue_per_hour": 56.8191,
-        "over_quote": 0.1123
+        "hours": 350.25,
+        "revenue": 20552.1638,
+        "revenue_per_hour": 58.6786,
+        "over_quote": 0.0839
       },
       "Priya": {
-        "hours": 357.0,
-        "revenue": 18648.3089,
-        "revenue_per_hour": 52.2362,
-        "over_quote": 0.0812
+        "hours": 351.75,
+        "revenue": 18318.2846,
+        "revenue_per_hour": 52.0776,
+        "over_quote": 0.0824
       },
       "Jess": {
-        "hours": 365.25,
-        "revenue": 21010.2368,
-        "revenue_per_hour": 57.5229,
-        "over_quote": 0.0224
+        "hours": 358.75,
+        "revenue": 20928.88,
+        "revenue_per_hour": 58.3383,
+        "over_quote": 0.02
       },
       "Tom": {
-        "hours": 122.5,
-        "revenue": 6140.1458,
-        "revenue_per_hour": 50.1236,
-        "over_quote": 0.3081
+        "hours": 138.0,
+        "revenue": 7178.0688,
+        "revenue_per_hour": 52.015,
+        "over_quote": 0.296
       },
       "Mia": {
-        "hours": 91.75,
-        "revenue": 4691.4925,
-        "revenue_per_hour": 51.1334,
-        "over_quote": 0.3814
+        "hours": 33.75,
+        "revenue": 1713.2434,
+        "revenue_per_hour": 50.7628,
+        "over_quote": 0.3591
       },
       "Zara": {
-        "hours": 106.0,
-        "revenue": 5166.7894,
-        "revenue_per_hour": 48.7433,
-        "over_quote": 0.4265
+        "hours": 133.5,
+        "revenue": 6608.6394,
+        "revenue_per_hour": 49.5029,
+        "over_quote": 0.3888
       }
     }
   },
   "cash": {
-    "cash_in_bank": 27733.88,
-    "owed_to_you": 6387.21,
-    "overdue_invoices": 10,
-    "tax_set_aside": 8496.3764,
-    "next_30_days": 15485.133,
-    "safe_owner_pay": 3752.3706,
+    "cash_in_bank": 26384.94,
+    "owed_to_you": 11968.39,
+    "overdue_invoices": 11,
+    "tax_set_aside": 9101.8152,
+    "next_30_days": 16015.9022,
+    "safe_owner_pay": 1267.2226,
     "aged": {
-      "0-30 days": 3756.68,
-      "31-60 days": 685.8,
-      "61-90 days": 533.47,
+      "0-30 days": 7824.84,
+      "31-60 days": 1699.2,
+      "61-90 days": 1033.09,
       "90+ days": 1411.26
     },
     "forecast": [
-      28931.9562,
-      30130.0323,
-      31328.1085,
-      25617.8938,
-      26815.97,
-      28014.0461,
-      29212.1223,
-      30410.1984,
-      31608.2746,
-      32806.3507,
-      34004.4269,
-      35202.503,
-      32676.0339
+      27423.8962,
+      28462.8523,
+      29501.8085,
+      23632.4738,
+      24671.43,
+      25710.3861,
+      26749.3423,
+      27788.2984,
+      28827.2546,
+      29866.2107,
+      30905.1669,
+      31944.123,
+      28849.1788
     ],
     "minimum_cash": 10000.0,
-    "avg_monthly_sales": 19319.16,
-    "break_even": 17972.2557,
-    "drop_to_loss": 0.0697
+    "avg_monthly_sales": 18824.82,
+    "break_even": 17788.7582,
+    "drop_to_loss": 0.055
   },
   "afford": [
     {
@@ -249,8 +249,8 @@
       "status": "Not yet",
       "fails": 2,
       "metrics": {
-        "CashBufferWeeks": 7.6757,
-        "LabourPctRevenue": 0.6572,
+        "CashBufferWeeks": 7.0604,
+        "LabourPctRevenue": 0.6528,
         "TimeOnCleansMin3M": 0.7965
       }
     },
@@ -260,18 +260,18 @@
       "fails": 2,
       "metrics": {
         "PaybackMonths": 34.5455,
-        "RepaymentsPctRevenue": 0.0326,
-        "CashLeftAfterDeposit": -3847.6294
+        "RepaymentsPctRevenue": 0.0334,
+        "CashLeftAfterDeposit": -6332.7774
       }
     },
     {
       "card": "Can we buy the carpet extractor ($6,500)?",
-      "status": "Ready",
-      "fails": 0,
+      "status": "Watch",
+      "fails": 1,
       "metrics": {
         "PaybackMonths": 10.8333,
-        "RepaymentsPctRevenue": 0.0124,
-        "CashLeftAfterDeposit": 2452.3706
+        "RepaymentsPctRevenue": 0.0127,
+        "CashLeftAfterDeposit": -32.7774
       }
     },
     {
@@ -280,8 +280,8 @@
       "fails": 1,
       "metrics": {
         "PaybackMonths": 19.2308,
-        "RepaymentsPctRevenue": 0.0187,
-        "CashLeftAfterDeposit": 2502.3706
+        "RepaymentsPctRevenue": 0.0191,
+        "CashLeftAfterDeposit": 17.2226
       }
     },
     {
@@ -289,48 +289,48 @@
       "status": "Not yet",
       "fails": 2,
       "metrics": {
-        "WorstServiceMargin": -0.0193,
-        "OverQuotePct": 0.1312,
-        "BestServiceMargin": 0.2268
+        "WorstServiceMargin": -0.0382,
+        "OverQuotePct": 0.1179,
+        "BestServiceMargin": 0.225
       }
     },
     {
-      "card": "What if sales drop 10%? (sales $17.4K/month vs break-even $18.0K)",
+      "card": "What if sales drop 10%? (sales $16.9K/month vs break-even $17.8K)",
       "status": "Watch",
       "fails": 1,
       "metrics": {
-        "ScenarioSalesVsBreakEven": -585.0117,
-        "ScenarioCashWeeks": 91.1408,
-        "LargestClientShare": 0.0461
+        "ScenarioSalesVsBreakEven": -846.4202,
+        "ScenarioCashWeeks": 49.5618,
+        "LargestClientShare": 0.0476
       }
     },
     {
-      "card": "What if sales drop 20%? (sales $15.5K/month vs break-even $18.0K)",
+      "card": "What if sales drop 20%? (sales $15.1K/month vs break-even $17.8K)",
       "status": "Watch",
       "fails": 1,
       "metrics": {
-        "ScenarioSalesVsBreakEven": -2516.9277,
-        "ScenarioCashWeeks": 21.1839,
-        "LargestClientShare": 0.0461
+        "ScenarioSalesVsBreakEven": -2728.9022,
+        "ScenarioCashWeeks": 15.3725,
+        "LargestClientShare": 0.0476
       }
     },
     {
-      "card": "What if sales drop 30%? (sales $13.5K/month vs break-even $18.0K)",
+      "card": "What if sales drop 30%? (sales $13.2K/month vs break-even $17.8K)",
       "status": "Not yet",
       "fails": 2,
       "metrics": {
-        "ScenarioSalesVsBreakEven": -4448.8437,
-        "ScenarioCashWeeks": 11.9848,
-        "LargestClientShare": 0.0461
+        "ScenarioSalesVsBreakEven": -4611.3842,
+        "ScenarioCashWeeks": 9.0971,
+        "LargestClientShare": 0.0476
       }
     }
   ],
   "retention": {
     "recurring_contract_value": 13719.6,
-    "client_retention": 0.9375,
+    "client_retention": 0.9677,
     "contracts_won": 3,
-    "contracts_lost": 2,
-    "largest_client_share": 0.0461,
+    "contracts_lost": 1,
+    "largest_client_share": 0.0476,
     "largest_client": "Cityside Dental"
   }
 }

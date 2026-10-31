@@ -1,160 +1,160 @@
-Demo Cleaning Co Pty Ltd  |  Jun–Sep 2026 · example business · updated daily  |  window 2026-06-01 to 2026-09-30  |  as at 2026-10-30  |  generated 2026-10-31 08:00
+Demo Cleaning Co Pty Ltd  |  Jul–Oct 2026 · example business · updated daily  |  window 2026-07-01 to 2026-10-31  |  as at 2026-10-31  |  generated 2026-11-01 07:37
 
 ==============================================================================
 1. THE BIG PICTURE  ·  How's the business going?
 ==============================================================================
-  Total revenue      $77.3K
-  Net profit         $4.0K
-  Profit margin      5.2%
-  Average clean value $181   (427 cleans)
-  Leads won          43%   (85 won of 198 decided)
-  Revenue by month   Jun $20.2K  Jul $18.6K  Aug $17.9K  Sep $20.5K
+  Total revenue      $75.3K
+  Net profit         $3.1K
+  Profit margin      4.1%
+  Average clean value $178   (424 cleans)
+  Leads won          43%   (77 won of 179 decided)
+  Revenue by month   Jul $18.6K  Aug $17.9K  Sep $20.5K  Oct $18.3K
   Revenue by client type:
-     Residential                $43.9K · 57%
-     Commercial                 $10.8K · 14%
-     End of Lease               $10.6K · 14%
-     NDIS / Support             $7.2K · 9%
-     Strata / Body Corporate    $4.7K · 6%
-  Profit by month    Jun $1.7K  Jul $1.0K  Aug $1.2K  Sep $0.2K
+     Residential                $43.9K · 58%
+     Commercial                 $11.4K · 15%
+     End of Lease               $8.3K · 11%
+     NDIS / Support             $7.4K · 10%
+     Strata / Body Corporate    $4.3K · 6%
+  Profit by month    Jul $1.0K  Aug $1.2K  Sep $0.2K  Oct $0.8K
   What your numbers are saying:
    1. Sep was your best month for sales at $20.5K, up 14% on Aug.
-   2. But profit is drifting down, from $1.7K to $0.2K, while sales went up. Costs are growing faster than revenue.
+   2. But profit is drifting down, from $1.0K to $0.8K, while sales held flat. Costs are growing faster than revenue.
    3. Regular / Recurring Clean is your biggest service type and it loses money once overheads are counted. See Where the Money's Made.
 
 ==============================================================================
 2. WHERE THE MONEY'S MADE  ·  Which work is actually worth doing?
 ==============================================================================
-  Revenue $77.3K | Labour $50.8K | Consumables $6.9K | Overheads $15.5K | Net profit $4.0K
+  Revenue $75.3K | Labour $49.2K | Consumables $6.8K | Overheads $16.2K | Net profit $3.1K
   Service type                     Revenue    Labour   Consum.    Overh.    Profit  Margin   Lab%
-  Regular / Recurring Clean         $31.0K    $22.7K     $2.7K     $6.2K     $-598     -2%    73%
-  Commercial Contract               $14.6K     $8.0K     $1.1K     $2.9K    $2,503     17%    55%
-  End of Lease                      $10.6K     $7.6K     $0.9K     $2.1K     $-132     -1%    72%
-  Carpet / Window / Deep Clean       $7.5K     $3.2K     $1.1K     $1.5K    $1,705     23%    43%
-  NDIS / Support Clean               $7.2K     $4.9K     $0.6K     $1.5K      $279      4%    68%
-  One-off / Ad-hoc                   $6.4K     $4.3K     $0.5K     $1.3K      $287      5%    68%
-  Total                             $77.3K    $50.8K     $6.9K    $15.5K    $4,045      5%
+  Regular / Recurring Clean         $32.3K    $23.7K     $2.8K     $7.0K   $-1,234     -4%    73%
+  Commercial Contract               $14.2K     $7.9K     $1.1K     $3.1K    $2,138     15%    55%
+  End of Lease                       $8.3K     $5.8K     $0.7K     $1.8K       $67      1%    69%
+  Carpet / Window / Deep Clean       $7.6K     $3.2K     $1.1K     $1.6K    $1,715     23%    42%
+  NDIS / Support Clean               $7.4K     $5.1K     $0.6K     $1.6K      $110      1%    69%
+  One-off / Ad-hoc                   $5.4K     $3.5K     $0.4K     $1.2K      $322      6%    65%
+  Total                             $75.3K    $49.2K     $6.8K    $16.2K    $3,118      4%
   Insight: Every regular / recurring clean costs you money once overheads are counted. Carpet / Window / Deep Clean keeps 23c of every dollar.
   Insight: Regular / Recurring Clean labour eats 73c of every dollar before consumables or overheads. That's a pricing problem, not a busy-ness problem.
 
 ==============================================================================
 3. JOB CHECK  ·  Are we pricing our cleans right?
 ==============================================================================
-  Quoted cost $51.0K | Actual cost $57.7K | Over quote +13% | Cleans over budget 287 of 427 | Revenue per labour hour $54
+  Quoted cost $50.0K | Actual cost $55.9K | Over quote +12% | Cleans over budget 288 of 424 | Revenue per labour hour $55
   Quoted vs actual by service type:
-     End of Lease                      $6.3K vs    $8.6K  +36%
-     One-off / Ad-hoc                  $3.9K vs    $4.8K  +23%
-     Carpet / Window / Deep Clean      $3.9K vs    $4.3K  +12%
-     Regular / Recurring Clean        $23.0K vs   $25.4K  +10%
-     Commercial Contract               $8.4K vs    $9.1K  +9%
-     NDIS / Support Clean              $5.6K vs    $5.5K  -1%
+     End of Lease                      $5.0K vs    $6.5K  +30%
+     One-off / Ad-hoc                  $3.3K vs    $3.9K  +19%
+     Regular / Recurring Clean        $23.9K vs   $26.5K  +11%
+     Commercial Contract               $8.2K vs    $9.0K  +10%
+     Carpet / Window / Deep Clean      $3.9K vs    $4.3K  +9%
+     NDIS / Support Clean              $5.7K vs    $5.7K  -0%
   Over budget by cleaner:
-     Zara       (Casual     ) +43%
-     Mia        (Casual     ) +38%
-     Tom        (Casual     ) +31%
-     Sam        (Team Leader) +11%
+     Zara       (Casual     ) +39%
+     Mia        (Casual     ) +36%
+     Tom        (Casual     ) +30%
+     Sam        (Team Leader) +8%
      Priya      (Cleaner    ) +8%
      Jess       (Cleaner    ) +2%
   The 5 cleans that cost you most:
-     EOL-1054 2-bed unit, Applecross                  End of Lease       Mia       $230    $444 + 93%  return visit for re-clean
      EOL-1065 2-bed unit, East Perth                  End of Lease       Mia       $238    $421 + 77%  site larger than quoted
-     EOL-1059 4x2 house, Leeming                      End of Lease       Mia       $325    $490 + 51%  extra areas requested
      EOL-1071 3x2 house, Belmont                      End of Lease       Zara      $268    $428 + 60%  2 extra hours
-     EOL-1058 3x2 house, Joondanna                    End of Lease       Mia       $278    $437 + 58%  2 extra hours
-  Insight: Cleans ran $6.7K over quote, more than your whole profit for the period ($4.0K). Fix the quote and the profit follows.
+     ADH-1079 One-off spring clean, Scarborough       One-off / Ad-hoc   Tom       $142    $288 +103%  site larger than quoted
+     EOL-1067 2-bed unit, West Perth                  End of Lease       Zara      $228    $373 + 63%  extra areas requested
+     ADH-1078 Office one-off clean, East Perth        One-off / Ad-hoc   Zara      $142    $281 + 98%  2 extra hours
+  Insight: Cleans ran $5.9K over quote, more than your whole profit for the period ($3.1K). Fix the quote and the profit follows.
 
 ==============================================================================
 4. TEAM & TIME  ·  Are we getting the most from our people?
 ==============================================================================
-  Hours worked 1,423 | % time on cleans 80.8% | Labour % of revenue 66% | Revenue per hour $54 | Avg sites per cleaner per day 2.3
-     Jun: 388 hrs, 82.2% on cleans
+  Hours worked 1,366 | % time on cleans 80.2% | Labour % of revenue 65% | Revenue per hour $55 | Avg sites per cleaner per day 2.3
      Jul: 339 hrs, 80.2% on cleans
      Aug: 327 hrs, 79.6% on cleans
      Sep: 370 hrs, 80.9% on cleans
+     Oct: 331 hrs, 80.0% on cleans
   Who's earning what (target $57/hr):
-     Sam         380 hrs    $21.6K    $57/hr  over quote +11%
-     Jess        365 hrs    $21.0K    $58/hr  over quote +2%
-     Priya       357 hrs    $18.6K    $52/hr  over quote +8%
-     Tom         122 hrs     $6.1K    $50/hr  over quote +31%
-     Zara        106 hrs     $5.2K    $49/hr  over quote +43%
-     Mia          92 hrs     $4.7K    $51/hr  over quote +38%
-  Insight: Only 81% of paid time is spent cleaning. Revenue per hour is $54 against a $57 target. The gap is travel and pricing, not effort.
+     Jess        359 hrs    $20.9K    $58/hr  over quote +2%
+     Sam         350 hrs    $20.6K    $59/hr  over quote +8%
+     Priya       352 hrs    $18.3K    $52/hr  over quote +8%
+     Tom         138 hrs     $7.2K    $52/hr  over quote +30%
+     Zara        134 hrs     $6.6K    $50/hr  over quote +39%
+     Mia          34 hrs     $1.7K    $51/hr  over quote +36%
+  Insight: Only 80% of paid time is spent cleaning. Revenue per hour is $55 against a $57 target. The gap is travel and pricing, not effort.
 
 ==============================================================================
 5. CASH & MY PAY  ·  What's in the bank, what's owed, what can I take?
 ==============================================================================
-  Cash in bank $27.7K | Owed to you $6.4K | Overdue invoices 10 | Tax & BAS set aside $8.5K | Safe owner's pay $3.8K
-  Who owes you, and for how long:  0-30 days $3,757  31-60 days $686  61-90 days $533  90+ days $1,411
-  Tax set-aside: GST collected $6,432 - GST paid $1,475 + PAYGW $3,540 (since 2026-07-01)
-  Cash next 13 weeks (min $10,000; BAS $6,908 in the forecast): 28.9 30.1 31.3 25.6 26.8 28.0 29.2 30.4 31.6 32.8 34.0 35.2 32.7
-  Sales vs break-even: average sales $19.3K/month, break-even $18.0K (fixed $13.5K/month, contribution margin 75%)
-  Insight: You're only $1.3K a month above break-even. A 7% drop in sales and you're running at a loss.
-  Safe pay card: cash $27,734 - tax & BAS $8,496 - next 30 days' bills & wages $15,485 = $3,752
+  Cash in bank $26.4K | Owed to you $12.0K | Overdue invoices 11 | Tax & BAS set aside $9.1K | Safe owner's pay $1.3K
+  Who owes you, and for how long:  0-30 days $7,825  31-60 days $1,699  61-90 days $1,033  90+ days $1,411
+  Tax set-aside: GST collected $6,786 - GST paid $1,509 + PAYGW $3,824 (since 2026-07-01)
+  Cash next 13 weeks (min $10,000; BAS $6,908 in the forecast): 27.4 28.5 29.5 23.6 24.7 25.7 26.7 27.8 28.8 29.9 30.9 31.9 28.8
+  Sales vs break-even: average sales $18.8K/month, break-even $17.8K (fixed $13.4K/month, contribution margin 75%)
+  Insight: You're only $1.0K a month above break-even. A 6% drop in sales and you're running at a loss.
+  Safe pay card: cash $26,385 - tax & BAS $9,102 - next 30 days' bills & wages $16,016 = $1,267
 
 ==============================================================================
 6. CAN I AFFORD IT?  ·  What must be true before you hire, spend, discount or invest?
 ==============================================================================
-  Safe owner's pay $3,752  (cash $27,734, less tax & BAS $8,496, less next 30 days $15,485)
+  Safe owner's pay $1,267  (cash $26,385, less tax & BAS $9,102, less next 30 days $16,016)
   Can we hire another cleaner?  →  Not yet
-     ⊖ CashBufferWeeks            actual 7.676  >= 8.0
-     ⊖ LabourPctRevenue           actual 0.657  <= 0.55
+     ⊖ CashBufferWeeks            actual 7.060  >= 8.0
+     ⊖ LabourPctRevenue           actual 0.653  <= 0.55
      ✓ TimeOnCleansMin3M          actual 0.796  >= 0.75
   Can we buy the van ($38,000)?  →  Not yet
      ⊖ PaybackMonths              actual 34.545  <= 18.0
      ✓ RepaymentsPctRevenue       actual 0.033  <= 0.06
-     ⊖ CashLeftAfterDeposit       actual -3,847.629  >= 0.0
-  Can we buy the carpet extractor ($6,500)?  →  Ready
+     ⊖ CashLeftAfterDeposit       actual -6,332.777  >= 0.0
+  Can we buy the carpet extractor ($6,500)?  →  Watch
      ✓ PaybackMonths              actual 10.833  <= 18.0
-     ✓ RepaymentsPctRevenue       actual 0.012  <= 0.06
-     ✓ CashLeftAfterDeposit       actual 2,452.371  >= 0.0
+     ✓ RepaymentsPctRevenue       actual 0.013  <= 0.06
+     ⊖ CashLeftAfterDeposit       actual -32.777  >= 0.0
   Can we buy the ride-on scrubber ($12,500)?  →  Watch
      ⊖ PaybackMonths              actual 19.231  <= 18.0
      ✓ RepaymentsPctRevenue       actual 0.019  <= 0.06
-     ✓ CashLeftAfterDeposit       actual 2,502.371  >= 0.0
+     ✓ CashLeftAfterDeposit       actual 17.223  >= 0.0
   Is our pricing working?  →  Not yet
-     ⊖ WorstServiceMargin         actual -0.019  >= 0.15
-     ⊖ OverQuotePct               actual 0.131  <= 0.1
-     ✓ BestServiceMargin          actual 0.227  >= 0.15
+     ⊖ WorstServiceMargin         actual -0.038  >= 0.15
+     ⊖ OverQuotePct               actual 0.118  <= 0.1
+     ✓ BestServiceMargin          actual 0.225  >= 0.15
      (worst = Regular / Recurring Clean, best = Carpet / Window / Deep Clean)
-  What if sales drop 10%? (sales $17.4K/month vs break-even $18.0K)  →  Watch
-     ⊖ ScenarioSalesVsBreakEven   actual -585.012  >= 0.0
-     ✓ ScenarioCashWeeks          actual 91.141  >= 13.0
-     ✓ LargestClientShare         actual 0.046  <= 0.2
-  What if sales drop 20%? (sales $15.5K/month vs break-even $18.0K)  →  Watch
-     ⊖ ScenarioSalesVsBreakEven   actual -2,516.928  >= 0.0
-     ✓ ScenarioCashWeeks          actual 21.184  >= 13.0
-     ✓ LargestClientShare         actual 0.046  <= 0.2
-  What if sales drop 30%? (sales $13.5K/month vs break-even $18.0K)  →  Not yet
-     ⊖ ScenarioSalesVsBreakEven   actual -4,448.844  >= 0.0
-     ⊖ ScenarioCashWeeks          actual 11.985  >= 13.0
-     ✓ LargestClientShare         actual 0.046  <= 0.2
-     (largest client: Cityside Dental 4.6% of sales)
+  What if sales drop 10%? (sales $16.9K/month vs break-even $17.8K)  →  Watch
+     ⊖ ScenarioSalesVsBreakEven   actual -846.420  >= 0.0
+     ✓ ScenarioCashWeeks          actual 49.562  >= 13.0
+     ✓ LargestClientShare         actual 0.048  <= 0.2
+  What if sales drop 20%? (sales $15.1K/month vs break-even $17.8K)  →  Watch
+     ⊖ ScenarioSalesVsBreakEven   actual -2,728.902  >= 0.0
+     ✓ ScenarioCashWeeks          actual 15.373  >= 13.0
+     ✓ LargestClientShare         actual 0.048  <= 0.2
+  What if sales drop 30%? (sales $13.2K/month vs break-even $17.8K)  →  Not yet
+     ⊖ ScenarioSalesVsBreakEven   actual -4,611.384  >= 0.0
+     ⊖ ScenarioCashWeeks          actual 9.097  >= 13.0
+     ✓ LargestClientShare         actual 0.048  <= 0.2
+     (largest client: Cityside Dental 4.8% of sales)
 
 ==============================================================================
 7. CLIENTS & RETENTION (optional)  ·  Is our client base growing, holding or leaking?
 ==============================================================================
-  Recurring contract value $13.7K/month | Client retention 94% | Contracts won 3 vs lost 2 | Lead conversion 43% | Largest client 5%
-     Jun: won 0, lost 1
+  Recurring contract value $13.7K/month | Client retention 97% | Contracts won 3 vs lost 1 | Lead conversion 43% | Largest client 5%
      Jul: won 0, lost 1
      Aug: won 1, lost 0
      Sep: won 2, lost 0
+     Oct: won 0, lost 0
 
 ==============================================================================
 RECONCILIATION RULES
 ==============================================================================
   [PASS] R1 Invoice lines = job prices (every completed-month job billed once, same amount) 
-  [PASS] R2 Payroll labour = timesheet paid hours x loaded rate (window) ($50,788 vs $50,788)
+  [PASS] R2 Payroll labour = timesheet paid hours x loaded rate (window) ($49,153 vs $49,153)
   [PASS] R3 Timesheet on-site hours = job labour on-site hours (every staff-day) 
-  [PASS] R4 Job labour cost = accounting labour (period) ($50,788 vs $50,788)
-  [PASS] R5 Consumables bills = job consumables (period) ($6,930 vs $6,930)
-  [PASS] R4 Job labour cost = accounting labour (Jun) ($13,522 vs $13,522)
-  [PASS] R5 Consumables bills = job consumables (Jun) ($1,817 vs $1,817)
+  [PASS] R4 Job labour cost = accounting labour (period) ($49,153 vs $49,153)
+  [PASS] R5 Consumables bills = job consumables (period) ($6,778 vs $6,778)
   [PASS] R4 Job labour cost = accounting labour (Jul) ($12,168 vs $12,168)
   [PASS] R5 Consumables bills = job consumables (Jul) ($1,645 vs $1,645)
   [PASS] R4 Job labour cost = accounting labour (Aug) ($11,803 vs $11,803)
   [PASS] R5 Consumables bills = job consumables (Aug) ($1,599 vs $1,599)
   [PASS] R4 Job labour cost = accounting labour (Sep) ($13,295 vs $13,295)
   [PASS] R5 Consumables bills = job consumables (Sep) ($1,869 vs $1,869)
-  [PASS] R6 Job Check actual cost = screen 2 labour + consumables ($57,718 vs $57,718)
+  [PASS] R4 Job labour cost = accounting labour (Oct) ($11,887 vs $11,887)
+  [PASS] R5 Consumables bills = job consumables (Oct) ($1,666 vs $1,666)
+  [PASS] R6 Job Check actual cost = screen 2 labour + consumables ($55,931 vs $55,931)
   [PASS] R7 Net profit identical: tiles, by-service table total, sum of months 
   [PASS] R8 Aged receivable buckets sum to owed to you 
   [PASS] R9 Cash: receipts in bank = paid invoices; closing = opening + transactions 
