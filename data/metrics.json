@@ -1,9 +1,9 @@
 {
-  "as_at": "2026-10-31",
+  "as_at": "2026-11-01",
   "window_start": "2026-07-01",
   "window_end": "2026-10-31",
   "period_label": "Jul\u2013Oct 2026 \u00b7 example business \u00b7 updated daily",
-  "generated": "2026-11-01 07:37",
+  "generated": "2026-11-02 07:49",
   "big_picture": {
     "revenue": 75299.28,
     "net_profit": 3117.83,
@@ -211,32 +211,32 @@
     }
   },
   "cash": {
-    "cash_in_bank": 26384.94,
-    "owed_to_you": 11968.39,
+    "cash_in_bank": 26300.74,
+    "owed_to_you": 11851.79,
     "overdue_invoices": 11,
     "tax_set_aside": 9101.8152,
-    "next_30_days": 16015.9022,
-    "safe_owner_pay": 1267.2226,
+    "next_30_days": 16015.7538,
+    "safe_owner_pay": 1183.171,
     "aged": {
-      "0-30 days": 7824.84,
+      "0-30 days": 7708.24,
       "31-60 days": 1699.2,
       "61-90 days": 1033.09,
       "90+ days": 1411.26
     },
     "forecast": [
-      27423.8962,
-      28462.8523,
-      29501.8085,
-      23632.4738,
-      24671.43,
-      25710.3861,
-      26749.3423,
-      27788.2984,
-      28827.2546,
-      29866.2107,
-      30905.1669,
-      31944.123,
-      28849.1788
+      27340.0692,
+      28379.3985,
+      29418.7277,
+      23549.7661,
+      24589.0954,
+      25628.4246,
+      26667.7538,
+      27707.083,
+      28746.4123,
+      29785.7415,
+      30825.0707,
+      31864.4,
+      28769.8288
     ],
     "minimum_cash": 10000.0,
     "avg_monthly_sales": 18824.82,
@@ -249,7 +249,7 @@
       "status": "Not yet",
       "fails": 2,
       "metrics": {
-        "CashBufferWeeks": 7.0604,
+        "CashBufferWeeks": 7.0379,
         "LabourPctRevenue": 0.6528,
         "TimeOnCleansMin3M": 0.7965
       }
@@ -261,7 +261,7 @@
       "metrics": {
         "PaybackMonths": 34.5455,
         "RepaymentsPctRevenue": 0.0334,
-        "CashLeftAfterDeposit": -6332.7774
+        "CashLeftAfterDeposit": -6416.829
       }
     },
     {
@@ -271,17 +271,17 @@
       "metrics": {
         "PaybackMonths": 10.8333,
         "RepaymentsPctRevenue": 0.0127,
-        "CashLeftAfterDeposit": -32.7774
+        "CashLeftAfterDeposit": -116.829
       }
     },
     {
       "card": "Can we buy the ride-on scrubber ($12,500)?",
-      "status": "Watch",
-      "fails": 1,
+      "status": "Not yet",
+      "fails": 2,
       "metrics": {
         "PaybackMonths": 19.2308,
         "RepaymentsPctRevenue": 0.0191,
-        "CashLeftAfterDeposit": 17.2226
+        "CashLeftAfterDeposit": -66.829
       }
     },
     {
@@ -300,7 +300,7 @@
       "fails": 1,
       "metrics": {
         "ScenarioSalesVsBreakEven": -846.4202,
-        "ScenarioCashWeeks": 49.5618,
+        "ScenarioCashWeeks": 48.9888,
         "LargestClientShare": 0.0476
       }
     },
@@ -310,7 +310,7 @@
       "fails": 1,
       "metrics": {
         "ScenarioSalesVsBreakEven": -2728.9022,
-        "ScenarioCashWeeks": 15.3725,
+        "ScenarioCashWeeks": 15.1948,
         "LargestClientShare": 0.0476
       }
     },
@@ -320,7 +320,7 @@
       "fails": 2,
       "metrics": {
         "ScenarioSalesVsBreakEven": -4611.3842,
-        "ScenarioCashWeeks": 9.0971,
+        "ScenarioCashWeeks": 8.9919,
         "LargestClientShare": 0.0476
       }
     }

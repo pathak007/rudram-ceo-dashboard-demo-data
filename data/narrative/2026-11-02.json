@@ -1,0 +1,41 @@
+{
+  "week_starting": "2026-11-02",
+  "generated": "2026-11-02 07:49",
+  "model": "claude-sonnet-5-5",
+  "as_at": "2026-11-01",
+  "facts": [
+    "Report period: July to October (the last 4 complete months).",
+    "Total revenue for the period: $75.3K. Net profit: $3.1K. Profit margin: 4.1%.",
+    "Revenue by month: July $18.6K, August $17.9K, September $20.5K, October $18.2K.",
+    "Net profit by month: July $1.0K, August $1.2K, September $0.2K, October $0.8K.",
+    "Best month for sales: September at $20.5K, up 14% on August.",
+    "Average clean value: $178 across 424 cleans. Quotes won: 43%.",
+    "Biggest service type: Regular / Recurring Clean, $32.3K revenue, margin after overheads -4%, labour takes 73c of every dollar.",
+    "Strongest service type: Carpet / Window / Deep Clean, margin after overheads 22% (keeps 22c of every dollar).",
+    "Cleans cost 12% more than quoted: $5.9K over quote in total, 288 of 424 cleans over budget.",
+    "Revenue per paid hour: $55 against a target of $57. 80% of paid time is spent cleaning. Labour is 65% of revenue.",
+    "Average monthly sales: $18.8K. Break-even: $17.8K a month. A 6% drop in sales would mean a loss."
+  ],
+  "attempts": [
+    {
+      "attempt": 1,
+      "raw": "{\"points\": [{\"headline\": \"Sales picked up in September\", \"body\": \", up 14% on August to $20.5K, though October slipped back.\"}, {\"headline\": \"Only 4.1% of sales is profit\", \"body\": \", and a 6% drop in sales would push you into a loss.\"}, {\"headline\": \"Regular cleans lose money\", \"body\": \", with labour taking 73c in every dollar they earn. See Where the Money's Made.\"}]}",
+      "problems": []
+    }
+  ],
+  "published": true,
+  "points": [
+    {
+      "headline": "Sales picked up in September",
+      "body": ", up 14% on August to $20.5K, though October slipped back."
+    },
+    {
+      "headline": "Only 4.1% of sales is profit",
+      "body": ", and a 6% drop in sales would push you into a loss."
+    },
+    {
+      "headline": "Regular cleans lose money",
+      "body": ", with labour taking 73c in every dollar they earn. See Where the Money's Made."
+    }
+  ]
+}

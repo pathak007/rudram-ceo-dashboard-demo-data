@@ -4,8 +4,8 @@ PeriodLabel,Jul–Oct 2026 · example business · updated daily,text,Shown under
 SimStartDate,2025-07-01,date,First date of simulated history
 ReportStartDate,2026-07-01,date,First day of the rolling reporting window
 ReportEndDate,2026-10-31,date,Last day of the last complete month
-AsAtDate,2026-10-31,date,"Data is complete to this date (cash, receivables, tax as at)"
-DataLastUpdated,2026-11-01 07:37,datetime,When this dataset was generated (Perth time)
+AsAtDate,2026-11-01,date,"Data is complete to this date (cash, receivables, tax as at)"
+DataLastUpdated,2026-11-02 07:49,datetime,When this dataset was generated (Perth time)
 OpeningCash,24000,AUD,Bank balance at SimStartDate
 Industry,cleaning,text,Profile used to generate the data
 Seed,67,int,Simulation seed
