@@ -657,8 +657,10 @@ ENQ-2654,2026-10-27,Facebook,RES,SPC,330.0,Open,,,
 ENQ-2655,2026-10-29,Google search,EOL,EOL,355.0,Won,2026-10-29,,C0047
 ENQ-2656,2026-10-29,Google search,RES,SPC,430.0,Open,,,
 ENQ-2657,2026-10-31,Google search,RES,ADH,200.0,Open,,,
-ENQ-2658,2026-11-01,Google search,RES,SPC,200.0,Open,,,
+ENQ-2658,2026-11-01,Google search,RES,SPC,200.0,Lost,2026-11-03,Went with another cleaner,
 ENQ-2659,2026-11-01,Google search,RES,SPC,200.0,Open,,,
-ENQ-2660,2026-11-02,Google search,RES,SPC,370.0,Open,,,
+ENQ-2660,2026-11-02,Google search,RES,SPC,370.0,Won,2026-11-03,,C0299
 ENQ-2661,2026-11-02,Property manager,RES,REG,179.97,Open,,,
 ENQ-2662,2026-11-02,Property manager,EOL,EOL,495.0,Open,,,
+ENQ-2663,2026-11-03,Property manager,EOL,EOL,365.0,Open,,,
+ENQ-2664,2026-11-03,NDIS coordinator,RES,ADH,240.0,Open,,,

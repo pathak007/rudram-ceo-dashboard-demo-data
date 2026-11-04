@@ -1,9 +1,9 @@
 {
-  "as_at": "2026-11-02",
+  "as_at": "2026-11-03",
   "window_start": "2026-07-01",
   "window_end": "2026-10-31",
   "period_label": "Jul\u2013Oct 2026 \u00b7 example business \u00b7 updated daily",
-  "generated": "2026-11-03 10:35",
+  "generated": "2026-11-04 08:49",
   "big_picture": {
     "revenue": 75299.28,
     "net_profit": 3117.83,
@@ -211,32 +211,32 @@
     }
   },
   "cash": {
-    "cash_in_bank": 26697.65,
-    "owed_to_you": 11845.38,
+    "cash_in_bank": 27056.29,
+    "owed_to_you": 12291.57,
     "overdue_invoices": 11,
-    "tax_set_aside": 9137.3152,
-    "next_30_days": 15953.9868,
-    "safe_owner_pay": 1606.348,
+    "tax_set_aside": 9210.4952,
+    "next_30_days": 15983.6143,
+    "safe_owner_pay": 1862.1805,
     "aged": {
-      "0-30 days": 7701.83,
+      "0-30 days": 8148.02,
       "31-60 days": 1699.2,
       "61-90 days": 1033.09,
       "90+ days": 1411.26
     },
     "forecast": [
-      27758.27,
-      28818.89,
-      29879.51,
-      24031.8392,
-      25092.4592,
-      26153.0792,
-      27213.6992,
-      28274.3192,
-      29334.9392,
-      30395.5592,
-      31456.1792,
-      32516.7992,
-      29443.5188
+      28136.7685,
+      29217.2469,
+      30297.7254,
+      24469.913,
+      25550.3915,
+      26630.87,
+      27711.3484,
+      28791.8269,
+      29872.3054,
+      30952.7838,
+      32033.2623,
+      33113.7407,
+      30060.3188
     ],
     "minimum_cash": 10000.0,
     "avg_monthly_sales": 18824.82,
@@ -249,7 +249,7 @@
       "status": "Not yet",
       "fails": 2,
       "metrics": {
-        "CashBufferWeeks": 7.1718,
+        "CashBufferWeeks": 7.2547,
         "LabourPctRevenue": 0.6528,
         "TimeOnCleansMin3M": 0.7965
       }
@@ -261,7 +261,7 @@
       "metrics": {
         "PaybackMonths": 34.5455,
         "RepaymentsPctRevenue": 0.0334,
-        "CashLeftAfterDeposit": -5993.652
+        "CashLeftAfterDeposit": -5737.8195
       }
     },
     {
@@ -271,7 +271,7 @@
       "metrics": {
         "PaybackMonths": 10.8333,
         "RepaymentsPctRevenue": 0.0127,
-        "CashLeftAfterDeposit": 306.348
+        "CashLeftAfterDeposit": 562.1805
       }
     },
     {
@@ -281,7 +281,7 @@
       "metrics": {
         "PaybackMonths": 19.2308,
         "RepaymentsPctRevenue": 0.0191,
-        "CashLeftAfterDeposit": 356.348
+        "CashLeftAfterDeposit": 612.1805
       }
     },
     {
@@ -300,7 +300,7 @@
       "fails": 1,
       "metrics": {
         "ScenarioSalesVsBreakEven": -846.4202,
-        "ScenarioCashWeeks": 51.4482,
+        "ScenarioCashWeeks": 53.3908,
         "LargestClientShare": 0.0476
       }
     },
@@ -310,7 +310,7 @@
       "fails": 1,
       "metrics": {
         "ScenarioSalesVsBreakEven": -2728.9022,
-        "ScenarioCashWeeks": 15.9576,
+        "ScenarioCashWeeks": 16.5602,
         "LargestClientShare": 0.0476
       }
     },
@@ -320,7 +320,7 @@
       "fails": 2,
       "metrics": {
         "ScenarioSalesVsBreakEven": -4611.3842,
-        "ScenarioCashWeeks": 9.4433,
+        "ScenarioCashWeeks": 9.7999,
         "LargestClientShare": 0.0476
       }
     }
