@@ -1,9 +1,9 @@
 {
-  "as_at": "2026-11-03",
+  "as_at": "2026-11-04",
   "window_start": "2026-07-01",
   "window_end": "2026-10-31",
   "period_label": "Jul\u2013Oct 2026 \u00b7 example business \u00b7 updated daily",
-  "generated": "2026-11-04 08:49",
+  "generated": "2026-11-05 09:00",
   "big_picture": {
     "revenue": 75299.28,
     "net_profit": 3117.83,
@@ -211,32 +211,32 @@
     }
   },
   "cash": {
-    "cash_in_bank": 27056.29,
-    "owed_to_you": 12291.57,
+    "cash_in_bank": 25332.9,
+    "owed_to_you": 12490.76,
     "overdue_invoices": 11,
-    "tax_set_aside": 9210.4952,
-    "next_30_days": 15983.6143,
-    "safe_owner_pay": 1862.1805,
+    "tax_set_aside": 9264.1052,
+    "next_30_days": 15976.3385,
+    "safe_owner_pay": 92.4563,
     "aged": {
-      "0-30 days": 8148.02,
+      "0-30 days": 8347.21,
       "31-60 days": 1699.2,
       "61-90 days": 1033.09,
       "90+ days": 1411.26
     },
     "forecast": [
-      28136.7685,
-      29217.2469,
-      30297.7254,
-      24469.913,
-      25550.3915,
-      26630.87,
-      27711.3484,
-      28791.8269,
-      29872.3054,
-      30952.7838,
-      32033.2623,
-      33113.7407,
-      30060.3188
+      26346.0515,
+      27359.2031,
+      21464.0638,
+      22477.2154,
+      23490.3669,
+      24503.5184,
+      25516.67,
+      26529.8215,
+      27542.973,
+      28556.1246,
+      29569.2761,
+      30582.4277,
+      27461.6788
     ],
     "minimum_cash": 10000.0,
     "avg_monthly_sales": 18824.82,
@@ -249,7 +249,7 @@
       "status": "Not yet",
       "fails": 2,
       "metrics": {
-        "CashBufferWeeks": 7.2547,
+        "CashBufferWeeks": 6.7956,
         "LabourPctRevenue": 0.6528,
         "TimeOnCleansMin3M": 0.7965
       }
@@ -261,27 +261,27 @@
       "metrics": {
         "PaybackMonths": 34.5455,
         "RepaymentsPctRevenue": 0.0334,
-        "CashLeftAfterDeposit": -5737.8195
+        "CashLeftAfterDeposit": -7507.5437
       }
     },
     {
-      "card": "Can we buy the carpet extractor ($6,500)?",
-      "status": "Ready",
-      "fails": 0,
-      "metrics": {
-        "PaybackMonths": 10.8333,
-        "RepaymentsPctRevenue": 0.0127,
-        "CashLeftAfterDeposit": 562.1805
-      }
-    },
-    {
-      "card": "Can we buy the ride-on scrubber ($12,500)?",
+      "card": "Can we buy the extractor ($6,500)?",
       "status": "Watch",
       "fails": 1,
       "metrics": {
+        "PaybackMonths": 10.8333,
+        "RepaymentsPctRevenue": 0.0127,
+        "CashLeftAfterDeposit": -1207.5437
+      }
+    },
+    {
+      "card": "Can we buy the scrubber ($12,500)?",
+      "status": "Not yet",
+      "fails": 2,
+      "metrics": {
         "PaybackMonths": 19.2308,
         "RepaymentsPctRevenue": 0.0191,
-        "CashLeftAfterDeposit": 612.1805
+        "CashLeftAfterDeposit": -1157.5437
       }
     },
     {
@@ -300,17 +300,17 @@
       "fails": 1,
       "metrics": {
         "ScenarioSalesVsBreakEven": -846.4202,
-        "ScenarioCashWeeks": 53.3908,
+        "ScenarioCashWeeks": 41.2983,
         "LargestClientShare": 0.0476
       }
     },
     {
       "card": "What if sales drop 20%? (sales $15.1K/month vs break-even $17.8K)",
-      "status": "Watch",
-      "fails": 1,
+      "status": "Not yet",
+      "fails": 2,
       "metrics": {
         "ScenarioSalesVsBreakEven": -2728.9022,
-        "ScenarioCashWeeks": 16.5602,
+        "ScenarioCashWeeks": 12.8094,
         "LargestClientShare": 0.0476
       }
     },
@@ -320,7 +320,7 @@
       "fails": 2,
       "metrics": {
         "ScenarioSalesVsBreakEven": -4611.3842,
-        "ScenarioCashWeeks": 9.7999,
+        "ScenarioCashWeeks": 7.5803,
         "LargestClientShare": 0.0476
       }
     }
