@@ -1,9 +1,9 @@
 {
-  "as_at": "2026-11-05",
+  "as_at": "2026-11-06",
   "window_start": "2026-07-01",
   "window_end": "2026-10-31",
   "period_label": "Jul\u2013Oct 2026 \u00b7 example business \u00b7 updated daily",
-  "generated": "2026-11-06 09:04",
+  "generated": "2026-11-07 08:15",
   "big_picture": {
     "revenue": 75299.28,
     "net_profit": 3117.83,
@@ -211,32 +211,32 @@
     }
   },
   "cash": {
-    "cash_in_bank": 25220.96,
-    "owed_to_you": 12676.94,
-    "overdue_invoices": 11,
-    "tax_set_aside": 9270.8552,
-    "next_30_days": 16079.2813,
-    "safe_owner_pay": 0.0,
+    "cash_in_bank": 25898.87,
+    "owed_to_you": 12979.66,
+    "overdue_invoices": 12,
+    "tax_set_aside": 9361.7052,
+    "next_30_days": 16010.8022,
+    "safe_owner_pay": 526.3626,
     "aged": {
-      "0-30 days": 8533.39,
+      "0-30 days": 8836.11,
       "31-60 days": 1699.2,
       "61-90 days": 1033.09,
       "90+ days": 1411.26
     },
     "forecast": [
-      26225.5008,
-      27230.0415,
-      21326.2915,
-      22330.8323,
-      23335.373,
-      24339.9138,
-      25344.4546,
-      26348.9954,
-      27353.5361,
-      28358.0769,
-      29362.6177,
-      26233.258,
-      27237.7988
+      26904.9177,
+      27910.9654,
+      22008.7223,
+      23014.77,
+      24020.8177,
+      25026.8654,
+      26032.913,
+      27038.9607,
+      28045.0084,
+      29051.0561,
+      30057.1038,
+      26929.2511,
+      27935.2988
     ],
     "minimum_cash": 10000.0,
     "avg_monthly_sales": 18824.82,
@@ -249,7 +249,7 @@
       "status": "Not yet",
       "fails": 2,
       "metrics": {
-        "CashBufferWeeks": 6.7223,
+        "CashBufferWeeks": 6.9325,
         "LabourPctRevenue": 0.6528,
         "TimeOnCleansMin3M": 0.7965
       }
@@ -261,7 +261,7 @@
       "metrics": {
         "PaybackMonths": 34.5455,
         "RepaymentsPctRevenue": 0.0334,
-        "CashLeftAfterDeposit": -7600.0
+        "CashLeftAfterDeposit": -7073.6374
       }
     },
     {
@@ -271,7 +271,7 @@
       "metrics": {
         "PaybackMonths": 10.8333,
         "RepaymentsPctRevenue": 0.0127,
-        "CashLeftAfterDeposit": -1300.0
+        "CashLeftAfterDeposit": -773.6374
       }
     },
     {
@@ -281,7 +281,7 @@
       "metrics": {
         "PaybackMonths": 19.2308,
         "RepaymentsPctRevenue": 0.0191,
-        "CashLeftAfterDeposit": -1250.0
+        "CashLeftAfterDeposit": -723.6374
       }
     },
     {
@@ -300,17 +300,17 @@
       "fails": 1,
       "metrics": {
         "ScenarioSalesVsBreakEven": -846.4202,
-        "ScenarioCashWeeks": 40.4906,
+        "ScenarioCashWeeks": 44.4855,
         "LargestClientShare": 0.0476
       }
     },
     {
       "card": "What if sales drop 20%? (sales $15.1K/month vs break-even $17.8K)",
-      "status": "Not yet",
-      "fails": 2,
+      "status": "Watch",
+      "fails": 1,
       "metrics": {
         "ScenarioSalesVsBreakEven": -2728.9022,
-        "ScenarioCashWeeks": 12.5589,
+        "ScenarioCashWeeks": 13.798,
         "LargestClientShare": 0.0476
       }
     },
@@ -320,7 +320,7 @@
       "fails": 2,
       "metrics": {
         "ScenarioSalesVsBreakEven": -4611.3842,
-        "ScenarioCashWeeks": 7.432,
+        "ScenarioCashWeeks": 8.1653,
         "LargestClientShare": 0.0476
       }
     }
