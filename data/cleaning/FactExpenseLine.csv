@@ -1185,9 +1185,9 @@ EX001183,Payroll,2026-09-30,2026-09-30,Payroll - Sam (admin),480,Director admin 
 EX001184,Payroll,2026-09-30,2026-09-30,Payroll - Sam (admin),481,Director super,140.44,0.0,S01,
 EX001185,Bill,2026-10-03,2026-10-03,Job management software,485,Monthly,95.34,9.53,,2026-10-03
 EX001186,Bill,2026-10-03,2026-10-03,Xero,485,Monthly,74.99,7.5,,2026-10-03
-EX001187,Bill,2026-10-04,2026-11-03,Perth Clean Supply Co,310,Weekly supplies,42.15,4.21,,
+EX001187,Bill,2026-10-04,2026-11-03,Perth Clean Supply Co,310,Weekly supplies,42.15,4.21,,2026-11-08
 EX001188,Bill,2026-10-04,2026-11-03,WA Hygiene Wholesale,311,Weekly supplies,17.05,1.71,,2026-11-06
-EX001189,Bill,2026-10-04,2026-11-03,SafeWorks Supplies,313,Weekly supplies,7.31,0.73,,
+EX001189,Bill,2026-10-04,2026-11-03,SafeWorks Supplies,313,Weekly supplies,7.31,0.73,,2026-11-08
 EX001190,Bill,2026-10-04,2026-10-11,Fleet fuel card,314,Weekly supplies,77.44,7.74,,2026-10-11
 EX001191,Payroll,2026-10-04,2026-10-04,Payroll - Tom,475,Field wages,245.43,0.0,S04,
 EX001192,Payroll,2026-10-04,2026-10-04,Payroll - Tom,476,Super & on-costs,36.52,0.0,S04,
@@ -1269,3 +1269,17 @@ EX001267,Payroll,2026-10-31,2026-10-31,Payroll - Sam (admin),481,Director super,
 EX001268,Bill,2026-11-03,2026-11-03,Job management software,485,Monthly,95.34,9.53,,2026-11-03
 EX001269,Bill,2026-11-03,2026-11-03,Xero,485,Monthly,74.99,7.5,,2026-11-03
 EX001270,Bill,2026-11-05,2026-11-05,Coastal Business Insurance,433,Monthly,283.87,28.39,,2026-11-05
+EX001271,Bill,2026-11-08,2026-12-08,Perth Clean Supply Co,310,Weekly supplies,90.22,9.02,,
+EX001272,Bill,2026-11-08,2026-12-08,WA Hygiene Wholesale,311,Weekly supplies,44.4,4.44,,
+EX001273,Bill,2026-11-08,2026-12-08,SafeWorks Supplies,313,Weekly supplies,16.26,1.63,,
+EX001274,Bill,2026-11-08,2026-11-15,Fleet fuel card,314,Weekly supplies,171.28,17.13,,
+EX001275,Payroll,2026-11-08,2026-11-08,Payroll - Tom,475,Field wages,186.19,0.0,S04,
+EX001276,Payroll,2026-11-08,2026-11-08,Payroll - Zara,475,Field wages,338.53,0.0,S07,
+EX001277,Payroll,2026-11-08,2026-11-08,Payroll - Tom,476,Super & on-costs,27.71,0.0,S04,
+EX001278,Payroll,2026-11-08,2026-11-08,Payroll - Zara,476,Super & on-costs,50.37,0.0,S07,
+EX001279,Payroll,2026-11-08,2026-11-08,Payroll - Jess,477,Field wages,650.79,0.0,S03,
+EX001280,Payroll,2026-11-08,2026-11-08,Payroll - Priya,477,Field wages,558.82,0.0,S02,
+EX001281,Payroll,2026-11-08,2026-11-08,Payroll - Sam,477,Field wages,461.59,0.0,S01,
+EX001282,Payroll,2026-11-08,2026-11-08,Payroll - Jess,478,Super & on-costs,96.59,0.0,S03,
+EX001283,Payroll,2026-11-08,2026-11-08,Payroll - Priya,478,Super & on-costs,82.94,0.0,S02,
+EX001284,Payroll,2026-11-08,2026-11-08,Payroll - Sam,478,Super & on-costs,68.51,0.0,S01,
