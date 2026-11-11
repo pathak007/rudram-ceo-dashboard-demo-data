@@ -663,14 +663,14 @@ ENQ-2660,2026-11-02,Google search,RES,SPC,370.0,Won,2026-11-03,,C0299
 ENQ-2661,2026-11-02,Property manager,RES,REG,179.97,Won,2026-11-05,,C0293
 ENQ-2662,2026-11-02,Property manager,EOL,EOL,495.0,Lost,2026-11-06,Went with another cleaner,
 ENQ-2663,2026-11-03,Property manager,EOL,EOL,365.0,Won,2026-11-06,,C0295
-ENQ-2664,2026-11-03,NDIS coordinator,RES,ADH,240.0,Open,,,
+ENQ-2664,2026-11-03,NDIS coordinator,RES,ADH,240.0,Lost,2026-11-10,Went with another cleaner,
 ENQ-2665,2026-11-04,Website form,RES,SPC,185.0,Won,2026-11-05,,C0237
 ENQ-2666,2026-11-04,NDIS coordinator,RES,SPC,170.0,Lost,2026-11-09,No response after quote,
 ENQ-2667,2026-11-04,Google search,EOL,EOL,275.0,Open,,,
 ENQ-2668,2026-11-05,Referral,RES,ADH,240.0,Lost,2026-11-08,Price too high,
 ENQ-2669,2026-11-06,Referral,RES,ADH,295.0,Won,2026-11-09,,C0304
 ENQ-2670,2026-11-06,Referral,RES,SPC,225.0,Open,,,
-ENQ-2671,2026-11-06,Website form,RES,ADH,340.0,Open,,,
+ENQ-2671,2026-11-06,Website form,RES,ADH,340.0,Lost,2026-11-10,Price too high,
 ENQ-2672,2026-11-07,NDIS coordinator,RES,ADH,235.0,Open,,,
 ENQ-2673,2026-11-07,Google search,EOL,EOL,470.0,Open,,,
 ENQ-2674,2026-11-07,Google search,EOL,EOL,570.0,Open,,,
@@ -679,3 +679,4 @@ ENQ-2676,2026-11-08,Referral,RES,ADH,235.0,Open,,,
 ENQ-2677,2026-11-08,Referral,RES,SPC,170.0,Open,,,
 ENQ-2678,2026-11-08,Google search,EOL,EOL,485.0,Open,,,
 ENQ-2679,2026-11-09,Google search,RES,REG,185.0,Open,,,
+ENQ-2680,2026-11-10,Google search,EOL,EOL,440.0,Won,2026-11-10,,C0076

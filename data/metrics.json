@@ -1,9 +1,9 @@
 {
-  "as_at": "2026-11-09",
+  "as_at": "2026-11-10",
   "window_start": "2026-07-01",
   "window_end": "2026-10-31",
   "period_label": "Jul\u2013Oct 2026 \u00b7 example business \u00b7 updated daily",
-  "generated": "2026-11-10 10:52",
+  "generated": "2026-11-11 08:50",
   "big_picture": {
     "revenue": 75299.28,
     "net_profit": 3117.83,
@@ -211,32 +211,32 @@
     }
   },
   "cash": {
-    "cash_in_bank": 26938.33,
-    "owed_to_you": 12611.37,
+    "cash_in_bank": 27963.52,
+    "owed_to_you": 12116.01,
     "overdue_invoices": 12,
-    "tax_set_aside": 9598.3588,
-    "next_30_days": 16142.8418,
-    "safe_owner_pay": 1197.1294,
+    "tax_set_aside": 9651.2288,
+    "next_30_days": 16159.8923,
+    "safe_owner_pay": 2152.3989,
     "aged": {
-      "0-30 days": 8467.82,
+      "0-30 days": 7972.46,
       "31-60 days": 1513.02,
       "61-90 days": 1219.27,
       "90+ days": 1411.26
     },
     "forecast": [
-      27946.6938,
-      28955.0577,
-      23055.1307,
-      24063.4946,
-      25071.8584,
-      26080.2223,
-      27088.5861,
-      28096.95,
-      29105.3138,
-      30113.6777,
-      31122.0415,
-      28029.2397,
-      29037.6036
+      29041.6062,
+      30119.6923,
+      24289.4877,
+      25367.5738,
+      26445.66,
+      27523.7461,
+      28601.8323,
+      29679.9184,
+      30758.0046,
+      31836.0907,
+      32914.1769,
+      29891.0974,
+      30969.1835
     ],
     "minimum_cash": 10000.0,
     "avg_monthly_sales": 18824.82,
@@ -249,7 +249,7 @@
       "status": "Not yet",
       "fails": 2,
       "metrics": {
-        "CashBufferWeeks": 7.1518,
+        "CashBufferWeeks": 7.4161,
         "LabourPctRevenue": 0.6528,
         "TimeOnCleansMin3M": 0.7965
       }
@@ -261,27 +261,27 @@
       "metrics": {
         "PaybackMonths": 34.5455,
         "RepaymentsPctRevenue": 0.0334,
-        "CashLeftAfterDeposit": -6402.8706
+        "CashLeftAfterDeposit": -5447.6011
       }
     },
     {
       "card": "Can we buy the extractor ($6,500)?",
-      "status": "Watch",
-      "fails": 1,
+      "status": "Ready",
+      "fails": 0,
       "metrics": {
         "PaybackMonths": 10.8333,
         "RepaymentsPctRevenue": 0.0127,
-        "CashLeftAfterDeposit": -102.8706
+        "CashLeftAfterDeposit": 852.3989
       }
     },
     {
       "card": "Can we buy the scrubber ($12,500)?",
-      "status": "Not yet",
-      "fails": 2,
+      "status": "Watch",
+      "fails": 1,
       "metrics": {
         "PaybackMonths": 19.2308,
         "RepaymentsPctRevenue": 0.0191,
-        "CashLeftAfterDeposit": -52.8706
+        "CashLeftAfterDeposit": 902.3989
       }
     },
     {
@@ -300,7 +300,7 @@
       "fails": 1,
       "metrics": {
         "ScenarioSalesVsBreakEven": -846.4202,
-        "ScenarioCashWeeks": 49.9486,
+        "ScenarioCashWeeks": 56.5653,
         "LargestClientShare": 0.0476
       }
     },
@@ -310,7 +310,7 @@
       "fails": 1,
       "metrics": {
         "ScenarioSalesVsBreakEven": -2728.9022,
-        "ScenarioCashWeeks": 15.4925,
+        "ScenarioCashWeeks": 17.5448,
         "LargestClientShare": 0.0476
       }
     },
@@ -320,7 +320,7 @@
       "fails": 2,
       "metrics": {
         "ScenarioSalesVsBreakEven": -4611.3842,
-        "ScenarioCashWeeks": 9.1681,
+        "ScenarioCashWeeks": 10.3826,
         "LargestClientShare": 0.0476
       }
     }
