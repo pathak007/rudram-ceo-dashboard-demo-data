@@ -1288,7 +1288,7 @@ EX001286,Bill,2026-11-12,2026-11-12,Telco,489,Monthly,126.4,12.64,,2026-11-12
 EX001287,Bill,2026-11-15,2026-12-15,Perth Clean Supply Co,310,Weekly supplies,104.61,10.46,,
 EX001288,Bill,2026-11-15,2026-12-15,WA Hygiene Wholesale,311,Weekly supplies,44.69,4.47,,
 EX001289,Bill,2026-11-15,2026-12-15,SafeWorks Supplies,313,Weekly supplies,18.04,1.8,,
-EX001290,Bill,2026-11-15,2026-11-22,Fleet fuel card,314,Weekly supplies,197.36,19.74,,
+EX001290,Bill,2026-11-15,2026-11-22,Fleet fuel card,314,Weekly supplies,197.36,19.74,,2026-11-22
 EX001291,Bill,2026-11-15,2026-11-15,Fleet Finance WA (van loan + rego),449,Monthly,520.62,0.0,,2026-11-15
 EX001292,Payroll,2026-11-15,2026-11-15,Payroll - Tom,475,Field wages,313.14,0.0,S04,
 EX001293,Payroll,2026-11-15,2026-11-15,Payroll - Zara,475,Field wages,279.28,0.0,S07,
@@ -1302,3 +1302,17 @@ EX001300,Payroll,2026-11-15,2026-11-15,Payroll - Priya,478,Super & on-costs,104.
 EX001301,Payroll,2026-11-15,2026-11-15,Payroll - Sam,478,Super & on-costs,99.76,0.0,S01,
 EX001302,Bill,2026-11-18,2026-11-18,Equipment Hire WA,312,Carpet extractor hire SPC-1138,58.92,5.89,,2026-11-18
 EX001303,Bill,2026-11-20,2026-11-20,Uniforms & sundries,461,Monthly,80.34,8.03,,2026-11-20
+EX001304,Bill,2026-11-22,2026-12-22,Perth Clean Supply Co,310,Weekly supplies,69.68,6.97,,
+EX001305,Bill,2026-11-22,2026-12-22,WA Hygiene Wholesale,311,Weekly supplies,42.1,4.21,,
+EX001306,Bill,2026-11-22,2026-12-22,SafeWorks Supplies,313,Weekly supplies,12.43,1.24,,
+EX001307,Bill,2026-11-22,2026-11-29,Fleet fuel card,314,Weekly supplies,156.42,15.64,,
+EX001308,Payroll,2026-11-22,2026-11-22,Payroll - Tom,475,Field wages,101.56,0.0,S04,
+EX001309,Payroll,2026-11-22,2026-11-22,Payroll - Zara,475,Field wages,93.1,0.0,S07,
+EX001310,Payroll,2026-11-22,2026-11-22,Payroll - Tom,476,Super & on-costs,15.11,0.0,S04,
+EX001311,Payroll,2026-11-22,2026-11-22,Payroll - Zara,476,Super & on-costs,13.85,0.0,S07,
+EX001312,Payroll,2026-11-22,2026-11-22,Payroll - Jess,477,Field wages,570.35,0.0,S03,
+EX001313,Payroll,2026-11-22,2026-11-22,Payroll - Priya,477,Field wages,377.59,0.0,S02,
+EX001314,Payroll,2026-11-22,2026-11-22,Payroll - Sam,477,Field wages,720.73,0.0,S01,
+EX001315,Payroll,2026-11-22,2026-11-22,Payroll - Jess,478,Super & on-costs,84.65,0.0,S03,
+EX001316,Payroll,2026-11-22,2026-11-22,Payroll - Priya,478,Super & on-costs,56.04,0.0,S02,
+EX001317,Payroll,2026-11-22,2026-11-22,Payroll - Sam,478,Super & on-costs,106.97,0.0,S01,
