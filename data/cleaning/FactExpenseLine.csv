@@ -1234,7 +1234,7 @@ EX001232,Bill,2026-10-20,2026-10-20,Uniforms & sundries,461,Monthly,80.34,8.03,,
 EX001233,Bill,2026-10-24,2026-10-24,Equipment Hire WA,312,Carpet extractor hire SPC-1130,58.92,5.89,,2026-10-24
 EX001234,Bill,2026-10-24,2026-10-24,Equipment Hire WA,312,Carpet extractor hire SPC-1131,58.92,5.89,,2026-10-24
 EX001235,Bill,2026-10-25,2026-11-24,Perth Clean Supply Co,310,Weekly supplies,89.94,8.99,,2026-11-24
-EX001236,Bill,2026-10-25,2026-11-24,WA Hygiene Wholesale,311,Weekly supplies,48.58,4.86,,
+EX001236,Bill,2026-10-25,2026-11-24,WA Hygiene Wholesale,311,Weekly supplies,48.58,4.86,,2026-11-25
 EX001237,Bill,2026-10-25,2026-11-24,SafeWorks Supplies,313,Weekly supplies,15.66,1.57,,
 EX001238,Bill,2026-10-25,2026-11-01,Fleet fuel card,314,Weekly supplies,169.66,16.97,,2026-11-01
 EX001239,Bill,2026-10-25,2026-10-25,Northbridge Bookkeeping,412,Monthly,385.64,38.56,,2026-10-25
@@ -1316,3 +1316,4 @@ EX001314,Payroll,2026-11-22,2026-11-22,Payroll - Sam,477,Field wages,720.73,0.0,
 EX001315,Payroll,2026-11-22,2026-11-22,Payroll - Jess,478,Super & on-costs,84.65,0.0,S03,
 EX001316,Payroll,2026-11-22,2026-11-22,Payroll - Priya,478,Super & on-costs,56.04,0.0,S02,
 EX001317,Payroll,2026-11-22,2026-11-22,Payroll - Sam,478,Super & on-costs,106.97,0.0,S01,
+EX001318,Bill,2026-11-25,2026-11-25,Northbridge Bookkeeping,412,Monthly,385.64,38.56,,2026-11-25
