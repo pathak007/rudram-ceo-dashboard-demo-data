@@ -23,7 +23,7 @@ K0021,C0021,ST0021,REG,Residential regular,Fortnightly,177.82,385.28,2022-06-15,
 K0022,C0022,ST0022,REG,Residential regular,Weekly,162.83,705.6,2024-04-25,,True,,False
 K0023,C0023,ST0023,REG,Residential regular,Fortnightly,169.25,366.71,2024-11-17,,True,,False
 K0024,C0024,ST0024,REG,Residential regular,Fortnightly,184.25,399.21,2024-03-21,2025-11-10,False,Went with a cheaper cleaner,False
-K0025,C0025,ST0025,COM,Commercial,Weekly,184.25,798.42,2022-03-01,,True,,False
+K0025,C0025,ST0025,COM,Commercial,Weekly,184.25,798.42,2022-03-01,2026-11-27,False,Went with another provider,False
 K0026,C0026,ST0026,COM,Commercial,Twice weekly,119.98,1039.83,2021-06-01,2026-01-30,False,Went with another provider,False
 K0027,C0027,ST0027,COM,Commercial,Weekly,199.25,863.42,2026-03-02,,True,,False
 K0028,C0028,ST0028,COM,Commercial,Weekly,176.75,765.92,2026-05-08,,True,,False
